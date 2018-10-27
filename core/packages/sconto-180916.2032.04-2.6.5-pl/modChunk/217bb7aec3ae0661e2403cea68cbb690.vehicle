@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'c1d2c3c99777709fd7bd71c837a145e0',
+  'package' => 'modx',
+  'class' => 'modChunk',
+  'signature' => '217bb7aec3ae0661e2403cea68cbb690',
+  'native_key' => 9,
+  'object' => '{"id":9,"source":1,"property_preprocess":0,"name":"tpl.msMiniCart","description":"","editor_type":0,"category":11,"cache_type":0,"snippet":"<div id=\\"msMiniCart\\" class=\\"{$total_count > 0 ? \'full\' : \'\'}\\">\\r\\n    <div class=\\"empty\\">\\r\\n        <h5><i class=\\"glyphicon glyphicon-shopping-cart\\"><\\/i> {\'ms2_minicart\' | lexicon}<\\/h5>\\r\\n        {\'ms2_minicart_is_empty\' | lexicon}\\r\\n    <\\/div>\\r\\n    <div class=\\"not_empty\\">\\r\\n        <h5><i class=\\"glyphicon glyphicon-shopping-cart\\"><\\/i> {\'ms2_minicart\' | lexicon}<\\/h5>\\r\\n        {\'ms2_minicart_goods\' | lexicon} <strong class=\\"ms2_total_count\\">{$total_count}<\\/strong> {\'ms2_frontend_count_unit\' | lexicon},\\r\\n        {\'ms2_minicart_cost\' | lexicon} <strong class=\\"ms2_total_cost\\">{$total_cost}<\\/strong> {\'ms2_frontend_currency\' | lexicon}\\r\\n    <\\/div>\\r\\n<\\/div>","locked":0,"properties":null,"static":0,"static_file":"core\\/components\\/minishop2\\/elements\\/chunks\\/chunk.ms_minicart.tpl","content":"<div id=\\"msMiniCart\\" class=\\"{$total_count > 0 ? \'full\' : \'\'}\\">\\r\\n    <div class=\\"empty\\">\\r\\n        <h5><i class=\\"glyphicon glyphicon-shopping-cart\\"><\\/i> {\'ms2_minicart\' | lexicon}<\\/h5>\\r\\n        {\'ms2_minicart_is_empty\' | lexicon}\\r\\n    <\\/div>\\r\\n    <div class=\\"not_empty\\">\\r\\n        <h5><i class=\\"glyphicon glyphicon-shopping-cart\\"><\\/i> {\'ms2_minicart\' | lexicon}<\\/h5>\\r\\n        {\'ms2_minicart_goods\' | lexicon} <strong class=\\"ms2_total_count\\">{$total_count}<\\/strong> {\'ms2_frontend_count_unit\' | lexicon},\\r\\n        {\'ms2_minicart_cost\' | lexicon} <strong class=\\"ms2_total_cost\\">{$total_cost}<\\/strong> {\'ms2_frontend_currency\' | lexicon}\\r\\n    <\\/div>\\r\\n<\\/div>"}',
+);

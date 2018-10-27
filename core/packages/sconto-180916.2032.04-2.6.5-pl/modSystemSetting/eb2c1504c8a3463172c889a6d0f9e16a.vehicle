@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '63c70b84c75fb8963dfd4203c0622a6b',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => 'eb2c1504c8a3463172c889a6d0f9e16a',
+  'native_key' => 'ms2_order_product_fields',
+  'object' => '{"key":"ms2_order_product_fields","value":"name,product_article,weight,price,count,cost","xtype":"textarea","namespace":"minishop2","area":"ms2_order","editedon":"2018-09-03 22:13:43"}',
+);

@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '57cffeee6c25486c342d7109d36f6c20',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => '12c63d1970327c2ae8ad8ba43045d3a2',
+  'native_key' => 'mse2_frontend_js',
+  'object' => '{"key":"mse2_frontend_js","value":"[[+jsUrl]]web\\/default.js","xtype":"textfield","namespace":"msearch2","area":"mse2_main","editedon":null}',
+);

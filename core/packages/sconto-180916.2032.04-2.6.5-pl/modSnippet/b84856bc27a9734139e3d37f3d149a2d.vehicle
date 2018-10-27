@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'cd2787a6272a10329fbacc0710e23d24',
+  'package' => 'modx',
+  'class' => 'modSnippet',
+  'signature' => 'b84856bc27a9734139e3d37f3d149a2d',
+  'native_key' => 30,
+  'object' => '{"id":30,"source":0,"property_preprocess":0,"name":"filterbytag","description":"","editor_type":0,"category":10,"cache_type":0,"snippet":"if (!is_array($subject)) {\\n    $subject = explode(\',\',str_replace(array(\'||\',\' \'),array(\',\',\'\'),$subject));\\n}\\n\\nreturn (in_array($operand,$subject));","locked":0,"properties":"","moduleguid":"","static":0,"static_file":"","content":"if (!is_array($subject)) {\\n    $subject = explode(\',\',str_replace(array(\'||\',\' \'),array(\',\',\'\'),$subject));\\n}\\n\\nreturn (in_array($operand,$subject));"}',
+);

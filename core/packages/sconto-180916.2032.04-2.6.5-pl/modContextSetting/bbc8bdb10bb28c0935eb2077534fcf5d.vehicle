@@ -1,0 +1,16 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'bfa84f8a02db0300f5901aea4881c3e8',
+  'package' => 'modx',
+  'class' => 'modContextSetting',
+  'signature' => 'bbc8bdb10bb28c0935eb2077534fcf5d',
+  'native_key' => 
+  array (
+    0 => 'web',
+    1 => 'http_host',
+  ),
+  'object' => '{"context_key":"web","key":"http_host","value":"sconto","xtype":"textfield","namespace":"core","area":"","editedon":null}',
+);

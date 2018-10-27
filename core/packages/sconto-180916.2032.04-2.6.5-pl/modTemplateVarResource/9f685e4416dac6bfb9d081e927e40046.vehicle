@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '917d34fe6bda797f5a4b68e91985a3a9',
+  'package' => 'modx',
+  'class' => 'modTemplateVarResource',
+  'signature' => '9f685e4416dac6bfb9d081e927e40046',
+  'native_key' => 4,
+  'object' => '{"id":4,"tmplvarid":7,"contentid":6,"value":"WHAT PEOPLE ARE SAYING"}',
+);

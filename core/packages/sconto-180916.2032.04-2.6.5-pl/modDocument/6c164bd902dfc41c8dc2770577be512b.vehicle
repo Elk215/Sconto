@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '60ad1e5ee5610199507a6710b2cd212a',
+  'package' => 'modx',
+  'class' => 'modDocument',
+  'signature' => '6c164bd902dfc41c8dc2770577be512b',
+  'native_key' => 1,
+  'object' => '{"id":1,"type":"document","contentType":"text\\/html","pagetitle":"Home","longtitle":"\\u041f\\u043e\\u0437\\u0434\\u0440\\u0430\\u0432\\u043b\\u044f\\u0435\\u043c!","description":"","alias":"home","link_attributes":"","published":1,"pub_date":0,"unpub_date":0,"parent":0,"isfolder":0,"introtext":"","content":"","richtext":1,"template":1,"menuindex":0,"searchable":1,"cacheable":1,"createdby":1,"createdon":1535988902,"editedby":1,"editedon":1537094956,"deleted":0,"deletedon":0,"deletedby":0,"publishedon":0,"publishedby":0,"menutitle":"","donthit":0,"privateweb":0,"privatemgr":0,"content_dispo":0,"hidemenu":0,"class_key":"modDocument","context_key":"web","content_type":1,"uri":"home","uri_override":0,"hide_children_in_tree":0,"show_in_tree":1,"properties":null}',
+);

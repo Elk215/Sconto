@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'c5f5452e0ab6f56cc7e60bc2d6b0ff2a',
+  'package' => 'modx',
+  'class' => 'modAccessPolicy',
+  'signature' => '6f54442dbad4d1350d7c673b4481839f',
+  'native_key' => 3,
+  'object' => '{"id":3,"name":"Load Only","description":"A minimal policy with permission to load an object.","parent":0,"template":3,"class":"","data":"{\\"load\\":true}","lexicon":"permissions"}',
+);

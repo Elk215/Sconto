@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'f2e75f4fe7b02d7469f361079ec1a691',
+  'package' => 'modx',
+  'class' => 'modNamespace',
+  'signature' => '0d35ae3c5f319d4fa47f43ce7177afda',
+  'native_key' => 'minishop2',
+  'object' => '{"name":"minishop2","path":"{core_path}components\\/minishop2\\/","assets_path":""}',
+);

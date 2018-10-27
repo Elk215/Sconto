@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'b9fa32a412ecbced2cb71a89d4a55410',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => 'b0d60e0f85e6878e15ebb31fb33c78da',
+  'native_key' => 'ckeditor.remove_plugins',
+  'object' => '{"key":"ckeditor.remove_plugins","value":"forms,smiley,autogrow,liststyle,justify,pagebreak,colorbutton,indentblock,font,newpage,print,save,language,bidi,selectall,preview","xtype":"textfield","namespace":"ckeditor","area":"general","editedon":null}',
+);

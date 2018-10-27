@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'cc42df3a9d7688712b7e6f942ad05979',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => '19936c5a1ac84f27a73535f52ab6ff1f',
+  'native_key' => 'controlerrorlog.last_lines',
+  'object' => '{"key":"controlerrorlog.last_lines","value":"15","xtype":"numberfield","namespace":"controlerrorlog","area":"controlerrorlog.main","editedon":null}',
+);

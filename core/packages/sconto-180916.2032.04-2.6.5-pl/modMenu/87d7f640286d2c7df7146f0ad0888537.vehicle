@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '0443448e3de67ac5a2f17de6798d7e14',
+  'package' => 'modx',
+  'class' => 'modMenu',
+  'signature' => '87d7f640286d2c7df7146f0ad0888537',
+  'native_key' => 'profile',
+  'object' => '{"text":"profile","parent":"user","action":"security\\/profile","description":"profile_desc","icon":"","menuindex":0,"params":"","handler":"","permissions":"change_profile","namespace":"core"}',
+);

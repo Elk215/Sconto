@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '869907c50660a9a23fbe25e0d4387a7e',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => '7c68fdb8b2375619124e50f8aba33d47',
+  'native_key' => 'admintools_hide_component_description',
+  'object' => '{"key":"admintools_hide_component_description","value":"","xtype":"combo-boolean","namespace":"admintools","area":"admintools_main","editedon":null}',
+);

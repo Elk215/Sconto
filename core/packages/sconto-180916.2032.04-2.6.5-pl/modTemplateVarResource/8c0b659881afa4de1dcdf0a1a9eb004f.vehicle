@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '32a4508139929b089eb575b19aba176a',
+  'package' => 'modx',
+  'class' => 'modTemplateVarResource',
+  'signature' => '8c0b659881afa4de1dcdf0a1a9eb004f',
+  'native_key' => 1,
+  'object' => '{"id":1,"tmplvarid":5,"contentid":1,"value":"[{\\"MIGX_id\\":\\"1\\",\\"homeSliderTitle\\":\\"Smartphone\\",\\"homeSliderTitle2\\":\\"Bigger Display<br>Experience\\",\\"homeSliderText\\":\\"This device is the perfect size for <br>all your multitasking needs.\\",\\"homeSliderButton\\":\\"Discover\\",\\"homeSliderButtonLink\\":\\"http:\\\\\\/\\\\\\/google\\",\\"homeSliderImage\\":\\"assets\\\\\\/sconto\\\\\\/assets\\\\\\/images\\\\\\/homesliders\\\\\\/index5\\\\\\/slide1.jpg\\"},{\\"MIGX_id\\":\\"4\\",\\"homeSliderTitle\\":\\"Smart watch\\",\\"homeSliderTitle2\\":\\"Customize Your<br>Experience\\",\\"homeSliderText\\":\\"A classic watch should stand the <br>test of time.\\",\\"homeSliderButton\\":\\"Shop now\\",\\"homeSliderButtonLink\\":\\"\\",\\"homeSliderImage\\":\\"assets\\\\\\/sconto\\\\\\/assets\\\\\\/images\\\\\\/homesliders\\\\\\/index5\\\\\\/slide2.jpg\\"}]"}',
+);

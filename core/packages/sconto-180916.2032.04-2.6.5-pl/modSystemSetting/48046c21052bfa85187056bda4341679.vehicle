@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '199217a1c420a7ae2827ba19194ce1a2',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => '48046c21052bfa85187056bda4341679',
+  'native_key' => 'sisea.driver_db_specific',
+  'object' => '{"key":"sisea.driver_db_specific","value":"1","xtype":"combo-boolean","namespace":"sisea","area":"Drivers","editedon":null}',
+);

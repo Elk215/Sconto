@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '699bbff0efff1bf0b2e188e9beb2fd5a',
+  'package' => 'modx',
+  'class' => 'modAccessPermission',
+  'signature' => '43086ff7d9ded0d0660544d6e36dab90',
+  'native_key' => 299,
+  'object' => '{"id":299,"template":8,"name":"namespaces","description":"perm.namespaces_desc","value":1}',
+);

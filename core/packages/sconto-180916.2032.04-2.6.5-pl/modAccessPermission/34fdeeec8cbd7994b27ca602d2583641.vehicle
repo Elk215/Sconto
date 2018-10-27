@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '580bca251e5cb9768fb48f1b2cf248aa',
+  'package' => 'modx',
+  'class' => 'modAccessPermission',
+  'signature' => '34fdeeec8cbd7994b27ca602d2583641',
+  'native_key' => 399,
+  'object' => '{"id":399,"template":9,"name":"msorder_view","description":"msorder_view","value":1}',
+);

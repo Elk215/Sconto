@@ -1,0 +1,16 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '1a0cf7b844eb13d1abf40b046fdf07b3',
+  'package' => 'modx',
+  'class' => 'modContextSetting',
+  'signature' => '74761523de479df668cfaebeb84aad0d',
+  'native_key' => 
+  array (
+    0 => 'ru',
+    1 => 'site_url',
+  ),
+  'object' => '{"context_key":"ru","key":"site_url","value":"http:\\/\\/ru.sconto\\/","xtype":"textfield","namespace":"core","area":"","editedon":null}',
+);

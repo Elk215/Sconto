@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '2010389e63b89b0566fbb20677e7da57',
+  'package' => 'modx.sources',
+  'class' => 'modFileMediaSource',
+  'signature' => '1361dec57f3b4fd9e3af20a4b6092da8',
+  'native_key' => 3,
+  'object' => '{"id":3,"name":"Fenom Templates","description":"\\u0428\\u0430\\u0431\\u043b\\u043e\\u043d\\u044b \\u0424\\u0435\\u043d\\u043e\\u043c","class_key":"sources.modFileMediaSource","properties":"a:2:{s:8:\\"basePath\\";a:6:{s:4:\\"name\\";s:8:\\"basePath\\";s:4:\\"desc\\";s:0:\\"\\";s:4:\\"type\\";s:9:\\"textfield\\";s:7:\\"options\\";a:0:{}s:5:\\"value\\";s:14:\\"core\\/elements\\/\\";s:7:\\"lexicon\\";N;}s:7:\\"baseUrl\\";a:6:{s:4:\\"name\\";s:7:\\"baseUrl\\";s:4:\\"desc\\";s:0:\\"\\";s:4:\\"type\\";s:9:\\"textfield\\";s:7:\\"options\\";a:0:{}s:5:\\"value\\";s:14:\\"core\\/elements\\/\\";s:7:\\"lexicon\\";N;}}","is_stream":1}',
+);

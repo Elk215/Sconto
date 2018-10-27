@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'ebfebedb0cb4c4d87724a0568fb252cf',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => '8b476175d387391c89133505960e709a',
+  'native_key' => 'ms2_frontend_css',
+  'object' => '{"key":"ms2_frontend_css","value":"[[+cssUrl]]web\\/default.css","xtype":"textfield","namespace":"minishop2","area":"ms2_frontend","editedon":null}',
+);

@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'b6bca415d3d088e3761d790c63fd285d',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => '6bdf417e5061d70352d091aece8d8d75',
+  'native_key' => 'admintools_modx_tree_position',
+  'object' => '{"key":"admintools_modx_tree_position","value":"left","xtype":"textfield","namespace":"admintools","area":"admintools_main","editedon":null}',
+);

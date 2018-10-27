@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '416f7045be112af54ffd3d3eff154380',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => '6ec08faf800b70fbbbcfb0893887f29a',
+  'native_key' => 'ace.word_wrap',
+  'object' => '{"key":"ace.word_wrap","value":"","xtype":"combo-boolean","namespace":"ace","area":"general","editedon":null}',
+);

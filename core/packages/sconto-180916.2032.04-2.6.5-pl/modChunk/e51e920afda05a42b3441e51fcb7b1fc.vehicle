@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '92c054795750dc5784332455c49f2378',
+  'package' => 'modx',
+  'class' => 'modChunk',
+  'signature' => 'e51e920afda05a42b3441e51fcb7b1fc',
+  'native_key' => 42,
+  'object' => '{"id":42,"source":1,"property_preprocess":0,"name":"custom.mFilter2.filter.checkbox","description":"","editor_type":0,"category":23,"cache_type":0,"snippet":"<label for=\\"mse2_[[+table]][[+delimeter]][[+filter]]_[[+idx]]\\" class=\\"[[+disabled]] checkbox-custom__label\\">\\n\\t<input type=\\"checkbox\\" name=\\"[[+filter_key]]\\" id=\\"mse2_[[+table]][[+delimeter]][[+filter]]_[[+idx]]\\" class=\\"checkbox-custom\\" value=\\"[[+value]]\\" [[+checked]] [[+disabled]]\\/> [[+title]]\\n\\t<span class=\\"checkbox-custom__box\\"><\\/span>\\n<\\/label><br\\/>","locked":0,"properties":"a:0:{}","static":0,"static_file":"","content":"<label for=\\"mse2_[[+table]][[+delimeter]][[+filter]]_[[+idx]]\\" class=\\"[[+disabled]] checkbox-custom__label\\">\\n\\t<input type=\\"checkbox\\" name=\\"[[+filter_key]]\\" id=\\"mse2_[[+table]][[+delimeter]][[+filter]]_[[+idx]]\\" class=\\"checkbox-custom\\" value=\\"[[+value]]\\" [[+checked]] [[+disabled]]\\/> [[+title]]\\n\\t<span class=\\"checkbox-custom__box\\"><\\/span>\\n<\\/label><br\\/>"}',
+);

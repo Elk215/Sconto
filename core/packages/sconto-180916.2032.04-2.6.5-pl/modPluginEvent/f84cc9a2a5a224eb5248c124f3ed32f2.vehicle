@@ -1,0 +1,16 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'cce40b1ce0fe6033fbf798a1251a8c17',
+  'package' => 'modx',
+  'class' => 'modPluginEvent',
+  'signature' => 'f84cc9a2a5a224eb5248c124f3ed32f2',
+  'native_key' => 
+  array (
+    0 => 8,
+    1 => 'OnTVInputPropertiesList',
+  ),
+  'object' => '{"pluginid":8,"event":"OnTVInputPropertiesList","priority":0,"propertyset":0}',
+);

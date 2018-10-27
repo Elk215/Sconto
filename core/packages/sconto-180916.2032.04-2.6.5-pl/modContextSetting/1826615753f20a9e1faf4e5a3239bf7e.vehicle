@@ -1,0 +1,16 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'dea908d7bfd2fba912c908532ae94544',
+  'package' => 'modx',
+  'class' => 'modContextSetting',
+  'signature' => '1826615753f20a9e1faf4e5a3239bf7e',
+  'native_key' => 
+  array (
+    0 => 'ru',
+    1 => 'site_start',
+  ),
+  'object' => '{"context_key":"ru","key":"site_start","value":"23","xtype":"textfield","namespace":"core","area":"","editedon":null}',
+);

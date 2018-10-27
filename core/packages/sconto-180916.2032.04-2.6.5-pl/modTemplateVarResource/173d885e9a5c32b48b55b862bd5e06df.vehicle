@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '41f1a4f53ffda1a4a3b70164ae817572',
+  'package' => 'modx',
+  'class' => 'modTemplateVarResource',
+  'signature' => '173d885e9a5c32b48b55b862bd5e06df',
+  'native_key' => 10,
+  'object' => '{"id":10,"tmplvarid":13,"contentid":6,"value":"http:\\/\\/www.youtube.com\\/watch?v=N_2OmTZ08L0"}',
+);

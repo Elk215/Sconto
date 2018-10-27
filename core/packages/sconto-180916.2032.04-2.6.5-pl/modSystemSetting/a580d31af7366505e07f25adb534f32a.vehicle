@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '23995155729401f0dc99f1fcc9615429',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => 'a580d31af7366505e07f25adb534f32a',
+  'native_key' => 'ckeditor.autocorrect_dash',
+  'object' => '{"key":"ckeditor.autocorrect_dash","value":"\\u2014","xtype":"textfield","namespace":"ckeditor","area":"general","editedon":null}',
+);

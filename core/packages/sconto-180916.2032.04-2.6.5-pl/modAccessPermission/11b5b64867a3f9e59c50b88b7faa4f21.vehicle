@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '2f70a483a2a351fb8cba50b640bf9279',
+  'package' => 'modx',
+  'class' => 'modAccessPermission',
+  'signature' => '11b5b64867a3f9e59c50b88b7faa4f21',
+  'native_key' => 272,
+  'object' => '{"id":272,"template":8,"name":"file_manager","description":"perm.file_manager_desc","value":1}',
+);

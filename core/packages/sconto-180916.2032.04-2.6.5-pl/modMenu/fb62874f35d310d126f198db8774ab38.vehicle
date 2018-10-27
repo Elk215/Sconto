@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'b51d218df2dceb37d440cff9893711fc',
+  'package' => 'modx',
+  'class' => 'modMenu',
+  'signature' => 'fb62874f35d310d126f198db8774ab38',
+  'native_key' => 'clientconfig',
+  'object' => '{"text":"clientconfig","parent":"topnav","action":"2","description":"","icon":"","menuindex":5,"params":"","handler":"","permissions":"","namespace":"core"}',
+);

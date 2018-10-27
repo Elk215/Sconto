@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '2cb95c4379cfa5d896047db34d018016',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => '045caaf3453ce77fb0ce5dcd757fe35e',
+  'native_key' => 'ace.fold_widgets',
+  'object' => '{"key":"ace.fold_widgets","value":"1","xtype":"combo-boolean","namespace":"ace","area":"general","editedon":null}',
+);

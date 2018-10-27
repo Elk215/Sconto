@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '1b4ad1b2ee1b6a3db5fbcbd26fa11c7b',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => 'b8a0a924e8b8e1916829892c72288b7b',
+  'native_key' => 'collections.mgr_time_format',
+  'object' => '{"key":"collections.mgr_time_format","value":"g:i a","xtype":"textfield","namespace":"collections","area":"manager","editedon":null}',
+);

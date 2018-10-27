@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'e7defc33d29e89a6daa51254352ca65d',
+  'package' => 'modx',
+  'class' => 'modAccessPermission',
+  'signature' => 'f5ded7fbefe95ede93d28ec910265606',
+  'native_key' => 94,
+  'object' => '{"id":94,"template":1,"name":"new_tv","description":"perm.new_tv_desc","value":1}',
+);

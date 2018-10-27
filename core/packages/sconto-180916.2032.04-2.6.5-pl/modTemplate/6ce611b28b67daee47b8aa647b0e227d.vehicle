@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '365714ce36449e5a1416d27d616c3356',
+  'package' => 'modx',
+  'class' => 'modTemplate',
+  'signature' => '6ce611b28b67daee47b8aa647b0e227d',
+  'native_key' => 3,
+  'object' => '{"id":3,"source":1,"property_preprocess":0,"templatename":"About","description":"","editor_type":0,"category":0,"icon":"icon-user","template_type":0,"content":"{include \\"file:templates\\/about.tpl\\"}","locked":0,"properties":"a:0:{}","static":0,"static_file":""}',
+);

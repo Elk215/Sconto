@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '25c5547f42856caca1e555fe99fc55e5',
+  'package' => 'modx',
+  'class' => 'modTemplateVar',
+  'signature' => '8c580693b8ee519c3efb9ef95dc1e06b',
+  'native_key' => 18,
+  'object' => '{"id":18,"source":1,"property_preprocess":0,"type":"text","name":"categoryIconBig","caption":"Category icon big","description":"","editor_type":0,"category":0,"locked":0,"elements":"","rank":0,"display":"default","default_text":"","properties":"a:0:{}","input_properties":"a:5:{s:10:\\"allowBlank\\";s:4:\\"true\\";s:9:\\"minLength\\";s:0:\\"\\";s:9:\\"maxLength\\";s:0:\\"\\";s:5:\\"regex\\";s:0:\\"\\";s:9:\\"regexText\\";s:0:\\"\\";}","output_properties":"a:0:{}","static":0,"static_file":"","content":""}',
+);

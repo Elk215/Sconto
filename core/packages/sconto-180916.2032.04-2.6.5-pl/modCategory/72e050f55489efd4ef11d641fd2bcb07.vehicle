@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '6f3b0c19b22fd66e88e46507ae64fdb7',
+  'package' => 'modx',
+  'class' => 'modCategory',
+  'signature' => '72e050f55489efd4ef11d641fd2bcb07',
+  'native_key' => 30,
+  'object' => '{"id":30,"parent":0,"category":"Vapor","rank":0}',
+);

@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '8ebccf7a65ef84a569c6855e7f32627b',
+  'package' => 'minishop2',
+  'class' => 'msCategory',
+  'signature' => 'b7c43a71f18d4b52f7d749fad239e26f',
+  'native_key' => 9,
+  'object' => '{"id":9,"type":"document","contentType":"text\\/html","pagetitle":"Smartphones","longtitle":"","description":"","alias":"smartphones","link_attributes":"","published":1,"pub_date":0,"unpub_date":0,"parent":8,"isfolder":1,"introtext":"","content":"","richtext":1,"template":6,"menuindex":0,"searchable":1,"cacheable":1,"createdby":1,"createdon":1536152309,"editedby":1,"editedon":1536779488,"deleted":0,"deletedon":0,"deletedby":0,"publishedon":1536152280,"publishedby":1,"menutitle":"","donthit":0,"privateweb":0,"privatemgr":0,"content_dispo":0,"hidemenu":0,"class_key":"msCategory","context_key":"web","content_type":1,"uri":"catalog\\/smartphones","uri_override":0,"hide_children_in_tree":0,"show_in_tree":1,"properties":null}',
+);

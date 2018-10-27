@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'a188ed1b02ee590e68e16af24c15c5d9',
+  'package' => 'modx',
+  'class' => 'modSnippet',
+  'signature' => '45dbe0323831cd685ff334b1a18386fa',
+  'native_key' => 36,
+  'object' => '{"id":36,"source":0,"property_preprocess":0,"name":"migxIsNewObject","description":"","editor_type":0,"category":10,"cache_type":0,"snippet":"if (isset($_REQUEST[\'object_id\']) && $_REQUEST[\'object_id\']==\'new\'){\\n    return 1;\\n}","locked":0,"properties":"","moduleguid":"","static":0,"static_file":"","content":"if (isset($_REQUEST[\'object_id\']) && $_REQUEST[\'object_id\']==\'new\'){\\n    return 1;\\n}"}',
+);

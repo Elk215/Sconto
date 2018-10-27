@@ -1,0 +1,16 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '96b81a1a8c9a3abd290cf4f34307e0db',
+  'package' => 'modx',
+  'class' => 'modPluginEvent',
+  'signature' => '77471224a02302ea51d772cd2558171b',
+  'native_key' => 
+  array (
+    0 => 20,
+    1 => 'OnContextRemove',
+  ),
+  'object' => '{"pluginid":20,"event":"OnContextRemove","priority":0,"propertyset":0}',
+);

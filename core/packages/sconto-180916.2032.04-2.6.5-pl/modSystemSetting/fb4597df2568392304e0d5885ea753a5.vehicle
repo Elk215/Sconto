@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '11981c3907704107566a6044bc166b4b',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => 'fb4597df2568392304e0d5885ea753a5',
+  'native_key' => 'pdofetch_class_path',
+  'object' => '{"key":"pdofetch_class_path","value":"{core_path}components\\/pdotools\\/model\\/","xtype":"textfield","namespace":"pdotools","area":"pdotools_main","editedon":null}',
+);

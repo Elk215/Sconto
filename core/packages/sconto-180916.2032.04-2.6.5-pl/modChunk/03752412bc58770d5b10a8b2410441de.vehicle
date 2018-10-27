@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '3c10a039a79666292f415099041b4909',
+  'package' => 'modx',
+  'class' => 'modChunk',
+  'signature' => '03752412bc58770d5b10a8b2410441de',
+  'native_key' => 33,
+  'object' => '{"id":33,"source":1,"property_preprocess":0,"name":"tpl.mFilter2.filter.option","description":"","editor_type":0,"category":13,"cache_type":0,"snippet":"<option value=\\"[[+value]]\\" [[+selected]] [[+disabled]] class=\\"[[+disabled]]\\">[[+title]]&nbsp;([[+num]])<\\/option>","locked":0,"properties":null,"static":0,"static_file":"core\\/components\\/msearch2\\/elements\\/chunks\\/chunk.mfilter2.filter.option.tpl","content":"<option value=\\"[[+value]]\\" [[+selected]] [[+disabled]] class=\\"[[+disabled]]\\">[[+title]]&nbsp;([[+num]])<\\/option>"}',
+);

@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '3f7f784266bb0c3160a2452327c60c0d',
+  'package' => 'modx',
+  'class' => 'modChunk',
+  'signature' => 'beb7925e329264ca99694b70b943d6fc',
+  'native_key' => 35,
+  'object' => '{"id":35,"source":1,"property_preprocess":0,"name":"byAd","description":"BannerY Ad","editor_type":0,"category":15,"cache_type":0,"snippet":"<p><a href=\\"[[++bannery_click]]\\/[[+adposition]]\\"><img src=\\"[[+image]]\\" alt=\\"[[+name]]\\" title=\\"[[+description]]\\"\\/><\\/a><\\/p>\\n<p>Banner with extra params (available as placeholders in banner URL):<br \\/>\\n<a href=\\"[[++bannery_click]]\\/[[+adposition]]?id=[[*id]]&amp;something=123\\"><img src=\\"[[+image]]\\" alt=\\"[[+name]]\\" \\/><\\/a><\\/p>\\n","locked":0,"properties":null,"static":0,"static_file":"core\\/components\\/bannery\\/elements\\/chunks\\/chunk.byad.tpl","content":"<p><a href=\\"[[++bannery_click]]\\/[[+adposition]]\\"><img src=\\"[[+image]]\\" alt=\\"[[+name]]\\" title=\\"[[+description]]\\"\\/><\\/a><\\/p>\\n<p>Banner with extra params (available as placeholders in banner URL):<br \\/>\\n<a href=\\"[[++bannery_click]]\\/[[+adposition]]?id=[[*id]]&amp;something=123\\"><img src=\\"[[+image]]\\" alt=\\"[[+name]]\\" \\/><\\/a><\\/p>\\n"}',
+);

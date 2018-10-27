@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '96273c46544bd831eff5f5f293af13ee',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => '04997942df9302fec7c0a47630a53441',
+  'native_key' => 'sisea.solr.path',
+  'object' => '{"key":"sisea.solr.path","value":"","xtype":"textfield","namespace":"sisea","area":"Solr","editedon":null}',
+);

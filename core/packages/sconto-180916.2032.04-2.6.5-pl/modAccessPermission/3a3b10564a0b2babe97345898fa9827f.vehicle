@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'e997ab7be258f7ec6668d4ea5a6a2043',
+  'package' => 'modx',
+  'class' => 'modAccessPermission',
+  'signature' => '3a3b10564a0b2babe97345898fa9827f',
+  'native_key' => 248,
+  'object' => '{"id":248,"template":8,"name":"directory_chmod","description":"perm.directory_chmod_desc","value":1}',
+);

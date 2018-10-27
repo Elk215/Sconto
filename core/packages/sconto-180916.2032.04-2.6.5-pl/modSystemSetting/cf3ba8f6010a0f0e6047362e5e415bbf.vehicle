@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'a54dde06d62fd97c38455cf9b5051a73',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => 'cf3ba8f6010a0f0e6047362e5e415bbf',
+  'native_key' => 'admintools_animate_menu',
+  'object' => '{"key":"admintools_animate_menu","value":"1","xtype":"combo-boolean","namespace":"admintools","area":"admintools_main","editedon":null}',
+);

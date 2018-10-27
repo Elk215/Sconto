@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '95a3f0fa76bc362c19fff03b6d73f673',
+  'package' => 'modx',
+  'class' => 'modMenu',
+  'signature' => 'a3a4cc54bbb516f59a1e217a1da69569',
+  'native_key' => 'formit',
+  'object' => '{"text":"formit","parent":"components","action":"4","description":"formit.menu_desc","icon":"","menuindex":3,"params":"","handler":"","permissions":"","namespace":"core"}',
+);

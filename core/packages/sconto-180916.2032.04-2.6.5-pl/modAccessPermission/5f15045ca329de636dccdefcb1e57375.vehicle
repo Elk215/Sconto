@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '9665eab48c2e163b22a0730d51c6e7c9',
+  'package' => 'modx',
+  'class' => 'modAccessPermission',
+  'signature' => '5f15045ca329de636dccdefcb1e57375',
+  'native_key' => 382,
+  'object' => '{"id":382,"template":8,"name":"view_eventlog","description":"perm.view_eventlog_desc","value":1}',
+);

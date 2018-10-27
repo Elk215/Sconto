@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '725b03303b3298d797e6872b7886ffc0',
+  'package' => 'modx',
+  'class' => 'modNamespace',
+  'signature' => '0138ca5a37822970e6fe6adc5386611b',
+  'native_key' => 'vapor',
+  'object' => '{"name":"vapor","path":"{core_path}components\\/vapor\\/","assets_path":""}',
+);

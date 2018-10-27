@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'be0c29f26dc956c4685ce9ef4eacf767',
+  'package' => 'modx',
+  'class' => 'modDocument',
+  'signature' => '0e5f47b59fbec8186dd9fe3495c2ef0b',
+  'native_key' => 2,
+  'object' => '{"id":2,"type":"document","contentType":"text\\/html","pagetitle":"404","longtitle":"\\u0421\\u0442\\u0440\\u0430\\u043d\\u0438\\u0446\\u0430 \\u043d\\u0435 \\u043d\\u0430\\u0439\\u0434\\u0435\\u043d\\u0430","description":"","alias":"404","link_attributes":"","published":1,"pub_date":0,"unpub_date":0,"parent":0,"isfolder":0,"introtext":"","content":"","richtext":1,"template":4,"menuindex":1,"searchable":1,"cacheable":1,"createdby":0,"createdon":1535988985,"editedby":1,"editedon":1536044380,"deleted":0,"deletedon":0,"deletedby":0,"publishedon":0,"publishedby":0,"menutitle":"","donthit":0,"privateweb":0,"privatemgr":0,"content_dispo":0,"hidemenu":1,"class_key":"modDocument","context_key":"web","content_type":1,"uri":"404","uri_override":0,"hide_children_in_tree":0,"show_in_tree":1,"properties":null}',
+);

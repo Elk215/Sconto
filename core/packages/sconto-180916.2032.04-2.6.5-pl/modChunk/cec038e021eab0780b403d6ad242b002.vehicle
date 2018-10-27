@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '29acfdc48f09f756db593f92bcfaf4aa',
+  'package' => 'modx',
+  'class' => 'modChunk',
+  'signature' => 'cec038e021eab0780b403d6ad242b002',
+  'native_key' => 3,
+  'object' => '{"id":3,"source":0,"property_preprocess":0,"name":"fiDefaultFiarTpl","description":"The default chunk used for the autoresponder email. Please do not edit this chunk, as this will be overwritten when updating FormIt.","editor_type":0,"category":9,"cache_type":0,"snippet":"<p>Hello [[+name]],<\\/p>\\n\\n<p>Your message has been received. We will respond as soon as possible. Thank you for contacting us.<\\/p>\\n\\n<p>NOTE: This is an automatic response; please do not respond to this message directly.<\\/p>\\n\\n<p>Here is your message:<br \\/>\\n[[+message:nl2br]]<\\/p>","locked":0,"properties":"a:0:{}","static":0,"static_file":"","content":"<p>Hello [[+name]],<\\/p>\\n\\n<p>Your message has been received. We will respond as soon as possible. Thank you for contacting us.<\\/p>\\n\\n<p>NOTE: This is an automatic response; please do not respond to this message directly.<\\/p>\\n\\n<p>Here is your message:<br \\/>\\n[[+message:nl2br]]<\\/p>"}',
+);

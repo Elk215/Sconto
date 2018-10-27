@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '2f20a64a6a9eb9ff0aaf5ea13ba4db44',
+  'package' => 'modx',
+  'class' => 'modCategory',
+  'signature' => 'a7e601cac99de3806befc0a2385373b4',
+  'native_key' => 12,
+  'object' => '{"id":12,"parent":0,"category":"AdminTools","rank":0}',
+);

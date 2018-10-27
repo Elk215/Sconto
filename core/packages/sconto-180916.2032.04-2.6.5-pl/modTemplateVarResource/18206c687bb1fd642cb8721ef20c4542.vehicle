@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'a596a40e284a00e547965b6495baec14',
+  'package' => 'modx',
+  'class' => 'modTemplateVarResource',
+  'signature' => '18206c687bb1fd642cb8721ef20c4542',
+  'native_key' => 21,
+  'object' => '{"id":21,"tmplvarid":18,"contentid":10,"value":"icon-monitor"}',
+);

@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '9b33f667145790fa754c0b46f89b00b1',
+  'package' => 'modx',
+  'class' => 'modChunk',
+  'signature' => '624023319dd19165552ab853141e3b7b',
+  'native_key' => 12,
+  'object' => '{"id":12,"source":1,"property_preprocess":0,"name":"tpl.msOptions","description":"","editor_type":0,"category":11,"cache_type":0,"snippet":"{foreach $options as $name => $values}\\r\\n    <div class=\\"form-group\\">\\r\\n        <label class=\\"col-md-2 control-label\\" for=\\"option_{$name}\\">{(\'ms2_product_\' ~ $name) | lexicon}:<\\/label>\\r\\n        <div class=\\"col-md-10\\">\\r\\n            <select name=\\"options[{$name}]\\" class=\\"input-sm form-control\\" id=\\"option_{$name}\\">\\r\\n                {foreach $values as $value}\\r\\n                    <option value=\\"{$value}\\">{$value}<\\/option>\\r\\n                {\\/foreach}\\r\\n            <\\/select>\\r\\n        <\\/div>\\r\\n    <\\/div>\\r\\n{\\/foreach}","locked":0,"properties":null,"static":0,"static_file":"core\\/components\\/minishop2\\/elements\\/chunks\\/chunk.ms_options.tpl","content":"{foreach $options as $name => $values}\\r\\n    <div class=\\"form-group\\">\\r\\n        <label class=\\"col-md-2 control-label\\" for=\\"option_{$name}\\">{(\'ms2_product_\' ~ $name) | lexicon}:<\\/label>\\r\\n        <div class=\\"col-md-10\\">\\r\\n            <select name=\\"options[{$name}]\\" class=\\"input-sm form-control\\" id=\\"option_{$name}\\">\\r\\n                {foreach $values as $value}\\r\\n                    <option value=\\"{$value}\\">{$value}<\\/option>\\r\\n                {\\/foreach}\\r\\n            <\\/select>\\r\\n        <\\/div>\\r\\n    <\\/div>\\r\\n{\\/foreach}"}',
+);

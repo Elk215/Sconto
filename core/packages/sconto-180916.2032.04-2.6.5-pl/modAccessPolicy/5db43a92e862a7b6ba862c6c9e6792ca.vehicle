@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '80a5d5a0f2c9611222002ab1a07080e6',
+  'package' => 'modx',
+  'class' => 'modAccessPolicy',
+  'signature' => '5db43a92e862a7b6ba862c6c9e6792ca',
+  'native_key' => 9,
+  'object' => '{"id":9,"name":"Media Source User","description":"Media Source user policy, with basic viewing and using - but no editing - of Media Sources.","parent":0,"template":5,"class":"","data":"{\\"load\\":true,\\"list\\":true,\\"view\\":true}","lexicon":"permissions"}',
+);

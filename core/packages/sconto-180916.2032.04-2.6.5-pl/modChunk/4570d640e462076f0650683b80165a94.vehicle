@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '5ba5ef76725b6f60f3890f79b73bfad0',
+  'package' => 'modx',
+  'class' => 'modChunk',
+  'signature' => '4570d640e462076f0650683b80165a94',
+  'native_key' => 31,
+  'object' => '{"id":31,"source":1,"property_preprocess":0,"name":"tpl.mFilter2.filter.number","description":"","editor_type":0,"category":13,"cache_type":0,"snippet":"<div class=\\"form-group col-md-6\\">\\n\\t<label for=\\"mse2_[[+table]][[+delimeter]][[+filter]]_[[+idx]]\\">[[+title]]\\n\\t\\t<input type=\\"text\\" name=\\"[[+filter_key]]\\" id=\\"mse2_[[+table]][[+delimeter]][[+filter]]_[[+idx]]\\" value=\\"[[+value]]\\" class=\\"form-control input-sm\\" \\/>\\n\\t<\\/label>\\n<\\/div>","locked":0,"properties":null,"static":0,"static_file":"core\\/components\\/msearch2\\/elements\\/chunks\\/chunk.mfilter2.filter.number.tpl","content":"<div class=\\"form-group col-md-6\\">\\n\\t<label for=\\"mse2_[[+table]][[+delimeter]][[+filter]]_[[+idx]]\\">[[+title]]\\n\\t\\t<input type=\\"text\\" name=\\"[[+filter_key]]\\" id=\\"mse2_[[+table]][[+delimeter]][[+filter]]_[[+idx]]\\" value=\\"[[+value]]\\" class=\\"form-control input-sm\\" \\/>\\n\\t<\\/label>\\n<\\/div>"}',
+);

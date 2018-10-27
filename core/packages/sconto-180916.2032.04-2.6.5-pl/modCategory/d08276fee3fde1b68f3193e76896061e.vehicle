@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'fbc8ddb5a8ff6220b1aa95987a8af579',
+  'package' => 'modx',
+  'class' => 'modCategory',
+  'signature' => 'd08276fee3fde1b68f3193e76896061e',
+  'native_key' => 4,
+  'object' => '{"id":4,"parent":0,"category":"controlErrorLog","rank":0}',
+);

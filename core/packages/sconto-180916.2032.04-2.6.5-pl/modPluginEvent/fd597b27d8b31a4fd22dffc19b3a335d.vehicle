@@ -1,0 +1,16 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'dce0fab4bc290dc0b296d25fc69ce9f3',
+  'package' => 'modx',
+  'class' => 'modPluginEvent',
+  'signature' => 'fd597b27d8b31a4fd22dffc19b3a335d',
+  'native_key' => 
+  array (
+    0 => 13,
+    1 => 'OnCommentRemove',
+  ),
+  'object' => '{"pluginid":13,"event":"OnCommentRemove","priority":1,"propertyset":0}',
+);

@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '3cd1941494c08378713c405c0e6b07d5',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => 'b69f602bd3ff9da1fc8562e73c08ce4f',
+  'native_key' => 'site_name',
+  'object' => '{"key":"site_name","value":"Sconto","xtype":"textfield","namespace":"core","area":"site","editedon":"2018-09-04 08:28:23"}',
+);

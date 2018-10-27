@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '0bbb58c57c0737dad94c8c2b46c257cb',
+  'package' => 'modx',
+  'class' => 'modTemplateVar',
+  'signature' => '45a03c0a00a322f66062cd7c6bc483b1',
+  'native_key' => 13,
+  'object' => '{"id":13,"source":1,"property_preprocess":0,"type":"url","name":"storyVideo","caption":"storyVideo","description":"","editor_type":0,"category":20,"locked":0,"elements":"","rank":0,"display":"default","default_text":"","properties":"a:0:{}","input_properties":"a:0:{}","output_properties":"a:0:{}","static":0,"static_file":"","content":""}',
+);

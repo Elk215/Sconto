@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '625d437eeb1de3f2d52add57957109cc',
+  'package' => 'modx',
+  'class' => 'modTemplateVar',
+  'signature' => '91ad964d95cf67384469b83f65efdd1c',
+  'native_key' => 9,
+  'object' => '{"id":9,"source":1,"property_preprocess":0,"type":"migx","name":"testimonial","caption":"testimonial","description":"","editor_type":0,"category":19,"locked":0,"elements":"","rank":0,"display":"default","default_text":"","properties":"a:0:{}","input_properties":"a:7:{s:7:\\"configs\\";s:0:\\"\\";s:8:\\"formtabs\\";s:268:\\"[\\n{\\"caption\\":\\"\\", \\"fields\\": [\\n{\\"field\\":\\"text\\",\\"caption\\":\\"Text\\",\\"inputTVtype\\":\\"textarea\\"},\\n{\\"field\\":\\"author\\",\\"caption\\":\\"Author\\",\\"inputTVtype\\":\\"text\\"},\\n{\\"field\\":\\"data\\",\\"caption\\":\\"Data\\",\\"inputTVtype\\":\\"text\\"},\\n{\\"field\\":\\"avatar\\",\\"caption\\":\\"Avata\\",\\"inputTVtype\\":\\"image\\"}\\n]}\\n]\\";s:7:\\"columns\\";s:300:\\"[\\n{\\"header\\": \\"Text\\", \\"sortable\\": \\"true\\", \\"dataIndex\\": \\"text\\"},\\n{\\"header\\": \\"Author\\", \\"sortable\\": \\"true\\", \\"dataIndex\\": \\"author\\"},\\n{\\"header\\": \\"Data\\", \\"sortable\\": \\"true\\", \\"dataIndex\\": \\"data\\"},\\n{\\"header\\": \\"Avatar\\", \\"width\\": \\"80\\", \\"sortable\\": \\"true\\", \\"dataIndex\\": \\"avatar\\",\\"renderer\\": \\"this.renderImage\\"}\\n]\\";s:7:\\"btntext\\";s:15:\\"Add testimonial\\";s:10:\\"previewurl\\";s:0:\\"\\";s:10:\\"jsonvarkey\\";s:0:\\"\\";s:19:\\"autoResourceFolders\\";s:5:\\"false\\";}","output_properties":"a:0:{}","static":0,"static_file":"","content":""}',
+);

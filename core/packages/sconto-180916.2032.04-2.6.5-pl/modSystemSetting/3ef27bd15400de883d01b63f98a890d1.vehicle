@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '78fa0cc5715ca0c57611900d679a7d57',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => '3ef27bd15400de883d01b63f98a890d1',
+  'native_key' => 'ace.theme',
+  'object' => '{"key":"ace.theme","value":"twilight","xtype":"textfield","namespace":"ace","area":"general","editedon":"2018-09-03 18:36:25"}',
+);

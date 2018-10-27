@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '0ddc8f7c3fffd666112fed42f677b2ae',
+  'package' => 'modx',
+  'class' => 'modCategory',
+  'signature' => 'eb445a1ad7256e670cdddb7bbbbfac9f',
+  'native_key' => 9,
+  'object' => '{"id":9,"parent":0,"category":"FormIt","rank":0}',
+);

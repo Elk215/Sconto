@@ -1,0 +1,16 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '6a232f8d1f9b3eec082fbafdfd02107e',
+  'package' => 'modx',
+  'class' => 'modPluginEvent',
+  'signature' => '31029981fa0fca51573ace1a9d69ee28',
+  'native_key' => 
+  array (
+    0 => 3,
+    1 => 'OnLoadWebPageCache',
+  ),
+  'object' => '{"pluginid":3,"event":"OnLoadWebPageCache","priority":0,"propertyset":0}',
+);

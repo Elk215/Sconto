@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '4642b87ad73053ce06a62d1c8ebf0add',
+  'package' => 'modx',
+  'class' => 'modTemplate',
+  'signature' => '9f70bad751d6284df04f248049f7f2d9',
+  'native_key' => 7,
+  'object' => '{"id":7,"source":1,"property_preprocess":0,"templatename":"Cart","description":"","editor_type":0,"category":0,"icon":"","template_type":0,"content":"{include \\"file:templates\\/cart.tpl\\"}","locked":0,"properties":"a:0:{}","static":0,"static_file":""}',
+);

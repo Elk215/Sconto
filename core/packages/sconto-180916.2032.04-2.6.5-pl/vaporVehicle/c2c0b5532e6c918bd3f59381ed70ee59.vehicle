@@ -1,0 +1,29 @@
+<?php return array (
+  'class' => 'vaporVehicle',
+  'object' => 
+  array (
+    'tableName' => 'ms2_customer_profiles',
+    'drop' => 'DROP TABLE IF EXISTS `[[++table_prefix]]ms2_customer_profiles`',
+    'table' => 'CREATE TABLE `[[++table_prefix]]ms2_customer_profiles` (
+  `id` int(10) unsigned NOT NULL,
+  `account` decimal(12,2) DEFAULT \'0.00\',
+  `spent` decimal(12,2) DEFAULT \'0.00\',
+  `createdon` timestamp NULL DEFAULT CURRENT_TIMESTAMP,
+  `referrer_id` int(10) unsigned DEFAULT \'0\',
+  `referrer_code` varchar(50) DEFAULT \'\',
+  PRIMARY KEY (`id`),
+  UNIQUE KEY `referrer_code` (`referrer_code`),
+  KEY `referrer_id` (`referrer_id`),
+  KEY `spent` (`spent`)
+) ENGINE=MyISAM DEFAULT CHARSET=utf8',
+    'data' => 
+    array (
+    ),
+  ),
+  'vehicle_package' => 'vapor',
+  'vehicle_class' => 'vaporVehicle',
+  'guid' => 'fccafc88066f0f837a95475b7891d778',
+  'package' => '',
+  'signature' => 'c2c0b5532e6c918bd3f59381ed70ee59',
+  'native_key' => 'fccafc88066f0f837a95475b7891d778',
+);

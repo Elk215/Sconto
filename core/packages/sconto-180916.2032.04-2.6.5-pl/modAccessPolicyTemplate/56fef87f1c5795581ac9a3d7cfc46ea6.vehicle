@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'cf08915d883c7b0b4ba8471adef847b4',
+  'package' => 'modx',
+  'class' => 'modAccessPolicyTemplate',
+  'signature' => '56fef87f1c5795581ac9a3d7cfc46ea6',
+  'native_key' => 9,
+  'object' => '{"id":9,"template_group":1,"name":"miniShopManagerPolicyTemplate","description":"A policy for miniShop2 managers.","lexicon":"minishop2:permissions"}',
+);

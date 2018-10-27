@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '44a76ca2422bdfbe08ca9d51bac7ee0e',
+  'package' => 'modx',
+  'class' => 'modSnippet',
+  'signature' => '00e222ec2e7c233a0de75c4d022d479b',
+  'native_key' => 42,
+  'object' => '{"id":42,"source":1,"property_preprocess":0,"name":"msMiniCart","description":"","editor_type":0,"category":11,"cache_type":0,"snippet":"\\/** @var modX $modx *\\/\\r\\n\\/** @var array $scriptProperties *\\/\\r\\n\\/** @var miniShop2 $miniShop2 *\\/\\r\\n$miniShop2 = $modx->getService(\'miniShop2\');\\r\\n$miniShop2->initialize($modx->context->key);\\r\\n\\r\\n$tpl = $modx->getOption(\'tpl\', $scriptProperties, \'tpl.msMiniCart\');\\r\\n\\r\\n$cart = $miniShop2->cart->status();\\r\\n$cart[\'total_cost\'] = $miniShop2->formatPrice($cart[\'total_cost\']);\\r\\n$cart[\'total_weight\'] = $miniShop2->formatWeight($cart[\'total_weight\']);\\r\\n\\r\\nreturn $miniShop2->pdoTools->getChunk($tpl, $cart);","locked":0,"properties":"a:1:{s:3:\\"tpl\\";a:7:{s:4:\\"name\\";s:3:\\"tpl\\";s:4:\\"desc\\";s:12:\\"ms2_prop_tpl\\";s:4:\\"type\\";s:9:\\"textfield\\";s:7:\\"options\\";a:0:{}s:5:\\"value\\";s:14:\\"tpl.msMiniCart\\";s:7:\\"lexicon\\";s:20:\\"minishop2:properties\\";s:4:\\"area\\";s:0:\\"\\";}}","moduleguid":"","static":0,"static_file":"core\\/components\\/minishop2\\/elements\\/snippets\\/snippet.ms_minicart.php","content":"\\/** @var modX $modx *\\/\\r\\n\\/** @var array $scriptProperties *\\/\\r\\n\\/** @var miniShop2 $miniShop2 *\\/\\r\\n$miniShop2 = $modx->getService(\'miniShop2\');\\r\\n$miniShop2->initialize($modx->context->key);\\r\\n\\r\\n$tpl = $modx->getOption(\'tpl\', $scriptProperties, \'tpl.msMiniCart\');\\r\\n\\r\\n$cart = $miniShop2->cart->status();\\r\\n$cart[\'total_cost\'] = $miniShop2->formatPrice($cart[\'total_cost\']);\\r\\n$cart[\'total_weight\'] = $miniShop2->formatWeight($cart[\'total_weight\']);\\r\\n\\r\\nreturn $miniShop2->pdoTools->getChunk($tpl, $cart);"}',
+);

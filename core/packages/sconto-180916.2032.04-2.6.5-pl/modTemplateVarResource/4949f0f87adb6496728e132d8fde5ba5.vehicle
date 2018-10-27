@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '40080f7fa552b4de1376e3458cbf88bc',
+  'package' => 'modx',
+  'class' => 'modTemplateVarResource',
+  'signature' => '4949f0f87adb6496728e132d8fde5ba5',
+  'native_key' => 6,
+  'object' => '{"id":6,"tmplvarid":9,"contentid":6,"value":"[{\\"MIGX_id\\":\\"1\\",\\"text\\":\\"Aenean mattis at nulla a varius. Integer luctus eu nisi sit amet facilisis. Sed elementum porttitor enim, at egestas orci. Ut sit amet metus nisl. Nullam ligula turpis, blandit nec tellus et, pretium ullamcorper lectus. Ut eu ligula nibh. Etiam sollicitudin odio augue, eu condimentum nunc mollis. \\",\\"author\\":\\"Anna Ratallick\\",\\"data\\":\\"12.04.2016\\",\\"avatar\\":\\"assets\\\\\\/sconto\\\\\\/assets\\\\\\/images\\\\\\/testimonials\\\\\\/1.png\\"},{\\"MIGX_id\\":\\"2\\",\\"text\\":\\"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quisquam vitae provident in nemo placeat ullam nobis omnis, consequatur, quaerat cum eos aperiam optio, hic deserunt quas enim corporis, minima! Dolore eu ligula nibh. Etiam sollicitudin odio augue, eu condimentum nunc mollis strastus.\\",\\"author\\":\\"Lamar Ratallick\\",\\"data\\":\\"16.05.2016\\",\\"avatar\\":\\"assets\\\\\\/sconto\\\\\\/assets\\\\\\/images\\\\\\/testimonials\\\\\\/2.png\\"},{\\"MIGX_id\\":\\"3\\",\\"text\\":\\"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quisquam vitae provident in nemo placeat ullam nobis omnis, consequatur, quaerat cum eos aperiam optio, hic deserunt quas enim corporis, minima! Dolore eu ligula nibh. Etiam sollicitudin odio augue, eu condimentum nunc mollis strastus.\\",\\"author\\":\\"Lasdamar Ratallick\\",\\"data\\":\\"16.05.2016\\",\\"avatar\\":\\"assets\\\\\\/sconto\\\\\\/assets\\\\\\/images\\\\\\/testimonials\\\\\\/3.png\\"},{\\"MIGX_id\\":\\"4\\",\\"text\\":\\"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quisquam vitae provident in nemo placeat ullam nobis omnis, consequatur, quaerat cum eos aperiam optio, hic deserunt quas enim corporis, minima! Dolore eu ligula nibh. Etiam sollicitudin odio augue, eu condimentum nunc mollis strastus.\\",\\"author\\":\\"Lasdamar Ratallick\\",\\"data\\":\\"16.05.2018\\",\\"avatar\\":\\"assets\\\\\\/sconto\\\\\\/assets\\\\\\/images\\\\\\/testimonials\\\\\\/4.png\\"}]"}',
+);

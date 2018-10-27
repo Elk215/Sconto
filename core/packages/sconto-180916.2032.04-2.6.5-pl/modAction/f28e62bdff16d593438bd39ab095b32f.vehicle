@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'b361909e407d5c64858bd78a5b81bed9',
+  'package' => 'modx',
+  'class' => 'modAction',
+  'signature' => 'f28e62bdff16d593438bd39ab095b32f',
+  'native_key' => 3,
+  'object' => '{"id":3,"namespace":"collections","controller":"index","haslayout":1,"lang_topics":"collections:default","assets":"","help_url":""}',
+);

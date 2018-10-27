@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '1c7a537f2d8214103102adc469e6a7b7',
+  'package' => 'modx',
+  'class' => 'modAccessPermission',
+  'signature' => '0c9c7f2e335f3126c9e996f45b58e8a6',
+  'native_key' => 54,
+  'object' => '{"id":54,"template":1,"name":"file_remove","description":"perm.file_remove_desc","value":1}',
+);

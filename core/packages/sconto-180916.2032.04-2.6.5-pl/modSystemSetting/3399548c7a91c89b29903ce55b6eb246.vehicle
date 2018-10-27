@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '1204981f59cd991d7fb86f5b20a92fa8',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => '3399548c7a91c89b29903ce55b6eb246',
+  'native_key' => 'mgr_tree_icon_msproduct',
+  'object' => '{"key":"mgr_tree_icon_msproduct","value":"icon icon-tag","xtype":"textarea","namespace":"minishop2","area":"ms2_product","editedon":null}',
+);

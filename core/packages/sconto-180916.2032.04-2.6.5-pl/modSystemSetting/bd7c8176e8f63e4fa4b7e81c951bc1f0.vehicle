@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '8ceb6609cbdf5b457d8a46f50401ec94',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => 'bd7c8176e8f63e4fa4b7e81c951bc1f0',
+  'native_key' => 'ckeditor.resource_editor_height',
+  'object' => '{"key":"ckeditor.resource_editor_height","value":"600","xtype":"textfield","namespace":"ckeditor","area":"general","editedon":null}',
+);

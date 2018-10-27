@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'f059c8999d4ee39b61f148d0f4143d21',
+  'package' => 'modx',
+  'class' => 'modAccessPolicyTemplate',
+  'signature' => 'f030b2d92c17df1e621915fd20f175c9',
+  'native_key' => 4,
+  'object' => '{"id":4,"template_group":4,"name":"ElementTemplate","description":"Element Policy Template with all attributes.","lexicon":"permissions"}',
+);

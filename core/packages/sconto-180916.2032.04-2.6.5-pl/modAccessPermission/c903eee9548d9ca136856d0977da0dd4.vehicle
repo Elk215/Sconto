@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '5bd4503bab324986f0246bd6b956fd48',
+  'package' => 'modx',
+  'class' => 'modAccessPermission',
+  'signature' => 'c903eee9548d9ca136856d0977da0dd4',
+  'native_key' => 250,
+  'object' => '{"id":250,"template":8,"name":"directory_list","description":"perm.directory_list_desc","value":1}',
+);

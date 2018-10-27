@@ -1,0 +1,16 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '05095e15e69e9afe1b6e69ce15c4d073',
+  'package' => 'modx',
+  'class' => 'modPluginEvent',
+  'signature' => 'e3ed1bdb45093fbd749dbcf6f9702310',
+  'native_key' => 
+  array (
+    0 => 12,
+    1 => 'OnManagerAuthentication',
+  ),
+  'object' => '{"pluginid":12,"event":"OnManagerAuthentication","priority":0,"propertyset":0}',
+);

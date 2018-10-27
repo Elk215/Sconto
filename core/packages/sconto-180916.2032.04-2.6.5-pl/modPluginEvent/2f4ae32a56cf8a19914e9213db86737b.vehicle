@@ -1,0 +1,16 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '4854536170ae940b47c114e8a65bb050',
+  'package' => 'modx',
+  'class' => 'modPluginEvent',
+  'signature' => '2f4ae32a56cf8a19914e9213db86737b',
+  'native_key' => 
+  array (
+    0 => 11,
+    1 => 'OnWebPageInit',
+  ),
+  'object' => '{"pluginid":11,"event":"OnWebPageInit","priority":0,"propertyset":0}',
+);

@@ -1,0 +1,16 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '40ea85f5a9f61b5a29c5a2bf9994b956',
+  'package' => 'modx',
+  'class' => 'modTemplateVarTemplate',
+  'signature' => '05b0ccb73fe705babb96aabd0e54a960',
+  'native_key' => 
+  array (
+    0 => 10,
+    1 => 3,
+  ),
+  'object' => '{"tmplvarid":10,"templateid":3,"rank":0}',
+);

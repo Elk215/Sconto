@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '71c4ecb76578bd260787f1df7fd1bd3f',
+  'package' => 'modx',
+  'class' => 'modTemplateVar',
+  'signature' => '52c3eb52673d2bd1db9bf49f844f0dce',
+  'native_key' => 19,
+  'object' => '{"id":19,"source":1,"property_preprocess":0,"type":"migx","name":"productFeatures","caption":"productFeatures","description":"","editor_type":0,"category":0,"locked":0,"elements":"","rank":0,"display":"default","default_text":"","properties":"a:0:{}","input_properties":"a:7:{s:7:\\"configs\\";s:0:\\"\\";s:8:\\"formtabs\\";s:144:\\"[\\n{\\"caption\\":\\"\\", \\"fields\\": [\\n{\\"field\\":\\"key\\",\\"caption\\":\\"Key\\",\\"inputTVtype\\":\\"text\\"},\\n{\\"field\\":\\"value\\",\\"caption\\":\\"Value\\",\\"inputTVtype\\":\\"text\\"}\\n]}\\n]\\";s:7:\\"columns\\";s:124:\\"[\\n{\\"header\\": \\"Key\\", \\"sortable\\": \\"true\\", \\"dataIndex\\": \\"key\\"},\\n{\\"header\\": \\"Value\\", \\"sortable\\": \\"true\\", \\"dataIndex\\": \\"value\\"}\\n]\\";s:7:\\"btntext\\";s:11:\\"Add feature\\";s:10:\\"previewurl\\";s:0:\\"\\";s:10:\\"jsonvarkey\\";s:0:\\"\\";s:19:\\"autoResourceFolders\\";s:5:\\"false\\";}","output_properties":"a:0:{}","static":0,"static_file":"","content":""}',
+);

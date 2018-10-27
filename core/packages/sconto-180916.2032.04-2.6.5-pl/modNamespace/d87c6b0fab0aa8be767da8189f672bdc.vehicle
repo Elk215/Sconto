@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'd7fe0dc7511a371d1cbdbf49d5b21fba',
+  'package' => 'modx',
+  'class' => 'modNamespace',
+  'signature' => 'd87c6b0fab0aa8be767da8189f672bdc',
+  'native_key' => 'admintools',
+  'object' => '{"name":"admintools","path":"{core_path}components\\/admintools\\/","assets_path":""}',
+);

@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '4f79c0c99a33169b0e59f929e67c7df2',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => 'b3922fecc4a54040ec8248792ca78a67',
+  'native_key' => 'manager_favicon_url',
+  'object' => '{"key":"manager_favicon_url","value":"","xtype":"textfield","namespace":"core","area":"manager","editedon":null}',
+);

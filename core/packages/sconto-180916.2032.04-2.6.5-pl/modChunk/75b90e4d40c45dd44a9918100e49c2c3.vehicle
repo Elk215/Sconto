@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '4ba29bbf1a1a97dee765ef4342ac594c',
+  'package' => 'modx',
+  'class' => 'modChunk',
+  'signature' => '75b90e4d40c45dd44a9918100e49c2c3',
+  'native_key' => 18,
+  'object' => '{"id":18,"source":1,"property_preprocess":0,"name":"tpl.msEmail.paid.user","description":"","editor_type":0,"category":11,"cache_type":0,"snippet":"{extends \'tpl.msEmail\'}\\r\\n\\r\\n{block \'title\'}\\r\\n    {\'ms2_email_subject_paid_user\' | lexicon : $order}\\r\\n{\\/block}","locked":0,"properties":null,"static":0,"static_file":"core\\/components\\/minishop2\\/elements\\/chunks\\/chunk.ms_email_paid_user.tpl","content":"{extends \'tpl.msEmail\'}\\r\\n\\r\\n{block \'title\'}\\r\\n    {\'ms2_email_subject_paid_user\' | lexicon : $order}\\r\\n{\\/block}"}',
+);

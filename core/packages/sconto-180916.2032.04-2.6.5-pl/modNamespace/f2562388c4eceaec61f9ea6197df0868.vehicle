@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '7ad5e36cd1bab83f09fad23ff9d3c178',
+  'package' => 'modx',
+  'class' => 'modNamespace',
+  'signature' => 'f2562388c4eceaec61f9ea6197df0868',
+  'native_key' => 'bannery',
+  'object' => '{"name":"bannery","path":"{core_path}components\\/bannery\\/","assets_path":""}',
+);

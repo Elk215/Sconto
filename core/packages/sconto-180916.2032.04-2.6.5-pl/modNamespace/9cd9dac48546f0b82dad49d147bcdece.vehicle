@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'f15fbcaf91711edc7c46970cfd89236f',
+  'package' => 'modx',
+  'class' => 'modNamespace',
+  'signature' => '9cd9dac48546f0b82dad49d147bcdece',
+  'native_key' => 'translit',
+  'object' => '{"name":"translit","path":"{core_path}components\\/translit\\/","assets_path":""}',
+);

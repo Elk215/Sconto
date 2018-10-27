@@ -1,0 +1,16 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'c6f0b5577e02b3a3a8fb3be7e5b04cdd',
+  'package' => 'modx',
+  'class' => 'modPluginEvent',
+  'signature' => 'e385bcd3f3ab58687bffdd3ad018a437',
+  'native_key' => 
+  array (
+    0 => 20,
+    1 => 'OnContextSave',
+  ),
+  'object' => '{"pluginid":20,"event":"OnContextSave","priority":0,"propertyset":0}',
+);

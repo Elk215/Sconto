@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '468190cce0ce3307ef727c6e8a9f5a06',
+  'package' => 'modx',
+  'class' => 'modAction',
+  'signature' => 'f9b2bdded6bb025b6cf68330856d1803',
+  'native_key' => 6,
+  'object' => '{"id":6,"namespace":"msearch2","controller":"index","haslayout":1,"lang_topics":"msearch2:default","assets":"","help_url":""}',
+);

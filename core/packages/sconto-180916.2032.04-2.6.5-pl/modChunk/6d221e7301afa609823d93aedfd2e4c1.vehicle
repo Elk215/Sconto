@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '30c89339ee545a1b383131ce9b5c8f7c',
+  'package' => 'modx',
+  'class' => 'modChunk',
+  'signature' => '6d221e7301afa609823d93aedfd2e4c1',
+  'native_key' => 30,
+  'object' => '{"id":30,"source":1,"property_preprocess":0,"name":"tpl.mFilter2.filter.checkbox","description":"","editor_type":0,"category":13,"cache_type":0,"snippet":"<label for=\\"mse2_[[+table]][[+delimeter]][[+filter]]_[[+idx]]\\" class=\\"[[+disabled]]\\">\\n\\t<input type=\\"checkbox\\" name=\\"[[+filter_key]]\\" id=\\"mse2_[[+table]][[+delimeter]][[+filter]]_[[+idx]]\\" value=\\"[[+value]]\\" [[+checked]] [[+disabled]]\\/> [[+title]] <sup>[[+num]]<\\/sup>\\n<\\/label><br\\/>","locked":0,"properties":null,"static":0,"static_file":"core\\/components\\/msearch2\\/elements\\/chunks\\/chunk.mfilter2.filter.checkbox.tpl","content":"<label for=\\"mse2_[[+table]][[+delimeter]][[+filter]]_[[+idx]]\\" class=\\"[[+disabled]]\\">\\n\\t<input type=\\"checkbox\\" name=\\"[[+filter_key]]\\" id=\\"mse2_[[+table]][[+delimeter]][[+filter]]_[[+idx]]\\" value=\\"[[+value]]\\" [[+checked]] [[+disabled]]\\/> [[+title]] <sup>[[+num]]<\\/sup>\\n<\\/label><br\\/>"}',
+);

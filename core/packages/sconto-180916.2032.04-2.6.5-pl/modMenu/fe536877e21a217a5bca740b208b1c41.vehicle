@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '011a5654d787160dc24d9d76aea14dfe',
+  'package' => 'modx',
+  'class' => 'modMenu',
+  'signature' => 'fe536877e21a217a5bca740b208b1c41',
+  'native_key' => 'import_site',
+  'object' => '{"text":"import_site","parent":"site","action":"system\\/import\\/html","description":"import_site_desc","icon":"","menuindex":5,"params":"","handler":"","permissions":"import_static","namespace":"core"}',
+);

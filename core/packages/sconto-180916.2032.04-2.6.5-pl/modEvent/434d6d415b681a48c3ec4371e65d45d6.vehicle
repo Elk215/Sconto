@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '7e3d5b166dc3852ee48c0bb927ea3946',
+  'package' => 'modx',
+  'class' => 'modEvent',
+  'signature' => '434d6d415b681a48c3ec4371e65d45d6',
+  'native_key' => 'msOnChangeInCart',
+  'object' => '{"name":"msOnChangeInCart","service":6,"groupname":"miniShop2"}',
+);

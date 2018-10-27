@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '356230b021c4dd7c9fd41cfe95c080cf',
+  'package' => 'modx',
+  'class' => 'modTemplateVar',
+  'signature' => '8efd9c46a6692337512d1ed8e90786d4',
+  'native_key' => 17,
+  'object' => '{"id":17,"source":1,"property_preprocess":0,"type":"migx","name":"categorySlider","caption":"Category Slider","description":"","editor_type":0,"category":22,"locked":0,"elements":"","rank":0,"display":"default","default_text":"","properties":"a:0:{}","input_properties":"a:7:{s:7:\\"configs\\";s:0:\\"\\";s:8:\\"formtabs\\";s:480:\\"[\\n{\\"caption\\":\\"\\", \\"fields\\": [\\n{\\"field\\":\\"categorySliderTitle\\",\\"caption\\":\\"categorySliderTitle\\",\\"inputTVtype\\":\\"text\\"},\\n{\\"field\\":\\"categorySliderTitle2\\",\\"caption\\":\\"categorySliderTitle2\\",\\"inputTVtype\\":\\"text\\"},\\n{\\"field\\":\\"categorySliderText\\",\\"caption\\":\\"categorySliderText\\",\\"inputTVtype\\":\\"textarea\\"},\\n{\\"field\\":\\"categorySliderButtonLink\\",\\"caption\\":\\"categorySliderButtonLink\\",\\"inputTVtype\\":\\"listbox\\"},\\n{\\"field\\":\\"categorySliderImage\\",\\"caption\\":\\"categorySliderImage\\",\\"inputTVtype\\":\\"image\\"}\\n]}\\n]\\";s:7:\\"columns\\";s:513:\\"[\\n{\\"header\\": \\"categorySliderTitle\\", \\"sortable\\": \\"true\\", \\"dataIndex\\": \\"categorySliderTitle\\"},\\n{\\"header\\": \\"categorySliderTitle2\\", \\"sortable\\": \\"true\\", \\"dataIndex\\": \\"categorySliderTitle2\\"},\\n{\\"header\\": \\"categorySliderText\\", \\"sortable\\": \\"true\\", \\"dataIndex\\": \\"categorySliderText\\"},\\n{\\"header\\": \\"categorySliderButtonLink\\", \\"sortable\\": \\"true\\", \\"dataIndex\\": \\"categorySliderButtonLink\\"},\\n{\\"header\\": \\"categorySliderImage\\", \\"width\\": \\"80\\", \\"sortable\\": \\"true\\", \\"dataIndex\\": \\"categorySliderImage\\",\\"renderer\\": \\"this.renderImage\\"}\\n]\\";s:7:\\"btntext\\";s:9:\\"Add slide\\";s:10:\\"previewurl\\";s:0:\\"\\";s:10:\\"jsonvarkey\\";s:0:\\"\\";s:19:\\"autoResourceFolders\\";s:5:\\"false\\";}","output_properties":"a:0:{}","static":0,"static_file":"","content":""}',
+);

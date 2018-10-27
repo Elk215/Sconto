@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'cf66ed1de6ca1477114511a52ae8e774',
+  'package' => 'modx',
+  'class' => 'modDocument',
+  'signature' => '2fb70890505c4076aba5d036a29c2a86',
+  'native_key' => 16,
+  'object' => '{"id":16,"type":"document","contentType":"text\\/html","pagetitle":"Cart","longtitle":"","description":"","alias":"cart","link_attributes":"","published":1,"pub_date":0,"unpub_date":0,"parent":0,"isfolder":0,"introtext":"","content":"","richtext":1,"template":7,"menuindex":8,"searchable":1,"cacheable":1,"createdby":1,"createdon":1536334328,"editedby":1,"editedon":1536334527,"deleted":0,"deletedon":0,"deletedby":0,"publishedon":1536334527,"publishedby":1,"menutitle":"","donthit":0,"privateweb":0,"privatemgr":0,"content_dispo":0,"hidemenu":0,"class_key":"modDocument","context_key":"web","content_type":1,"uri":"cart","uri_override":0,"hide_children_in_tree":0,"show_in_tree":1,"properties":null}',
+);

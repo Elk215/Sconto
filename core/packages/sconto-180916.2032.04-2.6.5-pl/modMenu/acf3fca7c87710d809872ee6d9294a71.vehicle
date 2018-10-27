@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'ee0e54b76e50a05ad3104ede553d9a76',
+  'package' => 'modx',
+  'class' => 'modMenu',
+  'signature' => 'acf3fca7c87710d809872ee6d9294a71',
+  'native_key' => 'console',
+  'object' => '{"text":"console","parent":"components","action":"1","description":"console_desc","icon":"images\\/icons\\/plugin.gif","menuindex":1,"params":"","handler":"","permissions":"console","namespace":"core"}',
+);

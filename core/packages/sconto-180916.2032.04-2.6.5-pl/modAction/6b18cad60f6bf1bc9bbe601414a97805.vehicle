@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '618f0a6042f83cdaf07327491acf1e10',
+  'package' => 'modx',
+  'class' => 'modAction',
+  'signature' => '6b18cad60f6bf1bc9bbe601414a97805',
+  'native_key' => 7,
+  'object' => '{"id":7,"namespace":"bannery","controller":"index","haslayout":1,"lang_topics":"bannery:default,file","assets":"","help_url":""}',
+);

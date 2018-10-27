@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'ee84edd13c96c5ea552bac201dec2987',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => 'a4d0279622d27feeb0c576e2380f53c9',
+  'native_key' => 'allow_tv_eval',
+  'object' => '{"key":"allow_tv_eval","value":"1","xtype":"combo-boolean","namespace":"core","area":"system","editedon":null}',
+);

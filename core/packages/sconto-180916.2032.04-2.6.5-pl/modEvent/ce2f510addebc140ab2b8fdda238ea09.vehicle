@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'baa1aaa6f326bbcd219e2440e8957780',
+  'package' => 'modx',
+  'class' => 'modEvent',
+  'signature' => 'ce2f510addebc140ab2b8fdda238ea09',
+  'native_key' => 'pdoToolsOnFenomInit',
+  'object' => '{"name":"pdoToolsOnFenomInit","service":6,"groupname":"pdoTools"}',
+);

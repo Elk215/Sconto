@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '179cfa8df5876aa62080a0fd43592721',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => '7fc99f3593325d9979efaa07f2a949da',
+  'native_key' => 'admintools_authorization_ttl',
+  'object' => '{"key":"admintools_authorization_ttl","value":"600","xtype":"numberfield","namespace":"admintools","area":"admintools_authorization","editedon":null}',
+);

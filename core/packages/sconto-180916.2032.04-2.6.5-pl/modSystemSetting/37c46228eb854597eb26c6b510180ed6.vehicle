@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'c31b5cbb672707a136080b8fce3c9412',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => '37c46228eb854597eb26c6b510180ed6',
+  'native_key' => 'ms2_order_user_groups',
+  'object' => '{"key":"ms2_order_user_groups","value":"","xtype":"textfield","namespace":"minishop2","area":"ms2_order","editedon":null}',
+);

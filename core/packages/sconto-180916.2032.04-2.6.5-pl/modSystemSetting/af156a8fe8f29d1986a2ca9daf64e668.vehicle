@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'a86e00bf1536302f9afea80630948139',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => 'af156a8fe8f29d1986a2ca9daf64e668',
+  'native_key' => 'friendly_alias_restrict_chars_pattern',
+  'object' => '{"key":"friendly_alias_restrict_chars_pattern","value":"\\/[\\\\0\\\\x0B\\\\t\\\\n\\\\r\\\\f\\\\a&=+%#<>\\"~:`@\\\\?\\\\[\\\\]\\\\{\\\\}\\\\|\\\\^\'\\\\\\\\]\\/","xtype":"textfield","namespace":"core","area":"furls","editedon":null}',
+);

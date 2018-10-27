@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '1b9718ac6e3746f16bcf542b359af293',
+  'package' => 'modx',
+  'class' => 'modAccessPolicyTemplate',
+  'signature' => '3b432b88ed0f95ec3102daae178dde21',
+  'native_key' => 8,
+  'object' => '{"id":8,"template_group":1,"name":"manager","description":"Context administration policy template with all permissions.","lexicon":"permissions"}',
+);

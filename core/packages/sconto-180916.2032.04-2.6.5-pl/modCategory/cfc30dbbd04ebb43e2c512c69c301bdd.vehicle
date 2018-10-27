@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'ac096ea22a66d9821604eddf93a466a7',
+  'package' => 'modx',
+  'class' => 'modCategory',
+  'signature' => 'cfc30dbbd04ebb43e2c512c69c301bdd',
+  'native_key' => 19,
+  'object' => '{"id":19,"parent":0,"category":"Testimonials","rank":0}',
+);

@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '93d8d0c3c9fe470fbe2601608cc3e5dd',
+  'package' => 'modx',
+  'class' => 'modMenu',
+  'signature' => 'e93fb91299276d65f80792144e8f812d',
+  'native_key' => 'installer',
+  'object' => '{"text":"installer","parent":"components","action":"workspaces","description":"installer_desc","icon":"","menuindex":0,"params":"","handler":"","permissions":"packages","namespace":"core"}',
+);

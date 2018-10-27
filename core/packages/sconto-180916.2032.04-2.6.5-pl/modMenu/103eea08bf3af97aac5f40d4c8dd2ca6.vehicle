@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'a69f641be270c0808118560e61b0c448',
+  'package' => 'modx',
+  'class' => 'modMenu',
+  'signature' => '103eea08bf3af97aac5f40d4c8dd2ca6',
+  'native_key' => 'BannerY',
+  'object' => '{"text":"BannerY","parent":"components","action":"7","description":"bannery.desc","icon":"images\\/icons\\/plugin.gif","menuindex":0,"params":"","handler":"","permissions":"","namespace":"core"}',
+);

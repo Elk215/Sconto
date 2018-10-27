@@ -1,0 +1,190 @@
+[2018-09-16 20:32:04] (INFO @ D:\Program\OpenServer\domains\Sconto\vapor\vapor.php : 100) core_path=D:\Program\OpenServer\domains\Sconto\core/
+[2018-09-16 20:32:04] (INFO @ D:\Program\OpenServer\domains\Sconto\vapor\vapor.php : 101) assets_path=D:\Program\OpenServer\domains\Sconto\assets/
+[2018-09-16 20:32:04] (INFO @ D:\Program\OpenServer\domains\Sconto\vapor\vapor.php : 102) manager_path=D:\Program\OpenServer\domains\Sconto\manager/
+[2018-09-16 20:32:04] (INFO @ D:\Program\OpenServer\domains\Sconto\vapor\vapor.php : 103) base_path=D:\Program\OpenServer\domains\Sconto/
+[2018-09-16 20:32:04] (INFO @ D:\Program\OpenServer\domains\Sconto\core\model\modx\transport\modpackagebuilder.class.php : 141) package_created
+[2018-09-16 20:32:04] (INFO @ D:\Program\OpenServer\domains\Sconto\vapor\vapor.php : 239) Packaging D:/Program/OpenServer/domains/Sconto/core/components
+[2018-09-16 20:32:08] (INFO @ D:\Program\OpenServer\domains\Sconto\vapor\vapor.php : 250) Packaging D:/Program/OpenServer/domains/Sconto/assets
+[2018-09-16 20:32:13] (INFO @ D:\Program\OpenServer\domains\Sconto\vapor\vapor.php : 261) Packaging D:/Program/OpenServer/domains/Sconto/manager/components
+[2018-09-16 20:32:13] (INFO @ D:\Program\OpenServer\domains\Sconto\vapor\vapor.php : 306) Packaging D:/Program/OpenServer/domains/Sconto/11
+[2018-09-16 20:32:13] (INFO @ D:\Program\OpenServer\domains\Sconto\vapor\vapor.php : 306) Packaging D:/Program/OpenServer/domains/Sconto/19
+[2018-09-16 20:32:13] (INFO @ D:\Program\OpenServer\domains\Sconto\vapor\vapor.php : 306) Packaging D:/Program/OpenServer/domains/Sconto/helpme
+[2018-09-16 20:32:14] (INFO @ D:\Program\OpenServer\domains\Sconto\vapor\vapor.php : 321) Packaging vaporVehicle class
+[2018-09-16 20:32:14] (INFO @ D:\Program\OpenServer\domains\Sconto\vapor\vapor.php : 382) Setting extension packages to: Array
+(
+    [0] => Array
+        (
+            [collections] => Array
+                (
+                    [path] => [[++core_path]]components/collections/model/
+                )
+
+        )
+
+    [1] => Array
+        (
+            [minishop2] => Array
+                (
+                    [path] => [[++core_path]]components/minishop2/model/
+                )
+
+        )
+
+)
+
+[2018-09-16 20:32:14] (INFO @ D:\Program\OpenServer\domains\Sconto\vapor\vapor.php : 525) Packaged 0 of modAccessAction
+[2018-09-16 20:32:14] (INFO @ D:\Program\OpenServer\domains\Sconto\vapor\vapor.php : 525) Packaged 0 of modAccessActionDom
+[2018-09-16 20:32:14] (INFO @ D:\Program\OpenServer\domains\Sconto\vapor\vapor.php : 525) Packaged 0 of modAccessCategory
+[2018-09-16 20:32:14] (INFO @ D:\Program\OpenServer\domains\Sconto\vapor\vapor.php : 525) Packaged 8 of modAccessContext
+[2018-09-16 20:32:14] (INFO @ D:\Program\OpenServer\domains\Sconto\vapor\vapor.php : 525) Packaged 0 of modAccessElement
+[2018-09-16 20:32:14] (INFO @ D:\Program\OpenServer\domains\Sconto\vapor\vapor.php : 525) Packaged 0 of modAccessMenu
+[2018-09-16 20:32:14] (INFO @ D:\Program\OpenServer\domains\Sconto\vapor\vapor.php : 525) Packaged 406 of modAccessPermission
+[2018-09-16 20:32:14] (INFO @ D:\Program\OpenServer\domains\Sconto\vapor\vapor.php : 525) Packaged 14 of modAccessPolicy
+[2018-09-16 20:32:14] (INFO @ D:\Program\OpenServer\domains\Sconto\vapor\vapor.php : 525) Packaged 9 of modAccessPolicyTemplate
+[2018-09-16 20:32:14] (INFO @ D:\Program\OpenServer\domains\Sconto\vapor\vapor.php : 525) Packaged 6 of modAccessPolicyTemplateGroup
+[2018-09-16 20:32:14] (INFO @ D:\Program\OpenServer\domains\Sconto\vapor\vapor.php : 525) Packaged 0 of modAccessResource
+[2018-09-16 20:32:14] (INFO @ D:\Program\OpenServer\domains\Sconto\vapor\vapor.php : 525) Packaged 0 of modAccessResourceGroup
+[2018-09-16 20:32:14] (INFO @ D:\Program\OpenServer\domains\Sconto\vapor\vapor.php : 525) Packaged 0 of modAccessTemplateVar
+[2018-09-16 20:32:14] (INFO @ D:\Program\OpenServer\domains\Sconto\vapor\vapor.php : 525) Packaged 7 of modAction
+[2018-09-16 20:32:14] (INFO @ D:\Program\OpenServer\domains\Sconto\vapor\vapor.php : 525) Packaged 0 of modActionDom
+[2018-09-16 20:32:14] (INFO @ D:\Program\OpenServer\domains\Sconto\vapor\vapor.php : 525) Packaged 76 of modActionField
+[2018-09-16 20:32:14] (INFO @ D:\Program\OpenServer\domains\Sconto\vapor\vapor.php : 525) Packaged 27 of modCategory
+[2018-09-16 20:32:14] (INFO @ D:\Program\OpenServer\domains\Sconto\vapor\vapor.php : 525) Packaged 54 of modCategoryClosure
+[2018-09-16 20:32:14] (INFO @ D:\Program\OpenServer\domains\Sconto\vapor\vapor.php : 525) Packaged 51 of modChunk
+[2018-09-16 20:32:15] (INFO @ D:\Program\OpenServer\domains\Sconto\vapor\vapor.php : 525) Packaged 9 of modClassMap
+[2018-09-16 20:32:15] (INFO @ D:\Program\OpenServer\domains\Sconto\vapor\vapor.php : 525) Packaged 8 of modContentType
+[2018-09-16 20:32:15] (INFO @ D:\Program\OpenServer\domains\Sconto\vapor\vapor.php : 525) Packaged 3 of modContext
+[2018-09-16 20:32:15] (INFO @ D:\Program\OpenServer\domains\Sconto\vapor\vapor.php : 525) Packaged 0 of modContextResource
+[2018-09-16 20:32:15] (INFO @ D:\Program\OpenServer\domains\Sconto\vapor\vapor.php : 525) Packaged 10 of modContextSetting
+[2018-09-16 20:32:15] (INFO @ D:\Program\OpenServer\domains\Sconto\vapor\vapor.php : 525) Packaged 0 of modElementPropertySet
+[2018-09-16 20:32:15] (INFO @ D:\Program\OpenServer\domains\Sconto\vapor\vapor.php : 525) Packaged 231 of modEvent
+[2018-09-16 20:32:15] (INFO @ D:\Program\OpenServer\domains\Sconto\vapor\vapor.php : 525) Packaged 0 of modFormCustomizationProfile
+[2018-09-16 20:32:15] (INFO @ D:\Program\OpenServer\domains\Sconto\vapor\vapor.php : 525) Packaged 0 of modFormCustomizationProfileUserGroup
+[2018-09-16 20:32:15] (INFO @ D:\Program\OpenServer\domains\Sconto\vapor\vapor.php : 525) Packaged 0 of modFormCustomizationSet
+[2018-09-16 20:32:15] (INFO @ D:\Program\OpenServer\domains\Sconto\vapor\vapor.php : 525) Packaged 0 of modLexiconEntry
+[2018-09-16 20:32:15] (INFO @ D:\Program\OpenServer\domains\Sconto\vapor\vapor.php : 525) Packaged 51 of modMenu
+[2018-09-16 20:32:15] (INFO @ D:\Program\OpenServer\domains\Sconto\vapor\vapor.php : 525) Packaged 22 of modNamespace
+[2018-09-16 20:32:15] (INFO @ D:\Program\OpenServer\domains\Sconto\vapor\vapor.php : 525) Packaged 18 of modPlugin
+[2018-09-16 20:32:15] (INFO @ D:\Program\OpenServer\domains\Sconto\vapor\vapor.php : 525) Packaged 68 of modPluginEvent
+[2018-09-16 20:32:15] (INFO @ D:\Program\OpenServer\domains\Sconto\vapor\vapor.php : 525) Packaged 0 of modPropertySet
+[2018-09-16 20:32:15] (INFO @ D:\Program\OpenServer\domains\Sconto\vapor\vapor.php : 525) Packaged 17 of modResource
+[2018-09-16 20:32:15] (INFO @ D:\Program\OpenServer\domains\Sconto\vapor\vapor.php : 525) Packaged 0 of modResourceGroup
+[2018-09-16 20:32:15] (INFO @ D:\Program\OpenServer\domains\Sconto\vapor\vapor.php : 525) Packaged 0 of modResourceGroupResource
+[2018-09-16 20:32:15] (INFO @ D:\Program\OpenServer\domains\Sconto\vapor\vapor.php : 525) Packaged 55 of modSnippet
+[2018-09-16 20:32:15] (INFO @ D:\Program\OpenServer\domains\Sconto\vapor\vapor.php : 525) Packaged 415 of modSystemSetting
+[2018-09-16 20:32:15] (INFO @ D:\Program\OpenServer\domains\Sconto\vapor\vapor.php : 525) Packaged 11 of modTemplate
+[2018-09-16 20:32:15] (INFO @ D:\Program\OpenServer\domains\Sconto\vapor\vapor.php : 525) Packaged 15 of modTemplateVar
+[2018-09-16 20:32:16] (INFO @ D:\Program\OpenServer\domains\Sconto\vapor\vapor.php : 525) Packaged 26 of modTemplateVarResource
+[2018-09-16 20:32:16] (INFO @ D:\Program\OpenServer\domains\Sconto\vapor\vapor.php : 525) Packaged 0 of modTemplateVarResourceGroup
+[2018-09-16 20:32:16] (INFO @ D:\Program\OpenServer\domains\Sconto\vapor\vapor.php : 525) Packaged 21 of modTemplateVarTemplate
+[2018-09-16 20:32:16] (INFO @ D:\Program\OpenServer\domains\Sconto\vapor\vapor.php : 525) Packaged 2 of modUserGroup
+[2018-09-16 20:32:16] (INFO @ D:\Program\OpenServer\domains\Sconto\vapor\vapor.php : 525) Packaged 3 of modUserGroupRole
+[2018-09-16 20:32:16] (INFO @ D:\Program\OpenServer\domains\Sconto\vapor\vapor.php : 434) Packaged 1 of modWorkspace
+[2018-09-16 20:32:16] (INFO @ D:\Program\OpenServer\domains\Sconto\vapor\vapor.php : 525) Packaged 1 of registry.db.modDbRegisterMessage
+[2018-09-16 20:32:16] (INFO @ D:\Program\OpenServer\domains\Sconto\vapor\vapor.php : 525) Packaged 4 of registry.db.modDbRegisterTopic
+[2018-09-16 20:32:16] (INFO @ D:\Program\OpenServer\domains\Sconto\vapor\vapor.php : 525) Packaged 3 of registry.db.modDbRegisterQueue
+[2018-09-16 20:32:16] (INFO @ D:\Program\OpenServer\domains\Sconto\vapor\vapor.php : 525) Packaged 2 of transport.modTransportProvider
+[2018-09-16 20:32:17] (INFO @ D:\Program\OpenServer\domains\Sconto\vapor\vapor.php : 466) Packaged 21 of transport.modTransportPackage
+[2018-09-16 20:32:17] (INFO @ D:\Program\OpenServer\domains\Sconto\vapor\vapor.php : 525) Packaged 1 of modDashboard
+[2018-09-16 20:32:17] (INFO @ D:\Program\OpenServer\domains\Sconto\vapor\vapor.php : 525) Packaged 5 of modDashboardWidget
+[2018-09-16 20:32:17] (INFO @ D:\Program\OpenServer\domains\Sconto\vapor\vapor.php : 525) Packaged 5 of modDashboardWidgetPlacement
+[2018-09-16 20:32:17] (INFO @ D:\Program\OpenServer\domains\Sconto\vapor\vapor.php : 525) Packaged 2 of sources.modAccessMediaSource
+[2018-09-16 20:32:17] (INFO @ D:\Program\OpenServer\domains\Sconto\vapor\vapor.php : 512) Packaged 4 of sources.modMediaSource
+[2018-09-16 20:32:17] (INFO @ D:\Program\OpenServer\domains\Sconto\vapor\vapor.php : 525) Packaged 19 of sources.modMediaSourceElement
+[2018-09-16 20:32:17] (INFO @ D:\Program\OpenServer\domains\Sconto\vapor\vapor.php : 525) Packaged 0 of sources.modMediaSourceContext
+[2018-09-16 20:32:17] (INFO @ D:\Program\OpenServer\domains\Sconto\vapor\vapor.php : 568) Extracting non-core table access_namespace
+[2018-09-16 20:32:17] (INFO @ D:\Program\OpenServer\domains\Sconto\vapor\vapor.php : 621) Packaged 0 rows for table access_namespace
+[2018-09-16 20:32:17] (INFO @ D:\Program\OpenServer\domains\Sconto\vapor\vapor.php : 568) Extracting non-core table admintools_notes
+[2018-09-16 20:32:17] (INFO @ D:\Program\OpenServer\domains\Sconto\vapor\vapor.php : 621) Packaged 0 rows for table admintools_notes
+[2018-09-16 20:32:17] (INFO @ D:\Program\OpenServer\domains\Sconto\vapor\vapor.php : 568) Extracting non-core table admintools_permissions
+[2018-09-16 20:32:17] (INFO @ D:\Program\OpenServer\domains\Sconto\vapor\vapor.php : 621) Packaged 0 rows for table admintools_permissions
+[2018-09-16 20:32:17] (INFO @ D:\Program\OpenServer\domains\Sconto\vapor\vapor.php : 568) Extracting non-core table bannery_ads
+[2018-09-16 20:32:17] (INFO @ D:\Program\OpenServer\domains\Sconto\vapor\vapor.php : 621) Packaged 5 rows for table bannery_ads
+[2018-09-16 20:32:17] (INFO @ D:\Program\OpenServer\domains\Sconto\vapor\vapor.php : 568) Extracting non-core table bannery_ads_positions
+[2018-09-16 20:32:17] (INFO @ D:\Program\OpenServer\domains\Sconto\vapor\vapor.php : 621) Packaged 5 rows for table bannery_ads_positions
+[2018-09-16 20:32:17] (INFO @ D:\Program\OpenServer\domains\Sconto\vapor\vapor.php : 568) Extracting non-core table bannery_clicks
+[2018-09-16 20:32:17] (INFO @ D:\Program\OpenServer\domains\Sconto\vapor\vapor.php : 621) Packaged 4 rows for table bannery_clicks
+[2018-09-16 20:32:17] (INFO @ D:\Program\OpenServer\domains\Sconto\vapor\vapor.php : 568) Extracting non-core table bannery_positions
+[2018-09-16 20:32:17] (INFO @ D:\Program\OpenServer\domains\Sconto\vapor\vapor.php : 621) Packaged 3 rows for table bannery_positions
+[2018-09-16 20:32:17] (INFO @ D:\Program\OpenServer\domains\Sconto\vapor\vapor.php : 568) Extracting non-core table clientconfig_context_value
+[2018-09-16 20:32:17] (INFO @ D:\Program\OpenServer\domains\Sconto\vapor\vapor.php : 621) Packaged 0 rows for table clientconfig_context_value
+[2018-09-16 20:32:17] (INFO @ D:\Program\OpenServer\domains\Sconto\vapor\vapor.php : 568) Extracting non-core table clientconfig_group
+[2018-09-16 20:32:17] (INFO @ D:\Program\OpenServer\domains\Sconto\vapor\vapor.php : 621) Packaged 5 rows for table clientconfig_group
+[2018-09-16 20:32:17] (INFO @ D:\Program\OpenServer\domains\Sconto\vapor\vapor.php : 568) Extracting non-core table clientconfig_setting
+[2018-09-16 20:32:17] (INFO @ D:\Program\OpenServer\domains\Sconto\vapor\vapor.php : 621) Packaged 14 rows for table clientconfig_setting
+[2018-09-16 20:32:17] (INFO @ D:\Program\OpenServer\domains\Sconto\vapor\vapor.php : 568) Extracting non-core table collection_resource_template
+[2018-09-16 20:32:17] (INFO @ D:\Program\OpenServer\domains\Sconto\vapor\vapor.php : 621) Packaged 0 rows for table collection_resource_template
+[2018-09-16 20:32:17] (INFO @ D:\Program\OpenServer\domains\Sconto\vapor\vapor.php : 568) Extracting non-core table collection_selections
+[2018-09-16 20:32:17] (INFO @ D:\Program\OpenServer\domains\Sconto\vapor\vapor.php : 621) Packaged 0 rows for table collection_selections
+[2018-09-16 20:32:17] (INFO @ D:\Program\OpenServer\domains\Sconto\vapor\vapor.php : 568) Extracting non-core table collection_settings
+[2018-09-16 20:32:17] (INFO @ D:\Program\OpenServer\domains\Sconto\vapor\vapor.php : 621) Packaged 0 rows for table collection_settings
+[2018-09-16 20:32:17] (INFO @ D:\Program\OpenServer\domains\Sconto\vapor\vapor.php : 568) Extracting non-core table collection_template_columns
+[2018-09-16 20:32:17] (INFO @ D:\Program\OpenServer\domains\Sconto\vapor\vapor.php : 621) Packaged 5 rows for table collection_template_columns
+[2018-09-16 20:32:17] (INFO @ D:\Program\OpenServer\domains\Sconto\vapor\vapor.php : 568) Extracting non-core table collection_templates
+[2018-09-16 20:32:17] (INFO @ D:\Program\OpenServer\domains\Sconto\vapor\vapor.php : 621) Packaged 1 rows for table collection_templates
+[2018-09-16 20:32:17] (INFO @ D:\Program\OpenServer\domains\Sconto\vapor\vapor.php : 568) Extracting non-core table extension_packages
+[2018-09-16 20:32:17] (INFO @ D:\Program\OpenServer\domains\Sconto\vapor\vapor.php : 621) Packaged 0 rows for table extension_packages
+[2018-09-16 20:32:17] (INFO @ D:\Program\OpenServer\domains\Sconto\vapor\vapor.php : 568) Extracting non-core table formit_forms
+[2018-09-16 20:32:17] (INFO @ D:\Program\OpenServer\domains\Sconto\vapor\vapor.php : 621) Packaged 2 rows for table formit_forms
+[2018-09-16 20:32:17] (INFO @ D:\Program\OpenServer\domains\Sconto\vapor\vapor.php : 568) Extracting non-core table localizator_content
+[2018-09-16 20:32:17] (INFO @ D:\Program\OpenServer\domains\Sconto\vapor\vapor.php : 621) Packaged 2 rows for table localizator_content
+[2018-09-16 20:32:17] (INFO @ D:\Program\OpenServer\domains\Sconto\vapor\vapor.php : 568) Extracting non-core table localizator_languages
+[2018-09-16 20:32:17] (INFO @ D:\Program\OpenServer\domains\Sconto\vapor\vapor.php : 621) Packaged 2 rows for table localizator_languages
+[2018-09-16 20:32:17] (INFO @ D:\Program\OpenServer\domains\Sconto\vapor\vapor.php : 568) Extracting non-core table migx_config_elements
+[2018-09-16 20:32:17] (INFO @ D:\Program\OpenServer\domains\Sconto\vapor\vapor.php : 621) Packaged 0 rows for table migx_config_elements
+[2018-09-16 20:32:17] (INFO @ D:\Program\OpenServer\domains\Sconto\vapor\vapor.php : 568) Extracting non-core table migx_configs
+[2018-09-16 20:32:17] (INFO @ D:\Program\OpenServer\domains\Sconto\vapor\vapor.php : 621) Packaged 0 rows for table migx_configs
+[2018-09-16 20:32:17] (INFO @ D:\Program\OpenServer\domains\Sconto\vapor\vapor.php : 568) Extracting non-core table migx_elements
+[2018-09-16 20:32:17] (INFO @ D:\Program\OpenServer\domains\Sconto\vapor\vapor.php : 621) Packaged 0 rows for table migx_elements
+[2018-09-16 20:32:17] (INFO @ D:\Program\OpenServer\domains\Sconto\vapor\vapor.php : 568) Extracting non-core table migx_formtab_fields
+[2018-09-16 20:32:17] (INFO @ D:\Program\OpenServer\domains\Sconto\vapor\vapor.php : 621) Packaged 0 rows for table migx_formtab_fields
+[2018-09-16 20:32:17] (INFO @ D:\Program\OpenServer\domains\Sconto\vapor\vapor.php : 568) Extracting non-core table migx_formtabs
+[2018-09-16 20:32:17] (INFO @ D:\Program\OpenServer\domains\Sconto\vapor\vapor.php : 621) Packaged 0 rows for table migx_formtabs
+[2018-09-16 20:32:17] (INFO @ D:\Program\OpenServer\domains\Sconto\vapor\vapor.php : 568) Extracting non-core table ms2_category_options
+[2018-09-16 20:32:17] (INFO @ D:\Program\OpenServer\domains\Sconto\vapor\vapor.php : 621) Packaged 0 rows for table ms2_category_options
+[2018-09-16 20:32:17] (INFO @ D:\Program\OpenServer\domains\Sconto\vapor\vapor.php : 568) Extracting non-core table ms2_customer_profiles
+[2018-09-16 20:32:17] (INFO @ D:\Program\OpenServer\domains\Sconto\vapor\vapor.php : 621) Packaged 0 rows for table ms2_customer_profiles
+[2018-09-16 20:32:17] (INFO @ D:\Program\OpenServer\domains\Sconto\vapor\vapor.php : 568) Extracting non-core table ms2_deliveries
+[2018-09-16 20:32:17] (INFO @ D:\Program\OpenServer\domains\Sconto\vapor\vapor.php : 621) Packaged 2 rows for table ms2_deliveries
+[2018-09-16 20:32:17] (INFO @ D:\Program\OpenServer\domains\Sconto\vapor\vapor.php : 568) Extracting non-core table ms2_delivery_payments
+[2018-09-16 20:32:17] (INFO @ D:\Program\OpenServer\domains\Sconto\vapor\vapor.php : 621) Packaged 4 rows for table ms2_delivery_payments
+[2018-09-16 20:32:17] (INFO @ D:\Program\OpenServer\domains\Sconto\vapor\vapor.php : 568) Extracting non-core table ms2_links
+[2018-09-16 20:32:17] (INFO @ D:\Program\OpenServer\domains\Sconto\vapor\vapor.php : 621) Packaged 0 rows for table ms2_links
+[2018-09-16 20:32:17] (INFO @ D:\Program\OpenServer\domains\Sconto\vapor\vapor.php : 568) Extracting non-core table ms2_options
+[2018-09-16 20:32:17] (INFO @ D:\Program\OpenServer\domains\Sconto\vapor\vapor.php : 621) Packaged 0 rows for table ms2_options
+[2018-09-16 20:32:17] (INFO @ D:\Program\OpenServer\domains\Sconto\vapor\vapor.php : 568) Extracting non-core table ms2_order_addresses
+[2018-09-16 20:32:17] (INFO @ D:\Program\OpenServer\domains\Sconto\vapor\vapor.php : 621) Packaged 5 rows for table ms2_order_addresses
+[2018-09-16 20:32:17] (INFO @ D:\Program\OpenServer\domains\Sconto\vapor\vapor.php : 568) Extracting non-core table ms2_order_logs
+[2018-09-16 20:32:17] (INFO @ D:\Program\OpenServer\domains\Sconto\vapor\vapor.php : 621) Packaged 5 rows for table ms2_order_logs
+[2018-09-16 20:32:17] (INFO @ D:\Program\OpenServer\domains\Sconto\vapor\vapor.php : 568) Extracting non-core table ms2_order_products
+[2018-09-16 20:32:17] (INFO @ D:\Program\OpenServer\domains\Sconto\vapor\vapor.php : 621) Packaged 5 rows for table ms2_order_products
+[2018-09-16 20:32:17] (INFO @ D:\Program\OpenServer\domains\Sconto\vapor\vapor.php : 568) Extracting non-core table ms2_order_statuses
+[2018-09-16 20:32:17] (INFO @ D:\Program\OpenServer\domains\Sconto\vapor\vapor.php : 621) Packaged 4 rows for table ms2_order_statuses
+[2018-09-16 20:32:17] (INFO @ D:\Program\OpenServer\domains\Sconto\vapor\vapor.php : 568) Extracting non-core table ms2_orders
+[2018-09-16 20:32:17] (INFO @ D:\Program\OpenServer\domains\Sconto\vapor\vapor.php : 621) Packaged 5 rows for table ms2_orders
+[2018-09-16 20:32:17] (INFO @ D:\Program\OpenServer\domains\Sconto\vapor\vapor.php : 568) Extracting non-core table ms2_payments
+[2018-09-16 20:32:17] (INFO @ D:\Program\OpenServer\domains\Sconto\vapor\vapor.php : 621) Packaged 2 rows for table ms2_payments
+[2018-09-16 20:32:17] (INFO @ D:\Program\OpenServer\domains\Sconto\vapor\vapor.php : 568) Extracting non-core table ms2_product_categories
+[2018-09-16 20:32:17] (INFO @ D:\Program\OpenServer\domains\Sconto\vapor\vapor.php : 621) Packaged 1 rows for table ms2_product_categories
+[2018-09-16 20:32:17] (INFO @ D:\Program\OpenServer\domains\Sconto\vapor\vapor.php : 568) Extracting non-core table ms2_product_files
+[2018-09-16 20:32:17] (INFO @ D:\Program\OpenServer\domains\Sconto\vapor\vapor.php : 621) Packaged 44 rows for table ms2_product_files
+[2018-09-16 20:32:17] (INFO @ D:\Program\OpenServer\domains\Sconto\vapor\vapor.php : 568) Extracting non-core table ms2_product_links
+[2018-09-16 20:32:17] (INFO @ D:\Program\OpenServer\domains\Sconto\vapor\vapor.php : 621) Packaged 0 rows for table ms2_product_links
+[2018-09-16 20:32:17] (INFO @ D:\Program\OpenServer\domains\Sconto\vapor\vapor.php : 568) Extracting non-core table ms2_product_options
+[2018-09-16 20:32:17] (INFO @ D:\Program\OpenServer\domains\Sconto\vapor\vapor.php : 621) Packaged 4 rows for table ms2_product_options
+[2018-09-16 20:32:17] (INFO @ D:\Program\OpenServer\domains\Sconto\vapor\vapor.php : 568) Extracting non-core table ms2_products
+[2018-09-16 20:32:17] (INFO @ D:\Program\OpenServer\domains\Sconto\vapor\vapor.php : 621) Packaged 3 rows for table ms2_products
+[2018-09-16 20:32:17] (INFO @ D:\Program\OpenServer\domains\Sconto\vapor\vapor.php : 568) Extracting non-core table ms2_vendors
+[2018-09-16 20:32:17] (INFO @ D:\Program\OpenServer\domains\Sconto\vapor\vapor.php : 621) Packaged 3 rows for table ms2_vendors
+[2018-09-16 20:32:17] (INFO @ D:\Program\OpenServer\domains\Sconto\vapor\vapor.php : 568) Extracting non-core table mse2_aliases
+[2018-09-16 20:32:17] (INFO @ D:\Program\OpenServer\domains\Sconto\vapor\vapor.php : 621) Packaged 0 rows for table mse2_aliases
+[2018-09-16 20:32:17] (INFO @ D:\Program\OpenServer\domains\Sconto\vapor\vapor.php : 568) Extracting non-core table mse2_intro
+[2018-09-16 20:32:17] (INFO @ D:\Program\OpenServer\domains\Sconto\vapor\vapor.php : 621) Packaged 15 rows for table mse2_intro
+[2018-09-16 20:32:17] (INFO @ D:\Program\OpenServer\domains\Sconto\vapor\vapor.php : 568) Extracting non-core table mse2_queries
+[2018-09-16 20:32:17] (INFO @ D:\Program\OpenServer\domains\Sconto\vapor\vapor.php : 621) Packaged 0 rows for table mse2_queries
+[2018-09-16 20:32:17] (INFO @ D:\Program\OpenServer\domains\Sconto\vapor\vapor.php : 568) Extracting non-core table mse2_words
+[2018-09-16 20:32:17] (INFO @ D:\Program\OpenServer\domains\Sconto\vapor\vapor.php : 621) Packaged 434 rows for table mse2_words
+[2018-09-16 20:32:17] (INFO @ D:\Program\OpenServer\domains\Sconto\vapor\vapor.php : 568) Extracting non-core table user_group_settings
+[2018-09-16 20:32:17] (INFO @ D:\Program\OpenServer\domains\Sconto\vapor\vapor.php : 621) Packaged 0 rows for table user_group_settings
+[2018-09-16 20:32:29] (INFO @ D:\Program\OpenServer\domains\Sconto\vapor\vapor.php : 636) Completed extracting package: sconto-180916.2032.04-2.6.5-pl
+[2018-09-16 20:32:29] (INFO @ D:\Program\OpenServer\domains\Sconto\vapor\vapor.php : 640) Vapor execution completed without exception in 24,2864s

@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'f631b378e1270de32fbb1df123eeb869',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => '1fbd084617cdb7fe381b4e8702c6cac7',
+  'native_key' => 'frontendmanager_manager_css',
+  'object' => '{"key":"frontendmanager_manager_css","value":"manager.css","xtype":"textfield","namespace":"frontendmanager","area":"frontendmanager_manager","editedon":null}',
+);

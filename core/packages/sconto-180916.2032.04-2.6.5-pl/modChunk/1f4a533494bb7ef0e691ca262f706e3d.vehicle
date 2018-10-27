@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '0ab1c035cd176cc2f71a61e8c00f394c',
+  'package' => 'modx',
+  'class' => 'modChunk',
+  'signature' => '1f4a533494bb7ef0e691ca262f706e3d',
+  'native_key' => 14,
+  'object' => '{"id":14,"source":1,"property_preprocess":0,"name":"tpl.msGallery","description":"","editor_type":0,"category":11,"cache_type":0,"snippet":"<div id=\\"msGallery\\">\\r\\n    {if $files?}\\r\\n        <div class=\\"fotorama\\"\\r\\n             data-nav=\\"thumbs\\"\\r\\n             data-thumbheight=\\"45\\"\\r\\n             data-allowfullscreen=\\"true\\"\\r\\n             data-swipe=\\"true\\"\\r\\n             data-autoplay=\\"5000\\">\\r\\n            {foreach $files as $file}\\r\\n                <a href=\\"{$file[\'url\']}\\" target=\\"_blank\\">\\r\\n                    <img src=\\"{$file[\'small\']}\\" alt=\\"\\" title=\\"\\">\\r\\n                <\\/a>\\r\\n            {\\/foreach}\\r\\n        <\\/div>\\r\\n    {else}\\r\\n        <img src=\\"{(\'assets_url\' | option) ~ \'components\\/minishop2\\/img\\/web\\/ms2_medium.png\'}\\"\\r\\n             srcset=\\"{(\'assets_url\' | option) ~ \'components\\/minishop2\\/img\\/web\\/ms2_medium@2x.png\'} 2x\\"\\r\\n             alt=\\"\\" title=\\"\\"\\/>\\r\\n    {\\/if}\\r\\n<\\/div>\\r\\n\\r\\n","locked":0,"properties":null,"static":0,"static_file":"core\\/components\\/minishop2\\/elements\\/chunks\\/chunk.ms_gallery.tpl","content":"<div id=\\"msGallery\\">\\r\\n    {if $files?}\\r\\n        <div class=\\"fotorama\\"\\r\\n             data-nav=\\"thumbs\\"\\r\\n             data-thumbheight=\\"45\\"\\r\\n             data-allowfullscreen=\\"true\\"\\r\\n             data-swipe=\\"true\\"\\r\\n             data-autoplay=\\"5000\\">\\r\\n            {foreach $files as $file}\\r\\n                <a href=\\"{$file[\'url\']}\\" target=\\"_blank\\">\\r\\n                    <img src=\\"{$file[\'small\']}\\" alt=\\"\\" title=\\"\\">\\r\\n                <\\/a>\\r\\n            {\\/foreach}\\r\\n        <\\/div>\\r\\n    {else}\\r\\n        <img src=\\"{(\'assets_url\' | option) ~ \'components\\/minishop2\\/img\\/web\\/ms2_medium.png\'}\\"\\r\\n             srcset=\\"{(\'assets_url\' | option) ~ \'components\\/minishop2\\/img\\/web\\/ms2_medium@2x.png\'} 2x\\"\\r\\n             alt=\\"\\" title=\\"\\"\\/>\\r\\n    {\\/if}\\r\\n<\\/div>\\r\\n\\r\\n"}',
+);

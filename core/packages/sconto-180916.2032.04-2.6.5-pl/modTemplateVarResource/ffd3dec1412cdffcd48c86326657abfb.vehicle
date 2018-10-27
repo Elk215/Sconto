@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '411bdb9bd357c1ade8819b4568bdac65',
+  'package' => 'modx',
+  'class' => 'modTemplateVarResource',
+  'signature' => 'ffd3dec1412cdffcd48c86326657abfb',
+  'native_key' => 3,
+  'object' => '{"id":3,"tmplvarid":6,"contentid":1,"value":"[{\\"MIGX_id\\":\\"8\\",\\"partnerImage\\":\\"assets\\\\\\/sconto\\\\\\/assets\\\\\\/images\\\\\\/partners\\\\\\/dark\\\\\\/partner1.png\\"},{\\"MIGX_id\\":\\"9\\",\\"partnerImage\\":\\"assets\\\\\\/sconto\\\\\\/assets\\\\\\/images\\\\\\/partners\\\\\\/dark\\\\\\/partner2.png\\"},{\\"MIGX_id\\":\\"10\\",\\"partnerImage\\":\\"assets\\\\\\/sconto\\\\\\/assets\\\\\\/images\\\\\\/partners\\\\\\/dark\\\\\\/partner3.png\\"},{\\"MIGX_id\\":\\"11\\",\\"partnerImage\\":\\"assets\\\\\\/sconto\\\\\\/assets\\\\\\/images\\\\\\/partners\\\\\\/dark\\\\\\/partner4.png\\"},{\\"MIGX_id\\":\\"12\\",\\"partnerImage\\":\\"assets\\\\\\/sconto\\\\\\/assets\\\\\\/images\\\\\\/partners\\\\\\/dark\\\\\\/partner5.png\\"},{\\"MIGX_id\\":\\"13\\",\\"partnerImage\\":\\"assets\\\\\\/sconto\\\\\\/assets\\\\\\/images\\\\\\/partners\\\\\\/dark\\\\\\/partner6.png\\"},{\\"MIGX_id\\":\\"14\\",\\"partnerImage\\":\\"assets\\\\\\/sconto\\\\\\/assets\\\\\\/images\\\\\\/partners\\\\\\/dark\\\\\\/partner7.png\\"}]"}',
+);

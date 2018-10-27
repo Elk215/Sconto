@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '2d988c463f9539632f86f5ad9cf07eea',
+  'package' => 'modx',
+  'class' => 'modCategory',
+  'signature' => '3f150e201d6bbe835d0df5782b0a93a7',
+  'native_key' => 28,
+  'object' => '{"id":28,"parent":0,"category":"XRouting","rank":0}',
+);

@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'ecac49dee1630689857858f865c1255a',
+  'package' => 'modx',
+  'class' => 'modNamespace',
+  'signature' => '18b9c066c77ff95141fc849fc299ab2d',
+  'native_key' => 'formit',
+  'object' => '{"name":"formit","path":"{core_path}components\\/formit\\/","assets_path":"{assets_path}components\\/formit\\/"}',
+);

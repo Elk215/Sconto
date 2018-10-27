@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '56635edc11b8d809ca0035926dd94ca0',
+  'package' => 'modx',
+  'class' => 'modAccessPermission',
+  'signature' => '54bf957ec60b9faf23023ff58c05b32d',
+  'native_key' => 144,
+  'object' => '{"id":144,"template":1,"name":"steal_locks","description":"perm.steal_locks_desc","value":1}',
+);

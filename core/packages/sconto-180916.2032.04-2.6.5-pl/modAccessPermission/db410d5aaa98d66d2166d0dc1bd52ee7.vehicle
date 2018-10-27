@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'ff70761fbfe377e01033a88fff359db7',
+  'package' => 'modx',
+  'class' => 'modAccessPermission',
+  'signature' => 'db410d5aaa98d66d2166d0dc1bd52ee7',
+  'native_key' => 169,
+  'object' => '{"id":169,"template":1,"name":"view_sysinfo","description":"perm.view_sysinfo_desc","value":1}',
+);

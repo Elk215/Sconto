@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '5a54568554246354e25e9f27bcf98a3c',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => '755bf1c2d1d573b156e8d3cd240ee1c0',
+  'native_key' => 'mse2_index_split_words',
+  'object' => '{"key":"mse2_index_split_words","value":"#\\\\s|[,.:;!?\\"\'(){}\\\\\\/\\\\#]#u","xtype":"textfield","namespace":"msearch2","area":"mse2_index","editedon":null}',
+);

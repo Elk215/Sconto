@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '9d46ce0c2494ee890e778767dfc5338b',
+  'package' => 'modx',
+  'class' => 'modCategory',
+  'signature' => '5de8d496735b17fbe184fd85064e3742',
+  'native_key' => 15,
+  'object' => '{"id":15,"parent":0,"category":"BannerY","rank":0}',
+);

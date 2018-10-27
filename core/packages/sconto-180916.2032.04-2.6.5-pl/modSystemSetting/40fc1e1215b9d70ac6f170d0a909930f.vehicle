@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '05f09dc83b3aad361607b8c315bca8a1',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => '40fc1e1215b9d70ac6f170d0a909930f',
+  'native_key' => 'sisea.elastic.port',
+  'object' => '{"key":"sisea.elastic.port","value":"9200","xtype":"textfield","namespace":"sisea","area":"ElasticSearch","editedon":null}',
+);

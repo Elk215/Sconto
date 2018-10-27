@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '19a039d418945e0bb1ca236361092b4e',
+  'package' => 'modx',
+  'class' => 'modTemplateVarResource',
+  'signature' => 'feea657c49c2155d5832090e2a617f58',
+  'native_key' => 23,
+  'object' => '{"id":23,"tmplvarid":19,"contentid":11,"value":"[{\\"MIGX_id\\":\\"1\\",\\"key\\":\\"Digital TV or ATV\\",\\"value\\":\\"ATSC\\\\\\/NTSC\\"},{\\"MIGX_id\\":\\"2\\",\\"key\\":\\"Area\\",\\"value\\":\\"North America\\"},{\\"MIGX_id\\":\\"3\\",\\"key\\":\\"Display Technology\\\\t\\",\\"value\\":\\"ELED\\"},{\\"MIGX_id\\":\\"4\\",\\"key\\":\\"2D\\\\\\/3D\\",\\"value\\":\\"2D\\"},{\\"MIGX_id\\":\\"5\\",\\"key\\":\\"Refresh Rate\\",\\"value\\":\\"EMR120\\"},{\\"MIGX_id\\":\\"6\\",\\"key\\":\\"Aspect Ratio\\",\\"value\\":\\"16:9\\"},{\\"MIGX_id\\":\\"7\\",\\"key\\":\\"Resolution\\",\\"value\\":\\"1920 x 1080\\"},{\\"MIGX_id\\":\\"8\\",\\"key\\":\\"Energy Grade\\\\t\\",\\"value\\":\\"ENERGY STAR 6.1\\"}]"}',
+);

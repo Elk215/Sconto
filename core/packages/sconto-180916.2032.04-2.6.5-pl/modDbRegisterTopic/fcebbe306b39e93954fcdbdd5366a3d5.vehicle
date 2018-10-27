@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '26909b7dc38fc3456231181f85cd29f8',
+  'package' => 'modx.registry.db',
+  'class' => 'modDbRegisterTopic',
+  'signature' => 'fcebbe306b39e93954fcdbdd5366a3d5',
+  'native_key' => 4,
+  'object' => '{"id":4,"queue":3,"name":"\\/pwd\\/reset\\/","created":"2018-09-16 17:27:19","updated":null,"options":null}',
+);

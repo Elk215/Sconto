@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '308c5f8e7ac3f3eadc5b4cfb0824cf10',
+  'package' => 'modx',
+  'class' => 'modAccessPermission',
+  'signature' => '07639d941a3411eea1439600f5162bcd',
+  'native_key' => 17,
+  'object' => '{"id":17,"template":1,"name":"delete_category","description":"perm.delete_category_desc","value":1}',
+);

@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '37c1865bc27bd95dbb3f6d8242c8c2c0',
+  'package' => 'modx',
+  'class' => 'modEvent',
+  'signature' => 'ed33fadccb01c09229c4429dc59b4075',
+  'native_key' => 'msOnManagerCustomCssJs',
+  'object' => '{"name":"msOnManagerCustomCssJs","service":6,"groupname":"miniShop2"}',
+);

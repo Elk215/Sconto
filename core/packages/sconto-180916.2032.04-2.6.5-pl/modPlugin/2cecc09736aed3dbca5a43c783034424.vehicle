@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '9552d07553ab7d6918837749c8ac1e6f',
+  'package' => 'modx',
+  'class' => 'modPlugin',
+  'signature' => '2cecc09736aed3dbca5a43c783034424',
+  'native_key' => 16,
+  'object' => '{"id":16,"source":0,"property_preprocess":0,"name":"CKEditor","description":"CKEditor WYSIWYG editor plugin for MODx Revolution","editor_type":0,"category":0,"cache_type":0,"plugincode":"","locked":0,"properties":null,"disabled":0,"moduleguid":"","static":1,"static_file":"ckeditor\\/elements\\/plugins\\/ckeditor.plugin.php","content":""}',
+);

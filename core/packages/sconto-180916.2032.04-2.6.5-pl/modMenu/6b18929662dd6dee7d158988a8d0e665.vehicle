@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '2168a8e4891d3c5d83a0dce0f1740113',
+  'package' => 'modx',
+  'class' => 'modMenu',
+  'signature' => '6b18929662dd6dee7d158988a8d0e665',
+  'native_key' => 'about',
+  'object' => '{"text":"about","parent":"usernav","action":"help","description":"","icon":"<i class=\\"icon-question-circle icon icon-large\\"><\\/i>","menuindex":2,"params":"","handler":"","permissions":"help","namespace":"core"}',
+);

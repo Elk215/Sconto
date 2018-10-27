@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '54b59a516c51572d5005f328c1341ba6',
+  'package' => 'modx',
+  'class' => 'modMenu',
+  'signature' => '5da2f57b7bf60360992e1b267c8109f9',
+  'native_key' => 'edit_menu',
+  'object' => '{"text":"edit_menu","parent":"admin","action":"system\\/action","description":"edit_menu_desc","icon":"","menuindex":4,"params":"","handler":"","permissions":"actions","namespace":"core"}',
+);

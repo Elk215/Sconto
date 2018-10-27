@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '25a861d4e997b3cb056c0cbd4e854b9c',
+  'package' => 'modx',
+  'class' => 'modTemplateVarResource',
+  'signature' => 'dbc5e01a6e88a145c7c0b11306663f4f',
+  'native_key' => 9,
+  'object' => '{"id":9,"tmplvarid":12,"contentid":6,"value":"Quisque id ex sapien. Nunc nec odio odio. Phasellus quis quam molestie, ultrices magna ut, euismod lacus. Vivamus posuere justo ut dolor consequat, non fringilla ex tempus. Fusce sit amet ligularisus. Pellentesque ac pretium lectus. Morbi id accumsan enim, sit amet dapibus velit. Inlectus. Interdum et malesuada fames ac ante ipsum primis in faucibus.\\r\\n\\r\\nCras tempus dui a ante accumsan condimentum. Morbi id purus lobortis, congue urna eget, facilisis sem. Proin fringilla eget dolor in scelerisque. Proin tempus urna ipsum. Sed felis mi, convallis eu dolor ac, volutpat ornare massa. Curabitur feugiat bibendum urna.\\r\\n\\r\\nIn pharetra turpis convallis vel. Morbi scelerisque mattis scelerisque. Donec aliquet ipsum id luctus pulvinar. Nunc a lorem orci. Nulla tincidunt, libero sed efficitur fermentum, sem tortor sollicitudin nisi, in tincidunt lorem nulla non mi. Cras diam dui, eleifend sed orci sit amet, vulputate accumsan dolor.\\r\\n\\r\\n"}',
+);

@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'cf67d3a9988e4f8c81fd3107cb826db5',
+  'package' => 'modx',
+  'class' => 'modAccessPermission',
+  'signature' => '9ef2f2ca723dd67c8fe4d3295216a279',
+  'native_key' => 398,
+  'object' => '{"id":398,"template":9,"name":"msorder_save","description":"msorder_save","value":1}',
+);

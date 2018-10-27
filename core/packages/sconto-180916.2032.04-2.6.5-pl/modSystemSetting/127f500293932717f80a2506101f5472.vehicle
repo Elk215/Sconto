@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '74a0116a9ee9c8ee68bf9a2bcd7f824b',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => '127f500293932717f80a2506101f5472',
+  'native_key' => 'ms2_category_grid_fields',
+  'object' => '{"key":"ms2_category_grid_fields","value":"id,menuindex,pagetitle,article,price,thumb,new,favorite,popular","xtype":"textarea","namespace":"minishop2","area":"ms2_category","editedon":null}',
+);

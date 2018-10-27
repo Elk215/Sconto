@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '3a4ca7f928ad12e3691e4e340418426b',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => 'd4fe857d5ee5fd72cbc1b61708d296fe',
+  'native_key' => 'emailsender',
+  'object' => '{"key":"emailsender","value":"bamper25@gmail.com","xtype":"textfield","namespace":"core","area":"authentication","editedon":"2018-09-03 18:35:01"}',
+);

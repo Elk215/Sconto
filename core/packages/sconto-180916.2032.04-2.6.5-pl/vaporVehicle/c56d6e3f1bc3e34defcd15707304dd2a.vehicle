@@ -1,0 +1,24 @@
+<?php return array (
+  'class' => 'vaporVehicle',
+  'object' => 
+  array (
+    'tableName' => 'clientconfig_context_value',
+    'drop' => 'DROP TABLE IF EXISTS `[[++table_prefix]]clientconfig_context_value`',
+    'table' => 'CREATE TABLE `[[++table_prefix]]clientconfig_context_value` (
+  `id` int(10) unsigned NOT NULL AUTO_INCREMENT,
+  `setting` int(10) NOT NULL DEFAULT \'0\',
+  `context` varchar(75) NOT NULL DEFAULT \'web\',
+  `value` mediumtext NOT NULL,
+  PRIMARY KEY (`id`)
+) ENGINE=MyISAM DEFAULT CHARSET=utf8',
+    'data' => 
+    array (
+    ),
+  ),
+  'vehicle_package' => 'vapor',
+  'vehicle_class' => 'vaporVehicle',
+  'guid' => '29a60e9d3ea75e8ff62f36fa886b0545',
+  'package' => '',
+  'signature' => 'c56d6e3f1bc3e34defcd15707304dd2a',
+  'native_key' => '29a60e9d3ea75e8ff62f36fa886b0545',
+);

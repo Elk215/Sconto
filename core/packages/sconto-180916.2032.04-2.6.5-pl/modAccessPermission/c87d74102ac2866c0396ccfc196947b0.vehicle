@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'c4789389437d76c949aa79275746c5ae',
+  'package' => 'modx',
+  'class' => 'modAccessPermission',
+  'signature' => 'c87d74102ac2866c0396ccfc196947b0',
+  'native_key' => 110,
+  'object' => '{"id":110,"template":1,"name":"purge_deleted","description":"perm.purge_deleted_desc","value":1}',
+);

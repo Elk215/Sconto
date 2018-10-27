@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'd5a2ec5c7994162e47b226443db09d6d',
+  'package' => 'modx',
+  'class' => 'modCategory',
+  'signature' => 'f9e1322a6671d9237f3c3cca8e4a1cd9',
+  'native_key' => 5,
+  'object' => '{"id":5,"parent":0,"category":"debugParser","rank":0}',
+);

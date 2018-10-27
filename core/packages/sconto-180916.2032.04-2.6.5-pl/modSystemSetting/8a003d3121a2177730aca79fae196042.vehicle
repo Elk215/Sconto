@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '9f6a5fa01411a01848172eb8ecdfd53d',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => '8a003d3121a2177730aca79fae196042',
+  'native_key' => 'ckeditor.styles_set',
+  'object' => '{"key":"ckeditor.styles_set","value":"default","xtype":"textarea","namespace":"ckeditor","area":"general","editedon":null}',
+);

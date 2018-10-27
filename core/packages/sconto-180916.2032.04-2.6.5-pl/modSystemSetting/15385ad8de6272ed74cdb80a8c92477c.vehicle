@@ -1,0 +1,20 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'resolve' => 
+  array (
+    0 => 
+    array (
+      'type' => 'php',
+      'body' => '{"type":"php","source":"sconto-180916.2032.04-2.6.5-pl\\/modSystemSetting\\/15385ad8de6272ed74cdb80a8c92477c.resolve.extension_packages.resolver","name":"resolve.extension_packages"}',
+    ),
+  ),
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'bb23c68c369a8c9bc51125a877ab5bcd',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => '15385ad8de6272ed74cdb80a8c92477c',
+  'native_key' => 'extension_packages',
+  'object' => '{"key":"extension_packages","value":"[{\\"collections\\":{\\"path\\":\\"[[++core_path]]components\\\\\\/collections\\\\\\/model\\\\\\/\\"}},{\\"minishop2\\":{\\"path\\":\\"[[++core_path]]components\\\\\\/minishop2\\\\\\/model\\\\\\/\\"}}]","xtype":"textfield","namespace":"core","area":"system","editedon":"2018-09-16 14:00:25"}',
+);

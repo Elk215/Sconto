@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '5569d0a1ebd062e5f91632a6e6636a7e',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => 'efa0f5e8e3902da40f65189e6ed7bc12',
+  'native_key' => 'fe_editor_lang',
+  'object' => '{"key":"fe_editor_lang","value":"ru","xtype":"modx-combo-language","namespace":"core","area":"language","editedon":"2018-09-03 18:36:25"}',
+);

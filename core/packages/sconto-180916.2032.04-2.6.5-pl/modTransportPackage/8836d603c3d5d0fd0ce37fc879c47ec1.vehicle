@@ -1,0 +1,20 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'resolve' => 
+  array (
+    0 => 
+    array (
+      'type' => 'file',
+      'body' => '{"source":"sconto-180916.2032.04-2.6.5-pl\\/modTransportPackage\\/8836d603c3d5d0fd0ce37fc879c47ec1\\/0\\/","target":"return MODX_CORE_PATH . \\"packages\\/\\";","name":"console-2.2.1-beta-2.transport.zip"}',
+    ),
+  ),
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'ee4584224713fc1302e4c22216ca778f',
+  'package' => 'modx.transport',
+  'class' => 'modTransportPackage',
+  'signature' => '8836d603c3d5d0fd0ce37fc879c47ec1',
+  'native_key' => 'console-2.2.1-beta-2',
+  'object' => '{"signature":"console-2.2.1-beta-2","created":"2018-09-03 06:36:16","updated":"2018-09-03 18:40:37","installed":"2018-09-03 18:36:17","state":0,"workspace":1,"provider":1,"disabled":0,"source":"console-2.2.1-beta-2.transport.zip","manifest":null,"attributes":"a:3:{s:7:\\"license\\";s:0:\\"\\";s:6:\\"readme\\";s:134:\\"Console\\r\\n=====================================================\\r\\n\\r\\nConsole allow to execute php-code at back-end by simple interface.\\r\\n\\";s:9:\\"changelog\\";s:1202:\\"Console-2.2.1-beta\\r\\n=============================================================\\r\\n- Added return result\\r\\n\\r\\nConsole-2.2.0-beta\\r\\n=============================================================\\r\\n- Added execution report\\r\\n\\r\\nConsole-2.1.0-beta\\r\\n=============================================================\\r\\n- Added a feature to save the console code to file and load from file.\\r\\n- Added a feature to save the console code to snippet and load from snippet.\\r\\n\\r\\nConsole-2.0.3-beta\\r\\n=============================================================\\r\\n- Added recursive queries;\\r\\n\\r\\nConsole-2.0.2-beta\\r\\n=============================================================\\r\\n- Renew appearance;\\r\\n- Two variants of result (formated and raw)\\r\\n\\r\\nConsole-2.0.1-beta\\r\\n=============================================================\\r\\n- Saving code in $_SESSION;\\r\\n\\r\\nConsole-2.0.0-rc\\r\\n=============================================================\\r\\n- Ace integration fix;\\r\\n\\r\\nConsole-1.2.0-rc\\r\\n=============================================================\\r\\n- Set default LogTarget(\'HTML\');\\r\\n- Set default LogLevel(xPDO::LOG_LEVEL_DEBUG);\\r\\n\\r\\nConsole-1.1.0-rc\\r\\n=============================================================\\r\\n\\r\\n- First release\\";}","package_name":"console","metadata":null,"version_major":2,"version_minor":2,"version_patch":1,"release":"beta","release_index":0,"provider_name":"modx.com"}',
+);

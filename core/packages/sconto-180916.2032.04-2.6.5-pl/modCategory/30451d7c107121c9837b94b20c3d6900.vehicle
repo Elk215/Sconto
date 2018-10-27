@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '857ef6094a415e6962d119fac5b829cb',
+  'package' => 'modx',
+  'class' => 'modCategory',
+  'signature' => '30451d7c107121c9837b94b20c3d6900',
+  'native_key' => 14,
+  'object' => '{"id":14,"parent":0,"category":"frontendManager","rank":0}',
+);

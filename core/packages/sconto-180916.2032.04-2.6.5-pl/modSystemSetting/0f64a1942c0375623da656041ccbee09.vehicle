@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '0251223b7543c31248b7a28aaf114631',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => '0f64a1942c0375623da656041ccbee09',
+  'native_key' => 'mgr_tree_icon_collectioncontainer',
+  'object' => '{"key":"mgr_tree_icon_collectioncontainer","value":"collectioncontainer","xtype":"textfield","namespace":"collections","area":"manager","editedon":null}',
+);

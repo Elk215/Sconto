@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'cf2a443589eea0ffd9c8c147b834bede',
+  'package' => 'modx',
+  'class' => 'modTemplateVar',
+  'signature' => 'd557b53f3c0e367d2483ee0569cba01d',
+  'native_key' => 5,
+  'object' => '{"id":5,"source":1,"property_preprocess":0,"type":"migx","name":"homeSlider","caption":"Home Slider","description":"","editor_type":0,"category":16,"locked":0,"elements":"","rank":0,"display":"default","default_text":"","properties":"a:0:{}","input_properties":"a:7:{s:7:\\"configs\\";s:0:\\"\\";s:8:\\"formtabs\\";s:520:\\"[\\n{\\"caption\\":\\"\\", \\"fields\\": [\\n{\\"field\\":\\"homeSliderTitle\\",\\"caption\\":\\"homeSliderTitle\\",\\"inputTVtype\\":\\"text\\"},\\n{\\"field\\":\\"homeSliderTitle2\\",\\"caption\\":\\"homeSliderTitle2\\",\\"inputTVtype\\":\\"text\\"},\\n{\\"field\\":\\"homeSliderText\\",\\"caption\\":\\"homeSliderText\\",\\"inputTVtype\\":\\"textarea\\"},\\n{\\"field\\":\\"homeSliderButton\\",\\"caption\\":\\"homeSliderButton\\",\\"inputTVtype\\":\\"text\\"},\\n{\\"field\\":\\"homeSliderButtonLink\\",\\"caption\\":\\"homeSliderButtonLink\\",\\"inputTVtype\\":\\"listbox\\"},\\n{\\"field\\":\\"homeSliderImage\\",\\"caption\\":\\"homeSliderImage\\",\\"inputTVtype\\":\\"image\\"}\\n]}\\n]\\";s:7:\\"columns\\";s:558:\\"[\\n{\\"header\\": \\"homeSliderTitle\\", \\"sortable\\": \\"true\\", \\"dataIndex\\": \\"homeSliderTitle\\"},\\n{\\"header\\": \\"homeSliderTitle2\\", \\"sortable\\": \\"true\\", \\"dataIndex\\": \\"homeSliderTitle2\\"},\\n{\\"header\\": \\"homeSliderText\\", \\"sortable\\": \\"true\\", \\"dataIndex\\": \\"homeSliderText\\"},\\n{\\"header\\": \\"homeSliderButton\\", \\"sortable\\": \\"true\\", \\"dataIndex\\": \\"homeSliderButton\\"},\\n{\\"header\\": \\"homeSliderButtonLink\\", \\"sortable\\": \\"true\\", \\"dataIndex\\": \\"homeSliderButtonLink\\"},\\n{\\"header\\": \\"homeSliderImage\\", \\"width\\": \\"80\\", \\"sortable\\": \\"true\\", \\"dataIndex\\": \\"homeSliderImage\\",\\"renderer\\": \\"this.renderImage\\"}\\n]\\";s:7:\\"btntext\\";s:9:\\"Add slide\\";s:10:\\"previewurl\\";s:0:\\"\\";s:10:\\"jsonvarkey\\";s:0:\\"\\";s:19:\\"autoResourceFolders\\";s:5:\\"false\\";}","output_properties":"a:0:{}","static":0,"static_file":"","content":""}',
+);

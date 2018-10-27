@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '5e1c2c5b0628c578fc5cbe68a036c1b6',
+  'package' => 'modx',
+  'class' => 'modCategory',
+  'signature' => '8c83bc78e99832e87a3b206e8a7a9ba2',
+  'native_key' => 22,
+  'object' => '{"id":22,"parent":0,"category":"Category slider","rank":0}',
+);

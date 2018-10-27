@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'ec7ce08cd023c77edfa48c95d052f303',
+  'package' => 'modx',
+  'class' => 'modAccessPermission',
+  'signature' => '5634b32d67b29496ecdeb584d3a89751',
+  'native_key' => 305,
+  'object' => '{"id":305,"template":8,"name":"new_symlink","description":"perm.new_symlink_desc","value":1}',
+);

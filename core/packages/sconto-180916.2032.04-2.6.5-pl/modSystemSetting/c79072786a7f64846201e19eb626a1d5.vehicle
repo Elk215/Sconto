@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'd78b51074218b42aabecdd2328aa5bc9',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => 'c79072786a7f64846201e19eb626a1d5',
+  'native_key' => 'frontendmanager_contenttypes',
+  'object' => '{"key":"frontendmanager_contenttypes","value":"1","xtype":"textfield","namespace":"frontendmanager","area":"frontendmanager_manager","editedon":null}',
+);

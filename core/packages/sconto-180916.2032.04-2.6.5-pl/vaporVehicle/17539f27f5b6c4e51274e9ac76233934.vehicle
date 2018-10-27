@@ -1,0 +1,26 @@
+<?php return array (
+  'class' => 'vaporVehicle',
+  'object' => 
+  array (
+    'tableName' => 'ms2_delivery_payments',
+    'drop' => 'DROP TABLE IF EXISTS `[[++table_prefix]]ms2_delivery_payments`',
+    'table' => 'CREATE TABLE `[[++table_prefix]]ms2_delivery_payments` (
+  `delivery_id` int(10) unsigned NOT NULL,
+  `payment_id` int(10) unsigned NOT NULL,
+  PRIMARY KEY (`delivery_id`,`payment_id`)
+) ENGINE=MyISAM DEFAULT CHARSET=utf8',
+    'data' => 
+    array (
+      0 => 'INSERT INTO `[[++table_prefix]]ms2_delivery_payments` (`delivery_id`, `payment_id`) VALUES (\'1\', \'1\')',
+      1 => 'INSERT INTO `[[++table_prefix]]ms2_delivery_payments` (`delivery_id`, `payment_id`) VALUES (\'1\', \'2\')',
+      2 => 'INSERT INTO `[[++table_prefix]]ms2_delivery_payments` (`delivery_id`, `payment_id`) VALUES (\'2\', \'1\')',
+      3 => 'INSERT INTO `[[++table_prefix]]ms2_delivery_payments` (`delivery_id`, `payment_id`) VALUES (\'2\', \'2\')',
+    ),
+  ),
+  'vehicle_package' => 'vapor',
+  'vehicle_class' => 'vaporVehicle',
+  'guid' => '8d240d60064f64fd31283e82253fe434',
+  'package' => '',
+  'signature' => '17539f27f5b6c4e51274e9ac76233934',
+  'native_key' => '8d240d60064f64fd31283e82253fe434',
+);

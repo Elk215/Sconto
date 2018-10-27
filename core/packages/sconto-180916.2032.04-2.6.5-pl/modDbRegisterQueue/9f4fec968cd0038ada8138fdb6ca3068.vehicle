@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '347adc9f8b5eb74c6a941cb4ff97186d',
+  'package' => 'modx.registry.db',
+  'class' => 'modDbRegisterQueue',
+  'signature' => '9f4fec968cd0038ada8138fdb6ca3068',
+  'native_key' => 3,
+  'object' => '{"id":3,"name":"user","options":"a:0:{}"}',
+);

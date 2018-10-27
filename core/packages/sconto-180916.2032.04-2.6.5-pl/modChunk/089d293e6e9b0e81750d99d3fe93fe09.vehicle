@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'a4940934368eea6e5de3f1686a8e51a3',
+  'package' => 'modx',
+  'class' => 'modChunk',
+  'signature' => '089d293e6e9b0e81750d99d3fe93fe09',
+  'native_key' => 27,
+  'object' => '{"id":27,"source":1,"property_preprocess":0,"name":"tpl.mFilter2.filter.outer","description":"","editor_type":0,"category":13,"cache_type":0,"snippet":"<fieldset id=\\"mse2_[[+table]][[+delimeter]][[+filter]]\\">\\n\\t<h4 class=\\"filter_title\\">[[%mse2_filter_[[+table]]_[[+filter]]]]<\\/h4>\\n\\t[[+rows]]\\n<\\/fieldset>","locked":0,"properties":null,"static":0,"static_file":"core\\/components\\/msearch2\\/elements\\/chunks\\/chunk.mfilter2.filter.outer.tpl","content":"<fieldset id=\\"mse2_[[+table]][[+delimeter]][[+filter]]\\">\\n\\t<h4 class=\\"filter_title\\">[[%mse2_filter_[[+table]]_[[+filter]]]]<\\/h4>\\n\\t[[+rows]]\\n<\\/fieldset>"}',
+);

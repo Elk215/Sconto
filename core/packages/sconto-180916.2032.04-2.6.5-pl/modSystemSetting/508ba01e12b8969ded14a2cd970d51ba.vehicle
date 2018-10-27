@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '804a02186c8e2ad30d0ae320ae6f2596',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => '508ba01e12b8969ded14a2cd970d51ba',
+  'native_key' => 'admintools_enable_notes',
+  'object' => '{"key":"admintools_enable_notes","value":"1","xtype":"combo-boolean","namespace":"admintools","area":"admintools_main","editedon":null}',
+);

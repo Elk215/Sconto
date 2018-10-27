@@ -1,0 +1,33 @@
+<?php return array (
+  'class' => 'vaporVehicle',
+  'object' => 
+  array (
+    'tableName' => 'admintools_notes',
+    'drop' => 'DROP TABLE IF EXISTS `[[++table_prefix]]admintools_notes`',
+    'table' => 'CREATE TABLE `[[++table_prefix]]admintools_notes` (
+  `id` int(10) unsigned NOT NULL AUTO_INCREMENT,
+  `title` varchar(191) NOT NULL DEFAULT \'\',
+  `text` text NOT NULL,
+  `url` varchar(191) NOT NULL DEFAULT \'\',
+  `tags` varchar(191) NOT NULL DEFAULT \'\',
+  `private` tinyint(1) unsigned NOT NULL DEFAULT \'0\',
+  `createdby` int(10) unsigned NOT NULL DEFAULT \'0\',
+  `createdon` int(20) unsigned NOT NULL DEFAULT \'0\',
+  `editedby` int(10) unsigned DEFAULT NULL,
+  `editedon` int(20) unsigned DEFAULT NULL,
+  PRIMARY KEY (`id`),
+  KEY `private` (`private`),
+  KEY `createdby` (`createdby`),
+  KEY `createdon` (`createdon`)
+) ENGINE=MyISAM DEFAULT CHARSET=utf8',
+    'data' => 
+    array (
+    ),
+  ),
+  'vehicle_package' => 'vapor',
+  'vehicle_class' => 'vaporVehicle',
+  'guid' => '85758873ab77c1e9b21e4a574dbc2c5d',
+  'package' => '',
+  'signature' => '73730d115283f19c7cb0327e23849425',
+  'native_key' => '85758873ab77c1e9b21e4a574dbc2c5d',
+);

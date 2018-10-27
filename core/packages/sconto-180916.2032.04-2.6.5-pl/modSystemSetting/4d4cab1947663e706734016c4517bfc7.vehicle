@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '4d98a4c9a1624d350c32984f5b6dc180',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => '4d4cab1947663e706734016c4517bfc7',
+  'native_key' => 'ms2_price_format',
+  'object' => '{"key":"ms2_price_format","value":"[2, \\".\\", \\" \\"]","xtype":"textfield","namespace":"minishop2","area":"ms2_product","editedon":null}',
+);

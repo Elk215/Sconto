@@ -1,0 +1,16 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '3c09c1dbb566441e90da69d334f88161',
+  'package' => 'modx',
+  'class' => 'modPluginEvent',
+  'signature' => 'c8c7a04a67ad2cff7eea434e33dbef8d',
+  'native_key' => 
+  array (
+    0 => 11,
+    1 => 'msOnChangeOrderStatus',
+  ),
+  'object' => '{"pluginid":11,"event":"msOnChangeOrderStatus","priority":0,"propertyset":0}',
+);

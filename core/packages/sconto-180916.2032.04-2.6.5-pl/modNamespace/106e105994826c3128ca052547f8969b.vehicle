@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '7e7f06b8f3848b43217a9ef24942d7dd',
+  'package' => 'modx',
+  'class' => 'modNamespace',
+  'signature' => '106e105994826c3128ca052547f8969b',
+  'native_key' => 'frontendmanager',
+  'object' => '{"name":"frontendmanager","path":"{core_path}components\\/frontendmanager\\/","assets_path":""}',
+);

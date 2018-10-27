@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '8e5537f5d9335cbd1b76869e2022eab0',
+  'package' => 'modx',
+  'class' => 'modTemplateVar',
+  'signature' => '0d2b215dec5b6137b7f6b0de900343ac',
+  'native_key' => 11,
+  'object' => '{"id":11,"source":1,"property_preprocess":0,"type":"text","name":"storyTitle","caption":"storyTitle","description":"","editor_type":0,"category":20,"locked":0,"elements":"","rank":0,"display":"default","default_text":"","properties":"a:0:{}","input_properties":"a:5:{s:10:\\"allowBlank\\";s:4:\\"true\\";s:9:\\"minLength\\";s:0:\\"\\";s:9:\\"maxLength\\";s:0:\\"\\";s:5:\\"regex\\";s:0:\\"\\";s:9:\\"regexText\\";s:0:\\"\\";}","output_properties":"a:0:{}","static":0,"static_file":"","content":""}',
+);

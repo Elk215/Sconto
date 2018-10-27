@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '445122c7d52dbd3fb239de824d827049',
+  'package' => 'modx',
+  'class' => 'modChunk',
+  'signature' => '25830ca99108941c298fe06a0ec64a56',
+  'native_key' => 58,
+  'object' => '{"id":58,"source":1,"property_preprocess":0,"name":"search","description":"","editor_type":0,"category":26,"cache_type":0,"snippet":"<form action=\\"[[~[[+landing]]]]\\" method=\\"[[+method]]\\" class=\\"header-search-form\\">\\n  <input type=\\"text\\" name=\\"[[+searchIndex]]\\" id=\\"[[+searchIndex]]\\" value=\\"[[+searchValue]]\\" placeholder=\\"Search\\" class=\\"form-control\\" required>\\n  <input type=\\"hidden\\" name=\\"id\\" value=\\"[[+landing]]\\" \\/> \\n  <button type=\\"submit\\" class=\\"btn\\"><i class=\\"icon icon-header-search\\"><\\/i><\\/button>\\n<\\/form>","locked":0,"properties":"a:0:{}","static":0,"static_file":"","content":"<form action=\\"[[~[[+landing]]]]\\" method=\\"[[+method]]\\" class=\\"header-search-form\\">\\n  <input type=\\"text\\" name=\\"[[+searchIndex]]\\" id=\\"[[+searchIndex]]\\" value=\\"[[+searchValue]]\\" placeholder=\\"Search\\" class=\\"form-control\\" required>\\n  <input type=\\"hidden\\" name=\\"id\\" value=\\"[[+landing]]\\" \\/> \\n  <button type=\\"submit\\" class=\\"btn\\"><i class=\\"icon icon-header-search\\"><\\/i><\\/button>\\n<\\/form>"}',
+);

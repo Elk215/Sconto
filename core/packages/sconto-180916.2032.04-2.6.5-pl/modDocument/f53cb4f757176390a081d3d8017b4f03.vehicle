@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'e773a538cc8e8382cbed52ab8a526c26',
+  'package' => 'modx',
+  'class' => 'modDocument',
+  'signature' => 'f53cb4f757176390a081d3d8017b4f03',
+  'native_key' => 22,
+  'object' => '{"id":22,"type":"document","contentType":"text\\/html","pagetitle":"Search result","longtitle":"","description":"","alias":"search-result","link_attributes":"","published":1,"pub_date":0,"unpub_date":0,"parent":0,"isfolder":0,"introtext":"","content":"","richtext":1,"template":11,"menuindex":10,"searchable":1,"cacheable":1,"createdby":1,"createdon":1536780708,"editedby":0,"editedon":0,"deleted":0,"deletedon":0,"deletedby":0,"publishedon":1536780708,"publishedby":1,"menutitle":"","donthit":0,"privateweb":0,"privatemgr":0,"content_dispo":0,"hidemenu":1,"class_key":"modDocument","context_key":"web","content_type":1,"uri":"search-result","uri_override":0,"hide_children_in_tree":0,"show_in_tree":1,"properties":null}',
+);

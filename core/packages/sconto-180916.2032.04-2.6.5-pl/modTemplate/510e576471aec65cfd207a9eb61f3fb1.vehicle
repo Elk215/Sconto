@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '93b5784fc6368f6eb19b70e53641fee2',
+  'package' => 'modx',
+  'class' => 'modTemplate',
+  'signature' => '510e576471aec65cfd207a9eb61f3fb1',
+  'native_key' => 8,
+  'object' => '{"id":8,"source":1,"property_preprocess":0,"templatename":"Checkout","description":"","editor_type":0,"category":0,"icon":"","template_type":0,"content":"{include \\"file:templates\\/checkout.tpl\\"}","locked":0,"properties":"a:0:{}","static":0,"static_file":""}',
+);

@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '3f2f08df2b5910cf0437f59c95756067',
+  'package' => 'modx',
+  'class' => 'modTemplateVarResource',
+  'signature' => '62491b1561f2672a9e274abf888fc48e',
+  'native_key' => 20,
+  'object' => '{"id":20,"tmplvarid":18,"contentid":9,"value":"icon-phone"}',
+);

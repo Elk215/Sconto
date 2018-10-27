@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '78b10a71f81eb0f9fc9cbcf4ac31fa33',
+  'package' => 'modx',
+  'class' => 'modNamespace',
+  'signature' => 'ae3eda41f537900eed11f3cfd9268ace',
+  'native_key' => 'controlerrorlog',
+  'object' => '{"name":"controlerrorlog","path":"{core_path}components\\/controlerrorlog\\/","assets_path":""}',
+);

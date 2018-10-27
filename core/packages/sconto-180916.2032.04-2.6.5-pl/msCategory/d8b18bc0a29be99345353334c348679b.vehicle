@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '969f991d5111465625778220c28b1679',
+  'package' => 'minishop2',
+  'class' => 'msCategory',
+  'signature' => 'd8b18bc0a29be99345353334c348679b',
+  'native_key' => 8,
+  'object' => '{"id":8,"type":"document","contentType":"text\\/html","pagetitle":"Catalog","longtitle":"","description":"","alias":"catalog","link_attributes":"","published":1,"pub_date":0,"unpub_date":0,"parent":0,"isfolder":1,"introtext":"","content":"","richtext":1,"template":10,"menuindex":7,"searchable":1,"cacheable":1,"createdby":1,"createdon":1536150104,"editedby":1,"editedon":1536778496,"deleted":0,"deletedon":0,"deletedby":0,"publishedon":1536160260,"publishedby":1,"menutitle":"","donthit":0,"privateweb":0,"privatemgr":0,"content_dispo":0,"hidemenu":0,"class_key":"msCategory","context_key":"web","content_type":1,"uri":"catalog","uri_override":0,"hide_children_in_tree":0,"show_in_tree":1,"properties":null}',
+);

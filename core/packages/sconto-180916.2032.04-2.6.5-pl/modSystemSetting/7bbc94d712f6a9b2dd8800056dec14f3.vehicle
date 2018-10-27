@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '4309c9b49e032c788846892d40e3c152',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => '7bbc94d712f6a9b2dd8800056dec14f3',
+  'native_key' => 'clientconfig.admin_groups',
+  'object' => '{"key":"clientconfig.admin_groups","value":"Administrator","xtype":"textfield","namespace":"clientconfig","area":"Default","editedon":null}',
+);

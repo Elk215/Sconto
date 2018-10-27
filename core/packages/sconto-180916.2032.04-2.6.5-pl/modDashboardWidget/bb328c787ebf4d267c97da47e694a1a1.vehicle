@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '743bde9762f037f77b79bfb87dd430d3',
+  'package' => 'modx',
+  'class' => 'modDashboardWidget',
+  'signature' => 'bb328c787ebf4d267c97da47e694a1a1',
+  'native_key' => 4,
+  'object' => '{"id":4,"name":"w_recentlyeditedresources","description":"w_recentlyeditedresources_desc","type":"file","content":"[[++manager_path]]controllers\\/default\\/dashboard\\/widget.grid-rer.php","namespace":"core","lexicon":"core:dashboards","size":"half","name_trans":"w_recentlyeditedresources","description_trans":"w_recentlyeditedresources_desc"}',
+);

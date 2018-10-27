@@ -1,0 +1,25 @@
+<?php return array (
+  'class' => 'vaporVehicle',
+  'object' => 
+  array (
+    'tableName' => 'mse2_queries',
+    'drop' => 'DROP TABLE IF EXISTS `[[++table_prefix]]mse2_queries`',
+    'table' => 'CREATE TABLE `[[++table_prefix]]mse2_queries` (
+  `query` varchar(255) NOT NULL,
+  `quantity` int(10) DEFAULT \'1\',
+  `found` int(10) DEFAULT \'0\',
+  PRIMARY KEY (`query`),
+  KEY `quantity` (`quantity`),
+  KEY `found` (`found`)
+) ENGINE=MyISAM DEFAULT CHARSET=utf8',
+    'data' => 
+    array (
+    ),
+  ),
+  'vehicle_package' => 'vapor',
+  'vehicle_class' => 'vaporVehicle',
+  'guid' => '29f6049f1b20662bf0115807e5d9c6f3',
+  'package' => '',
+  'signature' => '00542d7bb65d8d2d925f124b8d4aa8b7',
+  'native_key' => '29f6049f1b20662bf0115807e5d9c6f3',
+);

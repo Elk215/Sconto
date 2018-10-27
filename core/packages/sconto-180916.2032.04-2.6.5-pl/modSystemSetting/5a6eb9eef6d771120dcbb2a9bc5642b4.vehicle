@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '84e19c45911fc953f6d77652f3843002',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => '5a6eb9eef6d771120dcbb2a9bc5642b4',
+  'native_key' => 'ckeditor.native_spellchecker',
+  'object' => '{"key":"ckeditor.native_spellchecker","value":"1","xtype":"combo-boolean","namespace":"ckeditor","area":"general","editedon":null}',
+);

@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '776c622a14a7a50483917ac1d2609f1c',
+  'package' => 'modx.sources',
+  'class' => 'modFileMediaSource',
+  'signature' => 'fb48d17c755cacc984f7b81db2887bf2',
+  'native_key' => 2,
+  'object' => '{"id":2,"name":"manager","description":null,"class_key":"sources.modFileMediaSource","properties":"a:2:{s:8:\\"basePath\\";a:6:{s:4:\\"name\\";s:8:\\"basePath\\";s:4:\\"desc\\";s:23:\\"prop_file.basePath_desc\\";s:4:\\"type\\";s:9:\\"textfield\\";s:7:\\"options\\";s:0:\\"\\";s:5:\\"value\\";s:16:\\"\\/assets\\/uploads\\/\\";s:7:\\"lexicon\\";s:11:\\"core:source\\";}s:7:\\"baseUrl\\";a:6:{s:4:\\"name\\";s:7:\\"baseUrl\\";s:4:\\"desc\\";s:22:\\"prop_file.baseUrl_desc\\";s:4:\\"type\\";s:9:\\"textfield\\";s:7:\\"options\\";s:0:\\"\\";s:5:\\"value\\";s:15:\\"assets\\/uploads\\/\\";s:7:\\"lexicon\\";s:11:\\"core:source\\";}}","is_stream":1}',
+);

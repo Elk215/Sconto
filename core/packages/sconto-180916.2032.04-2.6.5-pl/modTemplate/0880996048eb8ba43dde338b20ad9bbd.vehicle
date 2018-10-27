@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '8faa22912d275d81da54a6c0a15d5165',
+  'package' => 'modx',
+  'class' => 'modTemplate',
+  'signature' => '0880996048eb8ba43dde338b20ad9bbd',
+  'native_key' => 11,
+  'object' => '{"id":11,"source":1,"property_preprocess":0,"templatename":"Search results","description":"","editor_type":0,"category":0,"icon":"","template_type":0,"content":"{include \\"file:templates\\/search-result.tpl\\"}","locked":0,"properties":"a:0:{}","static":0,"static_file":""}',
+);

@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '1b4e6c98f98d10d0060faa96cded6c62',
+  'package' => 'modx',
+  'class' => 'modContext',
+  'signature' => 'df59d969f809d6b7195cac58308cd722',
+  'native_key' => 'ru',
+  'object' => '{"key":"ru","name":"Ru","description":"","rank":0}',
+);

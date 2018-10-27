@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '3fcff6f72225469128c4181b3d04c0c8',
+  'package' => 'modx',
+  'class' => 'modTemplate',
+  'signature' => 'c19bb394f55d894f0bea09f5c0d68b9d',
+  'native_key' => 2,
+  'object' => '{"id":2,"source":1,"property_preprocess":0,"templatename":"Contact","description":"","editor_type":0,"category":0,"icon":"icon-envelope","template_type":0,"content":"{include \\"file:templates\\/contact.tpl\\"}","locked":0,"properties":"a:0:{}","static":0,"static_file":""}',
+);

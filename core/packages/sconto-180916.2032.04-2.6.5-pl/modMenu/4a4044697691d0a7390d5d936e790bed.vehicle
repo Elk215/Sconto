@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '5865ab5849c96b083fa201247e5c46ef',
+  'package' => 'modx',
+  'class' => 'modMenu',
+  'signature' => '4a4044697691d0a7390d5d936e790bed',
+  'native_key' => 'messages',
+  'object' => '{"text":"messages","parent":"user","action":"security\\/message","description":"messages_desc","icon":"","menuindex":1,"params":"","handler":"","permissions":"messages","namespace":"core"}',
+);

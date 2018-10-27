@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'ab57b5da137577d8e13ddf1a12a4fb7d',
+  'package' => 'modx',
+  'class' => 'modChunk',
+  'signature' => 'cccde11857ed66819464b2c1f6030e54',
+  'native_key' => 24,
+  'object' => '{"id":24,"source":1,"property_preprocess":0,"name":"tpl.mSearch2.form","description":"","editor_type":0,"category":13,"cache_type":0,"snippet":"<form action=\\"[[~[[+pageId]]]]\\" method=\\"get\\" class=\\"well msearch2\\" id=\\"mse2_form\\">\\n\\t<div class=\\"row\\">\\n\\t\\t<div class=\\"form-group col-md-10\\">\\n\\t\\t\\t<input type=\\"text\\" class=\\"form-control\\" name=\\"[[+queryVar]]\\" placeholder=\\"[[%mse2_search]]\\" value=\\"[[+mse2_query]]\\" \\/>\\n\\t\\t<\\/div>\\n\\t\\t<button type=\\"submit\\" class=\\"btn btn-default\\">\\n\\t\\t\\t<i class=\\"glyphicon glyphicon-search\\"><\\/i> [[%search]]\\n\\t\\t<\\/button>\\n\\t<\\/div>\\n<\\/form>","locked":0,"properties":null,"static":0,"static_file":"core\\/components\\/msearch2\\/elements\\/chunks\\/chunk.msearch2.form.tpl","content":"<form action=\\"[[~[[+pageId]]]]\\" method=\\"get\\" class=\\"well msearch2\\" id=\\"mse2_form\\">\\n\\t<div class=\\"row\\">\\n\\t\\t<div class=\\"form-group col-md-10\\">\\n\\t\\t\\t<input type=\\"text\\" class=\\"form-control\\" name=\\"[[+queryVar]]\\" placeholder=\\"[[%mse2_search]]\\" value=\\"[[+mse2_query]]\\" \\/>\\n\\t\\t<\\/div>\\n\\t\\t<button type=\\"submit\\" class=\\"btn btn-default\\">\\n\\t\\t\\t<i class=\\"glyphicon glyphicon-search\\"><\\/i> [[%search]]\\n\\t\\t<\\/button>\\n\\t<\\/div>\\n<\\/form>"}',
+);

@@ -1,0 +1,29 @@
+<?php return array (
+  'class' => 'vaporVehicle',
+  'object' => 
+  array (
+    'tableName' => 'clientconfig_group',
+    'drop' => 'DROP TABLE IF EXISTS `[[++table_prefix]]clientconfig_group`',
+    'table' => 'CREATE TABLE `[[++table_prefix]]clientconfig_group` (
+  `id` int(10) unsigned NOT NULL AUTO_INCREMENT,
+  `label` varchar(75) NOT NULL DEFAULT \'\',
+  `description` text NOT NULL,
+  `sortorder` int(10) NOT NULL DEFAULT \'0\',
+  PRIMARY KEY (`id`)
+) ENGINE=MyISAM AUTO_INCREMENT=6 DEFAULT CHARSET=utf8',
+    'data' => 
+    array (
+      0 => 'INSERT INTO `[[++table_prefix]]clientconfig_group` (`id`, `label`, `description`, `sortorder`) VALUES (\'1\', \'Header\', \'\', \'0\')',
+      1 => 'INSERT INTO `[[++table_prefix]]clientconfig_group` (`id`, `label`, `description`, `sortorder`) VALUES (\'2\', \'Footer\', \'\', \'1\')',
+      2 => 'INSERT INTO `[[++table_prefix]]clientconfig_group` (`id`, `label`, `description`, `sortorder`) VALUES (\'3\', \'Newsletter\', \'\', \'3\')',
+      3 => 'INSERT INTO `[[++table_prefix]]clientconfig_group` (`id`, `label`, `description`, `sortorder`) VALUES (\'4\', \'Contact\', \'\', \'0\')',
+      4 => 'INSERT INTO `[[++table_prefix]]clientconfig_group` (`id`, `label`, `description`, `sortorder`) VALUES (\'5\', \'404\', \'\', \'0\')',
+    ),
+  ),
+  'vehicle_package' => 'vapor',
+  'vehicle_class' => 'vaporVehicle',
+  'guid' => '495484188839e8b2a40dcae5d4046bea',
+  'package' => '',
+  'signature' => '3fd1438b38327b8646014c1600c87fd5',
+  'native_key' => '495484188839e8b2a40dcae5d4046bea',
+);

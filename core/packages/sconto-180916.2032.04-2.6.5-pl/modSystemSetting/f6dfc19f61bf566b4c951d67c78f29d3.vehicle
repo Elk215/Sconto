@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'c8b53421261283101848991e60ae06c7',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => 'f6dfc19f61bf566b4c951d67c78f29d3',
+  'native_key' => 'ckeditor.ui_color',
+  'object' => '{"key":"ckeditor.ui_color","value":"#DDDDDD","xtype":"textfield","namespace":"ckeditor","area":"general","editedon":null}',
+);

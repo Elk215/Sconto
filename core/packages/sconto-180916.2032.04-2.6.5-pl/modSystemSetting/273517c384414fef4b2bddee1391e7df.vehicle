@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '8ed86b8ee96543693611f1d70ce7c50a',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => '273517c384414fef4b2bddee1391e7df',
+  'native_key' => 'ms2_product_show_in_tree_default',
+  'object' => '{"key":"ms2_product_show_in_tree_default","value":"","xtype":"combo-boolean","namespace":"minishop2","area":"ms2_product","editedon":null}',
+);

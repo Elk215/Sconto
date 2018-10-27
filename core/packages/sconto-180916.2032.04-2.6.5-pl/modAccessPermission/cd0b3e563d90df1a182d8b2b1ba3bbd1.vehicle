@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '70917ffed1e00947b6fa7e6aeab9e399',
+  'package' => 'modx',
+  'class' => 'modAccessPermission',
+  'signature' => 'cd0b3e563d90df1a182d8b2b1ba3bbd1',
+  'native_key' => 138,
+  'object' => '{"id":138,"template":1,"name":"events","description":"perm.events_desc","value":1}',
+);

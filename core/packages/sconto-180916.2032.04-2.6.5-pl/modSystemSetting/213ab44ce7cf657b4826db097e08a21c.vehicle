@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '5c98bb399897d41a45ce58b630cb541a',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => '213ab44ce7cf657b4826db097e08a21c',
+  'native_key' => 'sisea.solr.ssl_keypassword',
+  'object' => '{"key":"sisea.solr.ssl_keypassword","value":"","xtype":"textfield","namespace":"sisea","area":"Solr","editedon":null}',
+);

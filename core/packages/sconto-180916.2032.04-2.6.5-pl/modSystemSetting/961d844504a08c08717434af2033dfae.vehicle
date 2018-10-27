@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'e80785fad20dfc9ff0be55139ad5205f',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => '961d844504a08c08717434af2033dfae',
+  'native_key' => 'admintools_plugins_events',
+  'object' => '{"key":"admintools_plugins_events","value":"1","xtype":"combo-boolean","namespace":"admintools","area":"admintools_main","editedon":null}',
+);

@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'ddcf6b6b366d85a3837da6644ace006c',
+  'package' => 'modx',
+  'class' => 'modChunk',
+  'signature' => '72bb2c8c1e892c7b48359a21511e7439',
+  'native_key' => 41,
+  'object' => '{"id":41,"source":1,"property_preprocess":0,"name":"custom.mFilter2.filter.outer","description":"","editor_type":0,"category":23,"cache_type":0,"snippet":"<fieldset id=\\"mse2_[[+table]][[+delimeter]][[+filter]]\\" class=\\"widget filter-box-widget\\">\\n    <h3 class=\\"widget-title\\">[[%mse2_filter_[[+table]]_[[+filter]]]]<\\/h3>\\n    <div class=\\"widget-body\\">\\n\\t    [[+rows]]\\n\\t<\\/div>\\n<\\/fieldset>\\n","locked":0,"properties":"a:0:{}","static":0,"static_file":"","content":"<fieldset id=\\"mse2_[[+table]][[+delimeter]][[+filter]]\\" class=\\"widget filter-box-widget\\">\\n    <h3 class=\\"widget-title\\">[[%mse2_filter_[[+table]]_[[+filter]]]]<\\/h3>\\n    <div class=\\"widget-body\\">\\n\\t    [[+rows]]\\n\\t<\\/div>\\n<\\/fieldset>\\n"}',
+);

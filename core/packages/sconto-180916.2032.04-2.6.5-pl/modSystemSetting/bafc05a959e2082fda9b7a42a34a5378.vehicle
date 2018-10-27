@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'ac5bb998d1260a52cd1312f118e8684b',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => 'bafc05a959e2082fda9b7a42a34a5378',
+  'native_key' => 'xrouting.allow_debug_info',
+  'object' => '{"key":"xrouting.allow_debug_info","value":"","xtype":"combo-boolean","namespace":"xrouting","area":"common","editedon":null}',
+);

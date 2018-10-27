@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'cb397d20a1fc9b6284c46d6ba266b877',
+  'package' => 'modx',
+  'class' => 'modAccessPolicyTemplate',
+  'signature' => '907d9d668ddca0f8a6efb733b1d3a7c2',
+  'native_key' => 2,
+  'object' => '{"id":2,"template_group":3,"name":"ResourceTemplate","description":"Resource Policy Template with all attributes.","lexicon":"permissions"}',
+);

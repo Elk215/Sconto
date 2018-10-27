@@ -1,0 +1,36 @@
+<?php return array (
+  'class' => 'vaporVehicle',
+  'object' => 
+  array (
+    'tableName' => 'localizator_content',
+    'drop' => 'DROP TABLE IF EXISTS `[[++table_prefix]]localizator_content`',
+    'table' => 'CREATE TABLE `[[++table_prefix]]localizator_content` (
+  `id` int(10) unsigned NOT NULL AUTO_INCREMENT,
+  `resource_id` int(10) unsigned DEFAULT \'0\',
+  `key` varchar(100) NOT NULL DEFAULT \'\',
+  `pagetitle` varchar(255) NOT NULL DEFAULT \'\',
+  `longtitle` varchar(255) NOT NULL DEFAULT \'\',
+  `menutitle` varchar(255) NOT NULL DEFAULT \'\',
+  `seotitle` varchar(255) NOT NULL DEFAULT \'\',
+  `keywords` varchar(255) NOT NULL DEFAULT \'\',
+  `introtext` text,
+  `description` text,
+  `content` mediumtext,
+  `active` tinyint(1) DEFAULT \'1\',
+  PRIMARY KEY (`id`),
+  KEY `resource_id` (`resource_id`),
+  KEY `key` (`key`)
+) ENGINE=MyISAM AUTO_INCREMENT=3 DEFAULT CHARSET=utf8',
+    'data' => 
+    array (
+      0 => 'INSERT INTO `[[++table_prefix]]localizator_content` (`id`, `resource_id`, `key`, `pagetitle`, `longtitle`, `menutitle`, `seotitle`, `keywords`, `introtext`, `description`, `content`, `active`) VALUES (\'1\', \'1\', \'ru\', \'Главная\', \'Главная страница\', \' Главная\', \'\', \'\', \'\', \'\', \'<p></p>\', \'1\')',
+      1 => 'INSERT INTO `[[++table_prefix]]localizator_content` (`id`, `resource_id`, `key`, `pagetitle`, `longtitle`, `menutitle`, `seotitle`, `keywords`, `introtext`, `description`, `content`, `active`) VALUES (\'2\', \'1\', \'uk\', \'Головна\', \'Головна сторінка\', \'Головна\', \'\', \'\', \'\', \'\', \'<p></p>\', \'1\')',
+    ),
+  ),
+  'vehicle_package' => 'vapor',
+  'vehicle_class' => 'vaporVehicle',
+  'guid' => '6dedae4daf2006a7ad73c9fc153d1e00',
+  'package' => '',
+  'signature' => '6f62dfd0e66a6b2ff35a12b711ed02a2',
+  'native_key' => '6dedae4daf2006a7ad73c9fc153d1e00',
+);

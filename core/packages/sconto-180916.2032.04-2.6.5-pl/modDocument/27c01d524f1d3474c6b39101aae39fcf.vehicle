@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '7e4d2dd5433b8a1a316ecd9e80e0c46b',
+  'package' => 'modx',
+  'class' => 'modDocument',
+  'signature' => '27c01d524f1d3474c6b39101aae39fcf',
+  'native_key' => 17,
+  'object' => '{"id":17,"type":"document","contentType":"text\\/html","pagetitle":"Checkout","longtitle":"","description":"","alias":"checkout","link_attributes":"","published":1,"pub_date":0,"unpub_date":0,"parent":0,"isfolder":0,"introtext":"","content":"","richtext":1,"template":8,"menuindex":9,"searchable":1,"cacheable":1,"createdby":1,"createdon":1536335446,"editedby":1,"editedon":1536335624,"deleted":0,"deletedon":0,"deletedby":0,"publishedon":1536335400,"publishedby":1,"menutitle":"","donthit":0,"privateweb":0,"privatemgr":0,"content_dispo":0,"hidemenu":0,"class_key":"modDocument","context_key":"web","content_type":1,"uri":"checkout","uri_override":0,"hide_children_in_tree":0,"show_in_tree":1,"properties":null}',
+);

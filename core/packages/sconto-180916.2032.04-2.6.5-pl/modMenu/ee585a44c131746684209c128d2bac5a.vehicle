@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '288cef0ad82055c275b0fde6ed8cb27c',
+  'package' => 'modx',
+  'class' => 'modMenu',
+  'signature' => 'ee585a44c131746684209c128d2bac5a',
+  'native_key' => 'bespoke_manager',
+  'object' => '{"text":"bespoke_manager","parent":"admin","action":"security\\/forms","description":"bespoke_manager_desc","icon":"","menuindex":1,"params":"","handler":"","permissions":"customize_forms","namespace":"core"}',
+);

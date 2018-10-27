@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '9a342d9bac96122f5478f0b04bd18670',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => '3c196ce17314fe4e8d8dfbe83c823ffc',
+  'native_key' => 'settings_distro',
+  'object' => '{"key":"settings_distro","value":"traditional","xtype":"textfield","namespace":"core","area":"system","editedon":null}',
+);

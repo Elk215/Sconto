@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'a3936653f6575e6d17ce5658169339fa',
+  'package' => 'modx',
+  'class' => 'modNamespace',
+  'signature' => '10cd69012c422e484ee482d34600c469',
+  'native_key' => 'sisea',
+  'object' => '{"name":"sisea","path":"{core_path}components\\/simplesearch\\/","assets_path":"{assets_path}components\\/simplesearch\\/"}',
+);

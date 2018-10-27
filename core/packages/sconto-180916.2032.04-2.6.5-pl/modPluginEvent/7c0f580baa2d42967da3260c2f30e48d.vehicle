@@ -1,0 +1,16 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '6098c3025068a0cd01881cdd95ea7da3',
+  'package' => 'modx',
+  'class' => 'modPluginEvent',
+  'signature' => '7c0f580baa2d42967da3260c2f30e48d',
+  'native_key' => 
+  array (
+    0 => 17,
+    1 => 'OnDocUnPublished',
+  ),
+  'object' => '{"pluginid":17,"event":"OnDocUnPublished","priority":0,"propertyset":0}',
+);

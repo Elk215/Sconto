@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '009e4af6c5ee0caddf9ef8e35329e14c',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => '9fadd27bbced4a64bdf834af0c9c8f26',
+  'native_key' => 'ckeditor.toolbar_groups',
+  'object' => '{"key":"ckeditor.toolbar_groups","value":"[{\\"name\\":\\"document\\",\\"groups\\":[\\"mode\\",\\"document\\",\\"doctools\\"]},{\\"name\\":\\"clipboard\\",\\"groups\\":[\\"clipboard\\",\\"undo\\"]},{\\"name\\":\\"editing\\",\\"groups\\":[\\"find\\",\\"selection\\",\\"spellchecker\\"]},{\\"name\\":\\"links\\"},{\\"name\\":\\"insert\\"},{\\"name\\":\\"forms\\"},\\"\\/\\",{\\"name\\":\\"basicstyles\\",\\"groups\\":[\\"basicstyles\\",\\"cleanup\\"]},{\\"name\\":\\"paragraph\\",\\"groups\\":[\\"list\\",\\"indent\\",\\"blocks\\",\\"align\\",\\"bidi\\"]},{\\"name\\":\\"styles\\"},{\\"name\\":\\"colors\\"},{\\"name\\":\\"tools\\"},{\\"name\\":\\"others\\"},{\\"name\\":\\"about\\"}]","xtype":"textarea","namespace":"ckeditor","area":"general","editedon":null}',
+);

@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'ed9c486df5ddb31648d474a865d33863',
+  'package' => 'modx',
+  'class' => 'modAccessPermission',
+  'signature' => '9a86829956fa69c85bf2fb19cee7dd7e',
+  'native_key' => 249,
+  'object' => '{"id":249,"template":8,"name":"directory_create","description":"perm.directory_create_desc","value":1}',
+);

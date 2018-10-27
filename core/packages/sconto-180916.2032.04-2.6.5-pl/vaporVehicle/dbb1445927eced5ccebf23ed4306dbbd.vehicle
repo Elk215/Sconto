@@ -1,0 +1,47 @@
+<?php return array (
+  'class' => 'vaporVehicle',
+  'object' => 
+  array (
+    'tableName' => 'ms2_products',
+    'drop' => 'DROP TABLE IF EXISTS `[[++table_prefix]]ms2_products`',
+    'table' => 'CREATE TABLE `[[++table_prefix]]ms2_products` (
+  `id` int(10) unsigned NOT NULL AUTO_INCREMENT,
+  `article` varchar(50) DEFAULT NULL,
+  `price` decimal(12,2) DEFAULT \'0.00\',
+  `old_price` decimal(12,2) DEFAULT \'0.00\',
+  `weight` decimal(13,3) DEFAULT \'0.000\',
+  `image` varchar(255) DEFAULT NULL,
+  `thumb` varchar(255) DEFAULT NULL,
+  `vendor` int(10) unsigned DEFAULT \'0\',
+  `made_in` varchar(100) DEFAULT \'\',
+  `new` tinyint(1) unsigned DEFAULT \'0\',
+  `popular` tinyint(1) unsigned DEFAULT \'0\',
+  `favorite` tinyint(1) unsigned DEFAULT \'0\',
+  `tags` text,
+  `color` text,
+  `size` text,
+  `source` int(10) unsigned DEFAULT \'1\',
+  PRIMARY KEY (`id`),
+  KEY `article` (`article`),
+  KEY `price` (`price`),
+  KEY `old_price` (`old_price`),
+  KEY `vendor` (`vendor`),
+  KEY `new` (`new`),
+  KEY `favorite` (`favorite`),
+  KEY `popular` (`popular`),
+  KEY `made_in` (`made_in`)
+) ENGINE=MyISAM AUTO_INCREMENT=22 DEFAULT CHARSET=utf8',
+    'data' => 
+    array (
+      0 => 'INSERT INTO `[[++table_prefix]]ms2_products` (`id`, `article`, `price`, `old_price`, `weight`, `image`, `thumb`, `vendor`, `made_in`, `new`, `popular`, `favorite`, `tags`, `color`, `size`, `source`) VALUES (\'11\', \'483 512 569\', \'200.00\', \'400.00\', \'0.000\', \'/assets/images/products/11/product1.jpg\', \'/assets/images/products/11/thumb/product1.jpg\', \'2\', \'\', \'0\', \'1\', \'0\', NULL, \'[\\"Black\\"]\', NULL, \'4\')',
+      1 => 'INSERT INTO `[[++table_prefix]]ms2_products` (`id`, `article`, `price`, `old_price`, `weight`, `image`, `thumb`, `vendor`, `made_in`, `new`, `popular`, `favorite`, `tags`, `color`, `size`, `source`) VALUES (\'21\', \'483 512 569\', \'100.00\', \'400.00\', \'0.000\', \'/assets/images/products/21/product13.jpg\', \'/assets/images/products/21/thumb/product13.jpg\', \'1\', \'\', \'0\', \'1\', \'0\', NULL, \'[\\"Black\\",\\"Red\\"]\', NULL, \'4\')',
+      2 => 'INSERT INTO `[[++table_prefix]]ms2_products` (`id`, `article`, `price`, `old_price`, `weight`, `image`, `thumb`, `vendor`, `made_in`, `new`, `popular`, `favorite`, `tags`, `color`, `size`, `source`) VALUES (\'20\', \'483 512 569\', \'200.00\', \'400.00\', \'0.000\', \'/assets/images/products/20/product1.jpg\', \'/assets/images/products/20/thumb/product1.jpg\', \'2\', \'\', \'1\', \'0\', \'0\', NULL, \'[\\"Black\\"]\', NULL, \'4\')',
+    ),
+  ),
+  'vehicle_package' => 'vapor',
+  'vehicle_class' => 'vaporVehicle',
+  'guid' => '594b7442e00bc458eb7dc74e8b2a32aa',
+  'package' => '',
+  'signature' => 'dbb1445927eced5ccebf23ed4306dbbd',
+  'native_key' => '594b7442e00bc458eb7dc74e8b2a32aa',
+);

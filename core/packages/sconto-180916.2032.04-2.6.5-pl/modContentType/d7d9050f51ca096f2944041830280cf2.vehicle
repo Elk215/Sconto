@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'fd146de4f46866b0c72e5bab2d81e5de',
+  'package' => 'modx',
+  'class' => 'modContentType',
+  'signature' => 'd7d9050f51ca096f2944041830280cf2',
+  'native_key' => 8,
+  'object' => '{"id":8,"name":"PDF","description":"PDF Files","mime_type":"application\\/pdf","file_extensions":".pdf","headers":null,"binary":1}',
+);

@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'eb7e1deb1acb9f27fd1fb8f0b7f2fef9',
+  'package' => 'modx',
+  'class' => 'modActionField',
+  'signature' => '8647a33c22b09e3a75c0b492454b16ae',
+  'native_key' => 12,
+  'object' => '{"id":12,"action":"resource\\/update","name":"link_attributes","type":"field","tab":"modx-resource-main-right","form":"modx-panel-resource","other":"","rank":3}',
+);

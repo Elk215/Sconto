@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'c04d25fbf4baec08578279bc82c22e16',
+  'package' => 'modx',
+  'class' => 'modNamespace',
+  'signature' => 'b5646dd127a6a6f1f322c17d9eb444fa',
+  'native_key' => 'debugparser',
+  'object' => '{"name":"debugparser","path":"{core_path}components\\/debugparser\\/","assets_path":""}',
+);

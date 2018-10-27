@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '3042be1e5d8cc8fb2843031728c43e86',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => '79586a65f7f05555b3d2534899930951',
+  'native_key' => 'modx_browser_tree_hide_files',
+  'object' => '{"key":"modx_browser_tree_hide_files","value":"","xtype":"combo-boolean","namespace":"core","area":"manager","editedon":null}',
+);

@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'e5a6b44899227c2850a8fb26b8daa45b',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => 'f5b218fe7aa1e0f37e5e172d04a0b23c',
+  'native_key' => 'formit.exclude_contexts',
+  'object' => '{"key":"formit.exclude_contexts","value":"mgr","xtype":"combo-boolean","namespace":"formit","area":"system","editedon":null}',
+);

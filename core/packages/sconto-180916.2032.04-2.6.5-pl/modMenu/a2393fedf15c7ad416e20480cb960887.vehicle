@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '37a6e2c100ec3f2bff1abff5c11a7e8b',
+  'package' => 'modx',
+  'class' => 'modMenu',
+  'signature' => 'a2393fedf15c7ad416e20480cb960887',
+  'native_key' => 'topnav',
+  'object' => '{"text":"topnav","parent":"","action":"","description":"topnav_desc","icon":"","menuindex":0,"params":"","handler":"","permissions":"","namespace":"core"}',
+);

@@ -1,0 +1,16 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '61a2e0428b957ee3dc0ee2863d305dc4',
+  'package' => 'modx',
+  'class' => 'modPluginEvent',
+  'signature' => '1b3665806abc25cda9a408996dfcf7a8',
+  'native_key' => 
+  array (
+    0 => 15,
+    1 => 'OnPageNotFound',
+  ),
+  'object' => '{"pluginid":15,"event":"OnPageNotFound","priority":0,"propertyset":0}',
+);

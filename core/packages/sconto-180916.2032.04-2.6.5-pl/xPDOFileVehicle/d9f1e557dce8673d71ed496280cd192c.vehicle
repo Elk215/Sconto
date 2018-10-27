@@ -1,0 +1,15 @@
+<?php return array (
+  'class' => 'xPDOFileVehicle',
+  'object' => 
+  array (
+    'source' => 'sconto-180916.2032.04-2.6.5-pl/xPDOFileVehicle/d9f1e557dce8673d71ed496280cd192c/',
+    'target' => 'return MODX_BASE_PATH;',
+    'name' => 'helpme',
+  ),
+  'vehicle_class' => 'xPDOFileVehicle',
+  'vehicle_package' => 'transport',
+  'guid' => '842f8547c9b069126fc56e9bfa171c52',
+  'package' => '',
+  'signature' => 'd9f1e557dce8673d71ed496280cd192c',
+  'native_key' => '842f8547c9b069126fc56e9bfa171c52',
+);

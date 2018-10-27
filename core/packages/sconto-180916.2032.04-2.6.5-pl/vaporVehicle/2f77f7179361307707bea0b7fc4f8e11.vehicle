@@ -1,0 +1,26 @@
+<?php return array (
+  'class' => 'vaporVehicle',
+  'object' => 
+  array (
+    'tableName' => 'bannery_positions',
+    'drop' => 'DROP TABLE IF EXISTS `[[++table_prefix]]bannery_positions`',
+    'table' => 'CREATE TABLE `[[++table_prefix]]bannery_positions` (
+  `id` int(10) unsigned NOT NULL AUTO_INCREMENT,
+  `name` varchar(255) NOT NULL DEFAULT \'\',
+  PRIMARY KEY (`id`),
+  KEY `name` (`name`)
+) ENGINE=MyISAM AUTO_INCREMENT=4 DEFAULT CHARSET=utf8',
+    'data' => 
+    array (
+      0 => 'INSERT INTO `[[++table_prefix]]bannery_positions` (`id`, `name`) VALUES (\'1\', \'1 - top\')',
+      1 => 'INSERT INTO `[[++table_prefix]]bannery_positions` (`id`, `name`) VALUES (\'2\', \'2 - groop banners\')',
+      2 => 'INSERT INTO `[[++table_prefix]]bannery_positions` (`id`, `name`) VALUES (\'3\', \'Center big\')',
+    ),
+  ),
+  'vehicle_package' => 'vapor',
+  'vehicle_class' => 'vaporVehicle',
+  'guid' => '9ebcb62a08806c9c88895f9fa48d9813',
+  'package' => '',
+  'signature' => '2f77f7179361307707bea0b7fc4f8e11',
+  'native_key' => '9ebcb62a08806c9c88895f9fa48d9813',
+);

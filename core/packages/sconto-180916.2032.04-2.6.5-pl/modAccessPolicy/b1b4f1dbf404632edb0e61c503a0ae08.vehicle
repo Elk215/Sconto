@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '771e234fbbc79af0adf129b5949dd9b6',
+  'package' => 'modx',
+  'class' => 'modAccessPolicy',
+  'signature' => 'b1b4f1dbf404632edb0e61c503a0ae08',
+  'native_key' => 12,
+  'object' => '{"id":12,"name":"Hidden Namespace","description":"Hidden Namespace policy, will not show Namespace in lists.","parent":0,"template":7,"class":"","data":"{\\"load\\":false,\\"list\\":false,\\"view\\":true}","lexicon":"permissions"}',
+);

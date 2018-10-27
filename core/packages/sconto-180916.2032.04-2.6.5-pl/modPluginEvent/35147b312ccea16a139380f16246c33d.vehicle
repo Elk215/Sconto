@@ -1,0 +1,16 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '10585236fe2b79a3147e211d39118317',
+  'package' => 'modx',
+  'class' => 'modPluginEvent',
+  'signature' => '35147b312ccea16a139380f16246c33d',
+  'native_key' => 
+  array (
+    0 => 17,
+    1 => 'OnResourceDelete',
+  ),
+  'object' => '{"pluginid":17,"event":"OnResourceDelete","priority":0,"propertyset":0}',
+);

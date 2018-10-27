@@ -1,0 +1,37 @@
+<?php return array (
+  'class' => 'vaporVehicle',
+  'object' => 
+  array (
+    'tableName' => 'bannery_ads',
+    'drop' => 'DROP TABLE IF EXISTS `[[++table_prefix]]bannery_ads`',
+    'table' => 'CREATE TABLE `[[++table_prefix]]bannery_ads` (
+  `id` int(10) unsigned NOT NULL AUTO_INCREMENT,
+  `name` varchar(255) NOT NULL DEFAULT \'\',
+  `url` varchar(255) DEFAULT \'\',
+  `image` varchar(255) DEFAULT \'\',
+  `source` int(10) unsigned DEFAULT \'1\',
+  `active` tinyint(1) unsigned NOT NULL DEFAULT \'0\',
+  `description` text,
+  `start` datetime DEFAULT NULL,
+  `end` datetime DEFAULT NULL,
+  PRIMARY KEY (`id`),
+  KEY `active` (`active`),
+  KEY `start` (`start`),
+  KEY `end` (`end`)
+) ENGINE=MyISAM AUTO_INCREMENT=6 DEFAULT CHARSET=utf8',
+    'data' => 
+    array (
+      0 => 'INSERT INTO `[[++table_prefix]]bannery_ads` (`id`, `name`, `url`, `image`, `source`, `active`, `description`, `start`, `end`) VALUES (\'1\', \'Sale\', \'[[~5]]\', \'assets/sconto/assets/images/banners/index5/banner1.jpg\', \'1\', \'1\', \'\', NULL, NULL)',
+      1 => 'INSERT INTO `[[++table_prefix]]bannery_ads` (`id`, `name`, `url`, `image`, `source`, `active`, `description`, `start`, `end`) VALUES (\'2\', \'Delivery\', \'[[~6]]\', \'assets/sconto/assets/images/banners/index5/banner2.jpg\', \'1\', \'1\', \'\', NULL, NULL)',
+      2 => 'INSERT INTO `[[++table_prefix]]bannery_ads` (`id`, `name`, `url`, `image`, `source`, `active`, `description`, `start`, `end`) VALUES (\'3\', \'ATTENTION\', \'[[~5]]\', \'assets/sconto/assets/images/banners/index5/banner4.jpg\', \'1\', \'1\', \'\', NULL, NULL)',
+      3 => 'INSERT INTO `[[++table_prefix]]bannery_ads` (`id`, `name`, `url`, `image`, `source`, `active`, `description`, `start`, `end`) VALUES (\'4\', \'WindowsPhone\', \'[[~6]]\', \'assets/sconto/assets/images/banners/index5/banner5.jpg\', \'1\', \'1\', \'\', NULL, NULL)',
+      4 => 'INSERT INTO `[[++table_prefix]]bannery_ads` (`id`, `name`, `url`, `image`, `source`, `active`, `description`, `start`, `end`) VALUES (\'5\', \'Discounts\', \'[[~5]]\', \'assets/sconto/assets/images/banners/index5/banner3.jpg\', \'1\', \'1\', \'\', NULL, NULL)',
+    ),
+  ),
+  'vehicle_package' => 'vapor',
+  'vehicle_class' => 'vaporVehicle',
+  'guid' => 'd785ad408f3f559ba65d657513f0145b',
+  'package' => '',
+  'signature' => '3d58117c269fd48d3dbac6867ac975ac',
+  'native_key' => 'd785ad408f3f559ba65d657513f0145b',
+);

@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '9701487d78db1ebd7cb6476d9388c9e8',
+  'package' => 'modx',
+  'class' => 'modChunk',
+  'signature' => '1c63d8d383f1cc4c16fab7779ff24cb8',
+  'native_key' => 17,
+  'object' => '{"id":17,"source":1,"property_preprocess":0,"name":"tpl.msEmail.new.manager","description":"","editor_type":0,"category":11,"cache_type":0,"snippet":"{extends \'tpl.msEmail\'}\\r\\n\\r\\n{block \'title\'}\\r\\n    {\'ms2_email_subject_new_manager\' | lexicon : $order}\\r\\n{\\/block}","locked":0,"properties":null,"static":0,"static_file":"core\\/components\\/minishop2\\/elements\\/chunks\\/chunk.ms_email_new_manager.tpl","content":"{extends \'tpl.msEmail\'}\\r\\n\\r\\n{block \'title\'}\\r\\n    {\'ms2_email_subject_new_manager\' | lexicon : $order}\\r\\n{\\/block}"}',
+);

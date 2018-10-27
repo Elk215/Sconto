@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'ea513643175985a0fd1ed383fcf0496e',
+  'package' => 'modx',
+  'class' => 'modAccessPermission',
+  'signature' => 'c599aefe4034f3c79b937745eacf8e35',
+  'native_key' => 397,
+  'object' => '{"id":397,"template":9,"name":"msproduct_delete","description":"msproduct_delete","value":1}',
+);

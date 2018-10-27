@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '1fc8be1c13d8a6e2dc3d7aa6f8580d8e',
+  'package' => 'modx',
+  'class' => 'modNamespace',
+  'signature' => '0db97f69fc7be9bee80c06965569e8f3',
+  'native_key' => 'msearch2',
+  'object' => '{"name":"msearch2","path":"{core_path}components\\/msearch2\\/","assets_path":""}',
+);

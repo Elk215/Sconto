@@ -1,0 +1,16 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '3ecd74620e68a9240837a406c382a98f',
+  'package' => 'modx',
+  'class' => 'modPluginEvent',
+  'signature' => '5c3e0ea46272a8455f8b5718b310985d',
+  'native_key' => 
+  array (
+    0 => 13,
+    1 => 'OnCommentSave',
+  ),
+  'object' => '{"pluginid":13,"event":"OnCommentSave","priority":1,"propertyset":0}',
+);

@@ -1,0 +1,16 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'cd4623e144cfae5a9bd5f03b55a2ee9a',
+  'package' => 'modx',
+  'class' => 'modContextSetting',
+  'signature' => '53188fe582c2652f24b911ed2702a0cf',
+  'native_key' => 
+  array (
+    0 => 'web',
+    1 => 'base_url',
+  ),
+  'object' => '{"context_key":"web","key":"base_url","value":"\\/","xtype":"textfield","namespace":"core","area":"","editedon":null}',
+);

@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '71fcf12af7a5e28bd0a7b79dac8e1a58',
+  'package' => 'modx',
+  'class' => 'modTemplateVar',
+  'signature' => '1ae1e7144943b5b02a207851305240c7',
+  'native_key' => 15,
+  'object' => '{"id":15,"source":1,"property_preprocess":0,"type":"option","name":"addTestimonials","caption":"Add testimonials?","description":"","editor_type":0,"category":21,"locked":0,"elements":"Show==Yes||Hide==No","rank":0,"display":"default","default_text":"Hide==No","properties":"a:0:{}","input_properties":"a:2:{s:10:\\"allowBlank\\";s:4:\\"true\\";s:7:\\"columns\\";s:1:\\"1\\";}","output_properties":"a:0:{}","static":0,"static_file":"","content":"Hide==No"}',
+);

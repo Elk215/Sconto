@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'b738628c2e34aef90a863e5da48d6961',
+  'package' => 'modx',
+  'class' => 'modDocument',
+  'signature' => '6eda8abb1fc0ea1d5df5998e86f94576',
+  'native_key' => 4,
+  'object' => '{"id":4,"type":"document","contentType":"text\\/plain","pagetitle":"robots","longtitle":"","description":"","alias":"robots","link_attributes":"","published":1,"pub_date":0,"unpub_date":0,"parent":0,"isfolder":0,"introtext":null,"content":"User-agent: *\\r\\nDisallow: \\/manager\\/\\r\\nDisallow: \\/assets\\/components\\/\\r\\nDisallow: \\/core\\/\\r\\nDisallow: \\/connectors\\/\\r\\nDisallow: \\/index.php\\r\\nDisallow: *?query\\r\\nHost: [[++http_host]]\\r\\nSitemap: [[++site_url]]sitemap.xml","richtext":0,"template":0,"menuindex":3,"searchable":1,"cacheable":1,"createdby":0,"createdon":1535988985,"editedby":0,"editedon":0,"deleted":0,"deletedon":0,"deletedby":0,"publishedon":0,"publishedby":0,"menutitle":"","donthit":0,"privateweb":0,"privatemgr":0,"content_dispo":0,"hidemenu":1,"class_key":"modDocument","context_key":"web","content_type":3,"uri":"robots.txt","uri_override":0,"hide_children_in_tree":0,"show_in_tree":1,"properties":null}',
+);

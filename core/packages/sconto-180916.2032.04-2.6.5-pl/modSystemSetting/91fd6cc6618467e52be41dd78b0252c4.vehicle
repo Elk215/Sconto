@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '5b0007e8150882da49aa3a93edc36516',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => '91fd6cc6618467e52be41dd78b0252c4',
+  'native_key' => 'admintools_favorites_icon',
+  'object' => '{"key":"admintools_favorites_icon","value":"","xtype":"textfield","namespace":"admintools","area":"admintools_main","editedon":null}',
+);

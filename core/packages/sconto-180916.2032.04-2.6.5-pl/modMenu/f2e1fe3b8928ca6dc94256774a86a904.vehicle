@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '79cfc4427eadb359094a85504ec02982',
+  'package' => 'modx',
+  'class' => 'modMenu',
+  'signature' => 'f2e1fe3b8928ca6dc94256774a86a904',
+  'native_key' => 'msearch2',
+  'object' => '{"text":"msearch2","parent":"components","action":"6","description":"mse2_menu_desc","icon":"images\\/icons\\/plugin.gif","menuindex":6,"params":"","handler":"","permissions":"","namespace":"core"}',
+);

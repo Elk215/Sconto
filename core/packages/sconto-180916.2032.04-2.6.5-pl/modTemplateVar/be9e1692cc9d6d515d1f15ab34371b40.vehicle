@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'eb7dbdb57642a84a158e1f1bc4fbb4a4',
+  'package' => 'modx',
+  'class' => 'modTemplateVar',
+  'signature' => 'be9e1692cc9d6d515d1f15ab34371b40',
+  'native_key' => 6,
+  'object' => '{"id":6,"source":1,"property_preprocess":0,"type":"migx","name":"manufacturers","caption":"Manufacturers","description":"","editor_type":0,"category":17,"locked":0,"elements":"","rank":0,"display":"default","default_text":"","properties":"a:0:{}","input_properties":"a:7:{s:7:\\"configs\\";s:0:\\"\\";s:8:\\"formtabs\\";s:105:\\"[\\n{\\"caption\\":\\"\\", \\"fields\\": [\\n{\\"field\\":\\"partnerImage\\",\\"caption\\":\\"partnerImage\\",\\"inputTVtype\\":\\"image\\"}\\n]}\\n]\\";s:7:\\"columns\\";s:118:\\"[\\n{\\"header\\": \\"Image\\", \\"width\\": \\"80\\", \\"sortable\\": \\"true\\", \\"dataIndex\\": \\"partnerImage\\",\\"renderer\\": \\"this.renderImage\\"}\\n]\\";s:7:\\"btntext\\";s:11:\\"Add partner\\";s:10:\\"previewurl\\";s:0:\\"\\";s:10:\\"jsonvarkey\\";s:0:\\"\\";s:19:\\"autoResourceFolders\\";s:5:\\"false\\";}","output_properties":"a:0:{}","static":0,"static_file":"","content":""}',
+);

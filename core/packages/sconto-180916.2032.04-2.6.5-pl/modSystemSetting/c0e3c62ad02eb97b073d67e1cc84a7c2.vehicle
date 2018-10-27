@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '27962d39f729d2b391fb968069890d18',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => 'c0e3c62ad02eb97b073d67e1cc84a7c2',
+  'native_key' => 'mse2_filters_handler_class',
+  'object' => '{"key":"mse2_filters_handler_class","value":"mse2FiltersHandler","xtype":"textfield","namespace":"msearch2","area":"mse2_main","editedon":null}',
+);

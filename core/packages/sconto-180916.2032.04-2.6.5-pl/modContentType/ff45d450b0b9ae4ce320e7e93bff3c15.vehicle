@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '572a92ccd84312eaf7e5dbf0c919cb27',
+  'package' => 'modx',
+  'class' => 'modContentType',
+  'signature' => 'ff45d450b0b9ae4ce320e7e93bff3c15',
+  'native_key' => 5,
+  'object' => '{"id":5,"name":"javascript","description":"javascript content","mime_type":"text\\/javascript","file_extensions":".js","headers":null,"binary":0}',
+);

@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'a919ddb03edf9041cf43096ab4735059',
+  'package' => 'modx',
+  'class' => 'modChunk',
+  'signature' => '8d5321126f879d6a3d5432c7aa698fae',
+  'native_key' => 39,
+  'object' => '{"id":39,"source":1,"property_preprocess":0,"name":"custom.mFilter2.filter.number","description":"","editor_type":0,"category":23,"cache_type":0,"snippet":"<div class=\\"form-group col-xs-6\\">\\n    <div class=\\"filter-price-container\\">\\n\\t\\t<input type=\\"text\\" name=\\"[[+filter_key]]\\" id=\\"mse2_[[+table]][[+delimeter]][[+filter]]_[[+idx]]\\" value=\\"[[+value]]\\" class=\\"form-control\\" \\/>\\n\\t    <label class=\\"price-label\\" for=\\"mse2_[[+table]][[+delimeter]][[+filter]]_[[+idx]]\\"><\\/label>\\n    <\\/div>\\n<\\/div>","locked":0,"properties":"a:0:{}","static":0,"static_file":"","content":"<div class=\\"form-group col-xs-6\\">\\n    <div class=\\"filter-price-container\\">\\n\\t\\t<input type=\\"text\\" name=\\"[[+filter_key]]\\" id=\\"mse2_[[+table]][[+delimeter]][[+filter]]_[[+idx]]\\" value=\\"[[+value]]\\" class=\\"form-control\\" \\/>\\n\\t    <label class=\\"price-label\\" for=\\"mse2_[[+table]][[+delimeter]][[+filter]]_[[+idx]]\\"><\\/label>\\n    <\\/div>\\n<\\/div>"}',
+);

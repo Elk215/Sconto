@@ -1,0 +1,40 @@
+<?php return array (
+  'class' => 'vaporVehicle',
+  'object' => 
+  array (
+    'tableName' => 'ms2_order_statuses',
+    'drop' => 'DROP TABLE IF EXISTS `[[++table_prefix]]ms2_order_statuses`',
+    'table' => 'CREATE TABLE `[[++table_prefix]]ms2_order_statuses` (
+  `id` int(10) unsigned NOT NULL AUTO_INCREMENT,
+  `name` varchar(100) NOT NULL,
+  `description` text,
+  `color` char(6) DEFAULT \'000000\',
+  `email_user` tinyint(1) DEFAULT \'0\',
+  `email_manager` tinyint(1) DEFAULT \'0\',
+  `subject_user` varchar(255) DEFAULT \'\',
+  `subject_manager` varchar(255) DEFAULT \'\',
+  `body_user` int(10) DEFAULT \'0\',
+  `body_manager` int(10) DEFAULT \'0\',
+  `active` tinyint(1) DEFAULT \'1\',
+  `final` tinyint(1) DEFAULT \'0\',
+  `fixed` tinyint(1) DEFAULT \'0\',
+  `rank` tinyint(1) unsigned DEFAULT \'0\',
+  `editable` tinyint(1) DEFAULT \'1\',
+  PRIMARY KEY (`id`),
+  KEY `active` (`active`)
+) ENGINE=MyISAM AUTO_INCREMENT=5 DEFAULT CHARSET=utf8',
+    'data' => 
+    array (
+      0 => 'INSERT INTO `[[++table_prefix]]ms2_order_statuses` (`id`, `name`, `description`, `color`, `email_user`, `email_manager`, `subject_user`, `subject_manager`, `body_user`, `body_manager`, `active`, `final`, `fixed`, `rank`, `editable`) VALUES (\'1\', \'Новый\', NULL, \'000000\', \'1\', \'1\', \'[[%ms2_email_subject_new_user]]\', \'[[%ms2_email_subject_new_manager]]\', \'16\', \'17\', \'1\', \'0\', \'1\', \'0\', \'0\')',
+      1 => 'INSERT INTO `[[++table_prefix]]ms2_order_statuses` (`id`, `name`, `description`, `color`, `email_user`, `email_manager`, `subject_user`, `subject_manager`, `body_user`, `body_manager`, `active`, `final`, `fixed`, `rank`, `editable`) VALUES (\'2\', \'Оплачен\', NULL, \'008000\', \'1\', \'1\', \'[[%ms2_email_subject_paid_user]]\', \'[[%ms2_email_subject_paid_manager]]\', \'18\', \'19\', \'1\', \'0\', \'1\', \'1\', \'0\')',
+      2 => 'INSERT INTO `[[++table_prefix]]ms2_order_statuses` (`id`, `name`, `description`, `color`, `email_user`, `email_manager`, `subject_user`, `subject_manager`, `body_user`, `body_manager`, `active`, `final`, `fixed`, `rank`, `editable`) VALUES (\'3\', \'Отправлен\', NULL, \'003366\', \'1\', \'0\', \'[[%ms2_email_subject_sent_user]]\', \'\', \'20\', \'0\', \'1\', \'1\', \'1\', \'2\', \'0\')',
+      3 => 'INSERT INTO `[[++table_prefix]]ms2_order_statuses` (`id`, `name`, `description`, `color`, `email_user`, `email_manager`, `subject_user`, `subject_manager`, `body_user`, `body_manager`, `active`, `final`, `fixed`, `rank`, `editable`) VALUES (\'4\', \'Отменён\', NULL, \'800000\', \'1\', \'0\', \'[[%ms2_email_subject_cancelled_user]]\', \'\', \'21\', \'0\', \'1\', \'1\', \'1\', \'3\', \'0\')',
+    ),
+  ),
+  'vehicle_package' => 'vapor',
+  'vehicle_class' => 'vaporVehicle',
+  'guid' => '4133effe15149dbff43e4f032403c5fa',
+  'package' => '',
+  'signature' => '1c780957d9d0031c3f1898dd4920c662',
+  'native_key' => '4133effe15149dbff43e4f032403c5fa',
+);

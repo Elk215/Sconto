@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '9e9492249b40175eb0dd72acb1b8acb9',
+  'package' => 'modx',
+  'class' => 'modAccessPermission',
+  'signature' => 'ae9b57f1f21952a3ad5a82d0f49ce30f',
+  'native_key' => 255,
+  'object' => '{"id":255,"template":8,"name":"edit_context","description":"perm.edit_context_desc","value":1}',
+);

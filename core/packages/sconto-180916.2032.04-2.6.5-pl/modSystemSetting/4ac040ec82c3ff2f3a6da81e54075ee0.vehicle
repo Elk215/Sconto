@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '405c67658f0cf3846eb885d762f86935',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => '4ac040ec82c3ff2f3a6da81e54075ee0',
+  'native_key' => 'ace.soft_tabs',
+  'object' => '{"key":"ace.soft_tabs","value":"1","xtype":"combo-boolean","namespace":"ace","area":"general","editedon":null}',
+);

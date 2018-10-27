@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'e9e3ac332bf0a24cc7737c278fc82be9',
+  'package' => 'modx',
+  'class' => 'modTemplateVar',
+  'signature' => '159c5182b0cbd75fa61575ab58a11fb2',
+  'native_key' => 8,
+  'object' => '{"id":8,"source":1,"property_preprocess":0,"type":"text","name":"testimonialsText","caption":"testimonialsText","description":"","editor_type":0,"category":19,"locked":0,"elements":"","rank":0,"display":"default","default_text":"","properties":"a:0:{}","input_properties":"a:5:{s:10:\\"allowBlank\\";s:4:\\"true\\";s:9:\\"minLength\\";s:0:\\"\\";s:9:\\"maxLength\\";s:0:\\"\\";s:5:\\"regex\\";s:0:\\"\\";s:9:\\"regexText\\";s:0:\\"\\";}","output_properties":"a:0:{}","static":0,"static_file":"","content":""}',
+);

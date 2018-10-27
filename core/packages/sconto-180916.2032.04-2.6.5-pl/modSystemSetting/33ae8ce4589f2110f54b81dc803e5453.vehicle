@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '47574be878d9ae7d495bf8478c2d57fe',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => '33ae8ce4589f2110f54b81dc803e5453',
+  'native_key' => 'mse2_index_all',
+  'object' => '{"key":"mse2_index_all","value":"","xtype":"combo-boolean","namespace":"msearch2","area":"mse2_index","editedon":null}',
+);

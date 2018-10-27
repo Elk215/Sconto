@@ -1,0 +1,16 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '2af108c91e0197ac26cfe08e3f3d19f7',
+  'package' => 'modx',
+  'class' => 'modPluginEvent',
+  'signature' => 'f7dd83a0545640a0ced381f42da0ad8e',
+  'native_key' => 
+  array (
+    0 => 6,
+    1 => 'OnResourceBeforeSort',
+  ),
+  'object' => '{"pluginid":6,"event":"OnResourceBeforeSort","priority":0,"propertyset":0}',
+);

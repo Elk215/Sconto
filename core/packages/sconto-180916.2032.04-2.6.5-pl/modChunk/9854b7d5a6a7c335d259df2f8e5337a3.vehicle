@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'bc02caa10da9c33d572699c65294fe45',
+  'package' => 'modx',
+  'class' => 'modChunk',
+  'signature' => '9854b7d5a6a7c335d259df2f8e5337a3',
+  'native_key' => 40,
+  'object' => '{"id":40,"source":1,"property_preprocess":0,"name":"custom.mFilter2.filter.slider","description":"","editor_type":0,"category":23,"cache_type":0,"snippet":"<fieldset id=\\"mse2_[[+table]][[+delimeter]][[+filter]]\\" class=\\"widget\\">\\n    <h3 class=\\"widget-title\\">[[%mse2_filter_[[+table]]_[[+filter]]]]<\\/h3>\\n    <div class=\\"widget-body\\">\\n        <div id=\\"filter-range-details\\" class=\\"row mse2_number_inputs\\">\\n            [[+rows]]\\n        <\\/div>\\n        <div class=\\"mse2_number_slider\\"><\\/div>\\n    <\\/div>\\n<\\/fieldset>","locked":0,"properties":"a:0:{}","static":0,"static_file":"","content":"<fieldset id=\\"mse2_[[+table]][[+delimeter]][[+filter]]\\" class=\\"widget\\">\\n    <h3 class=\\"widget-title\\">[[%mse2_filter_[[+table]]_[[+filter]]]]<\\/h3>\\n    <div class=\\"widget-body\\">\\n        <div id=\\"filter-range-details\\" class=\\"row mse2_number_inputs\\">\\n            [[+rows]]\\n        <\\/div>\\n        <div class=\\"mse2_number_slider\\"><\\/div>\\n    <\\/div>\\n<\\/fieldset>"}',
+);

@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'f9bdb55d2d7d064fc22291f2249f37af',
+  'package' => 'modx',
+  'class' => 'modAccessPermission',
+  'signature' => '35489dc9b002cd2936ce6578b3e0ef55',
+  'native_key' => 394,
+  'object' => '{"id":394,"template":9,"name":"mscategory_save","description":"mscategory_save","value":1}',
+);

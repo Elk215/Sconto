@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '762028a699adac8da37b5d6302d60dc2',
+  'package' => 'modx',
+  'class' => 'modAccessPermission',
+  'signature' => '816ca25c307cdb2c2fe7d88ed0e7ad03',
+  'native_key' => 231,
+  'object' => '{"id":231,"template":8,"name":"credits","description":"perm.credits_desc","value":1}',
+);

@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '39527534a8649ad34089389bc908b076',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => '337eb65d213a6e506de82fd8dadc31dc',
+  'native_key' => 'bannery_click',
+  'object' => '{"key":"bannery_click","value":"bannerclick","xtype":"textfield","namespace":"bannery","area":"bannery_main","editedon":null}',
+);

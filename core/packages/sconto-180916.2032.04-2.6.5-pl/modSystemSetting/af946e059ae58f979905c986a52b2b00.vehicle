@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '3e8ac66489bc79854f3b14925a9a3530',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => 'af946e059ae58f979905c986a52b2b00',
+  'native_key' => 'ms2_date_format',
+  'object' => '{"key":"ms2_date_format","value":"%d.%m.%y <span class=\\"gray\\">%H:%M<\\/span>","xtype":"textfield","namespace":"minishop2","area":"ms2_order","editedon":null}',
+);

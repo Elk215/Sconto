@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '7f31447dd689e69bf32038d9c5434bd7',
+  'package' => 'modx',
+  'class' => 'modAction',
+  'signature' => 'c52e82409b6c51903d160ae60f3ea9a1',
+  'native_key' => 1,
+  'object' => '{"id":1,"namespace":"console","controller":"console","haslayout":1,"lang_topics":"console:default","assets":"","help_url":""}',
+);

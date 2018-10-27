@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '358c860417b0887d52553bf0c8b97e03',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => 'ee0c6ed7cf3d4cade59e0bf5ee01a4f6',
+  'native_key' => 'ms2_product_tab_links',
+  'object' => '{"key":"ms2_product_tab_links","value":"1","xtype":"combo-boolean","namespace":"minishop2","area":"ms2_product","editedon":null}',
+);

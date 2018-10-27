@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '3e760f7ba88b80b43bc7d25e26b2ef43',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => 'f9528186895953f3caeb96e19e956b87',
+  'native_key' => 'collections.tree_tbar_selection',
+  'object' => '{"key":"collections.tree_tbar_selection","value":"0","xtype":"combo-boolean","namespace":"collections","area":"manager","editedon":null}',
+);

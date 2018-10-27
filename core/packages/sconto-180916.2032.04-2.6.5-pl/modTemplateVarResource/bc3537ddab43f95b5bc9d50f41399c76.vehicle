@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '74357be15807470feb995f2465df5c80',
+  'package' => 'modx',
+  'class' => 'modTemplateVarResource',
+  'signature' => 'bc3537ddab43f95b5bc9d50f41399c76',
+  'native_key' => 14,
+  'object' => '{"id":14,"tmplvarid":17,"contentid":8,"value":"[{\\"MIGX_id\\":\\"1\\",\\"categorySliderTitle\\":\\"Laptops &amp; Tablets\\",\\"categorySliderTitle2\\":\\"Create Your<br>Signature Work\\",\\"categorySliderText\\":\\"The ultra-powerful, ultra-slim notebook takes performance and<br>design to a whole new level.\\",\\"categorySliderButtonLink\\":\\"\\",\\"categorySliderImage\\":\\"assets\\\\\\/sconto\\\\\\/assets\\\\\\/images\\\\\\/banners\\\\\\/category\\\\\\/banner1.jpg\\"},{\\"MIGX_id\\":\\"2\\",\\"categorySliderTitle\\":\\"Laptops &amp; Tablets\\",\\"categorySliderTitle2\\":\\"Create Your<br>Signature Work\\",\\"categorySliderText\\":\\"The ultra-powerful, ultra-slim notebook takes performance and<br>design to a whole new level.\\",\\"categorySliderButtonLink\\":\\"\\",\\"categorySliderImage\\":\\"assets\\\\\\/sconto\\\\\\/assets\\\\\\/images\\\\\\/banners\\\\\\/category\\\\\\/banner2.jpg\\"},{\\"MIGX_id\\":\\"3\\",\\"categorySliderTitle\\":\\"Laptops &amp; Tablets\\",\\"categorySliderTitle2\\":\\"Create Your<br>Signature Work\\",\\"categorySliderText\\":\\"The ultra-powerful, ultra-slim notebook takes performance and<br>design to a whole new level.\\",\\"categorySliderButtonLink\\":\\"\\",\\"categorySliderImage\\":\\"assets\\\\\\/sconto\\\\\\/assets\\\\\\/images\\\\\\/banners\\\\\\/category\\\\\\/banner3.jpg\\"}]"}',
+);

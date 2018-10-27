@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '4a9ed6d387a53a81cd8f8e1c6ec4d56d',
+  'package' => 'modx',
+  'class' => 'modAccessPermission',
+  'signature' => 'd6cd347c088b8c697f60dbe749e67fe2',
+  'native_key' => 277,
+  'object' => '{"id":277,"template":8,"name":"file_unpack","description":"perm.file_unpack_desc","value":1}',
+);

@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'd398fdc701ec55bafa5c34743c8b117e',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => 'a79d8c568ce559ce60da00d33c03a4d4',
+  'native_key' => 'collections.user_js',
+  'object' => '{"key":"collections.user_js","value":"","xtype":"textfield","namespace":"collections","area":"manager","editedon":null}',
+);

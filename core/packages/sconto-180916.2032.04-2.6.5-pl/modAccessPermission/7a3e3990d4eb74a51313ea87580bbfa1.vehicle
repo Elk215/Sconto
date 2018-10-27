@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '046fbf2f7fdb084cf2eaa1b9885b7906',
+  'package' => 'modx',
+  'class' => 'modAccessPermission',
+  'signature' => '7a3e3990d4eb74a51313ea87580bbfa1',
+  'native_key' => 342,
+  'object' => '{"id":342,"template":8,"name":"resource_tree","description":"perm.resource_tree_desc","value":1}',
+);

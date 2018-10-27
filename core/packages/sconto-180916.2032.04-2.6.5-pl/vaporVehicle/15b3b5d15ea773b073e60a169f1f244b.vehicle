@@ -1,0 +1,31 @@
+<?php return array (
+  'class' => 'vaporVehicle',
+  'object' => 
+  array (
+    'tableName' => 'localizator_languages',
+    'drop' => 'DROP TABLE IF EXISTS `[[++table_prefix]]localizator_languages`',
+    'table' => 'CREATE TABLE `[[++table_prefix]]localizator_languages` (
+  `id` int(10) unsigned NOT NULL AUTO_INCREMENT,
+  `name` varchar(100) NOT NULL DEFAULT \'\',
+  `key` varchar(100) NOT NULL DEFAULT \'\',
+  `cultureKey` varchar(100) DEFAULT \'\',
+  `http_host` varchar(100) NOT NULL DEFAULT \'\',
+  `description` text,
+  `active` tinyint(1) DEFAULT \'1\',
+  PRIMARY KEY (`id`),
+  KEY `key` (`key`),
+  KEY `cultureKey` (`cultureKey`)
+) ENGINE=MyISAM AUTO_INCREMENT=3 DEFAULT CHARSET=utf8',
+    'data' => 
+    array (
+      0 => 'INSERT INTO `[[++table_prefix]]localizator_languages` (`id`, `name`, `key`, `cultureKey`, `http_host`, `description`, `active`) VALUES (\'1\', \'Russia\', \'ru\', \'ru\', \'sconto/ru\', \'\', \'1\')',
+      1 => 'INSERT INTO `[[++table_prefix]]localizator_languages` (`id`, `name`, `key`, `cultureKey`, `http_host`, `description`, `active`) VALUES (\'2\', \'Ukraine\', \'uk\', \'uk\', \'sconto/uk\', \'\', \'1\')',
+    ),
+  ),
+  'vehicle_package' => 'vapor',
+  'vehicle_class' => 'vaporVehicle',
+  'guid' => '9388e737312ce407c63c44ba911af93f',
+  'package' => '',
+  'signature' => '15b3b5d15ea773b073e60a169f1f244b',
+  'native_key' => '9388e737312ce407c63c44ba911af93f',
+);

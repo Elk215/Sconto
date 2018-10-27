@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'c82b40b8d2cb57f83f078037d836d6a6',
+  'package' => 'modx',
+  'class' => 'modAccessPermission',
+  'signature' => '5d5569c63bee871a4f822a4595092e69',
+  'native_key' => 150,
+  'object' => '{"id":150,"template":1,"name":"usergroup_delete","description":"perm.usergroup_delete_desc","value":1}',
+);

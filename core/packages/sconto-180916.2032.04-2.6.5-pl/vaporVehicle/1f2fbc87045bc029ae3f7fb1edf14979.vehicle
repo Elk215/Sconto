@@ -1,0 +1,31 @@
+<?php return array (
+  'class' => 'vaporVehicle',
+  'object' => 
+  array (
+    'tableName' => 'formit_forms',
+    'drop' => 'DROP TABLE IF EXISTS `[[++table_prefix]]formit_forms`',
+    'table' => 'CREATE TABLE `[[++table_prefix]]formit_forms` (
+  `id` int(10) unsigned NOT NULL AUTO_INCREMENT,
+  `form` varchar(255) NOT NULL DEFAULT \'\',
+  `context_key` varchar(100) NOT NULL DEFAULT \'\',
+  `values` text NOT NULL,
+  `ip` varchar(100) NOT NULL DEFAULT \'\',
+  `date` int(11) NOT NULL DEFAULT \'0\',
+  `encrypted` tinyint(1) NOT NULL DEFAULT \'0\',
+  `encryption_type` int(2) NOT NULL DEFAULT \'1\',
+  `hash` varchar(255) NOT NULL DEFAULT \'\',
+  PRIMARY KEY (`id`)
+) ENGINE=MyISAM AUTO_INCREMENT=3 DEFAULT CHARSET=utf8',
+    'data' => 
+    array (
+      0 => 'INSERT INTO `[[++table_prefix]]formit_forms` (`id`, `form`, `context_key`, `values`, `ip`, `date`, `encrypted`, `encryption_type`, `hash`) VALUES (\'1\', \'Форма подписки на новости\', \'web\', \'{\\"E-mail\\":\\"boyarushnik@ukr.net\\"}\', \'127.0.0.1\', \'1536046501\', \'0\', \'1\', \'0f0550609607d64d21f9142608204f28\')',
+      1 => 'INSERT INTO `[[++table_prefix]]formit_forms` (`id`, `form`, `context_key`, `values`, `ip`, `date`, `encrypted`, `encryption_type`, `hash`) VALUES (\'2\', \'Форма со страницы контакты\', \'web\', \'{\\"Name\\":\\"\\\\u0412\\\\u043b\\\\u0430\\\\u0434\\",\\"E-mail\\":\\"bamper25@gmail.com\\",\\"subject\\":\\"adasdasd\\"}\', \'127.0.0.1\', \'1536130204\', \'0\', \'1\', \'563e3ceba23273c7f42aacf4b00700ce\')',
+    ),
+  ),
+  'vehicle_package' => 'vapor',
+  'vehicle_class' => 'vaporVehicle',
+  'guid' => '1b9f8170d209d2cc0160faf36bd4d745',
+  'package' => '',
+  'signature' => '1f2fbc87045bc029ae3f7fb1edf14979',
+  'native_key' => '1b9f8170d209d2cc0160faf36bd4d745',
+);

@@ -1,0 +1,27 @@
+<?php return array (
+  'class' => 'vaporVehicle',
+  'object' => 
+  array (
+    'tableName' => 'user_group_settings',
+    'drop' => 'DROP TABLE IF EXISTS `[[++table_prefix]]user_group_settings`',
+    'table' => 'CREATE TABLE `[[++table_prefix]]user_group_settings` (
+  `group` int(10) unsigned NOT NULL DEFAULT \'0\',
+  `key` varchar(50) NOT NULL,
+  `value` text,
+  `xtype` varchar(75) NOT NULL DEFAULT \'textfield\',
+  `namespace` varchar(40) NOT NULL DEFAULT \'core\',
+  `area` varchar(191) NOT NULL DEFAULT \'\',
+  `editedon` timestamp NULL DEFAULT NULL ON UPDATE CURRENT_TIMESTAMP,
+  PRIMARY KEY (`group`,`key`)
+) ENGINE=MyISAM DEFAULT CHARSET=utf8',
+    'data' => 
+    array (
+    ),
+  ),
+  'vehicle_package' => 'vapor',
+  'vehicle_class' => 'vaporVehicle',
+  'guid' => 'b5347773431641fd6eeacbf93474d62c',
+  'package' => '',
+  'signature' => 'f5cad8b8df9c1414b8d37e27d4228b45',
+  'native_key' => 'b5347773431641fd6eeacbf93474d62c',
+);

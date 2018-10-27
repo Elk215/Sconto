@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '0c6fd9a5b119f1135052794d7d2962d4',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => 'd1dd62807b25dc960fd336b1349bbeed',
+  'native_key' => 'frontendmanager_frontend_tpl',
+  'object' => '{"key":"frontendmanager_frontend_tpl","value":"tpl.frontendmanager","xtype":"textfield","namespace":"frontendmanager","area":"frontendmanager_frontend","editedon":null}',
+);

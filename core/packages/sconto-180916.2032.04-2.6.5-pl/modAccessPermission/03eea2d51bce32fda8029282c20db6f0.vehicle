@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'eafdba92932ea576c42185a6521feea9',
+  'package' => 'modx',
+  'class' => 'modAccessPermission',
+  'signature' => '03eea2d51bce32fda8029282c20db6f0',
+  'native_key' => 252,
+  'object' => '{"id":252,"template":8,"name":"directory_update","description":"perm.directory_update_desc","value":1}',
+);

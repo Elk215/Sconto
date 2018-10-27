@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'd816aafa57155507535c2ddd3a2ddda1',
+  'package' => 'minishop2',
+  'class' => 'msCategory',
+  'signature' => 'e96410d3fece5ab0a8adc4f416a6d1d4',
+  'native_key' => 10,
+  'object' => '{"id":10,"type":"document","contentType":"text\\/html","pagetitle":"TV","longtitle":"","description":"","alias":"tv","link_attributes":"","published":1,"pub_date":0,"unpub_date":0,"parent":8,"isfolder":1,"introtext":"","content":"","richtext":1,"template":6,"menuindex":1,"searchable":1,"cacheable":1,"createdby":1,"createdon":1536165607,"editedby":1,"editedon":1536598892,"deleted":0,"deletedon":0,"deletedby":0,"publishedon":1536165600,"publishedby":1,"menutitle":"","donthit":0,"privateweb":0,"privatemgr":0,"content_dispo":0,"hidemenu":0,"class_key":"msCategory","context_key":"web","content_type":1,"uri":"catalog\\/tv","uri_override":0,"hide_children_in_tree":0,"show_in_tree":1,"properties":null}',
+);

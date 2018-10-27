@@ -1,0 +1,34 @@
+<?php return array (
+  'class' => 'vaporVehicle',
+  'object' => 
+  array (
+    'tableName' => 'ms2_vendors',
+    'drop' => 'DROP TABLE IF EXISTS `[[++table_prefix]]ms2_vendors`',
+    'table' => 'CREATE TABLE `[[++table_prefix]]ms2_vendors` (
+  `id` int(10) unsigned NOT NULL AUTO_INCREMENT,
+  `name` varchar(100) NOT NULL,
+  `resource` int(10) unsigned DEFAULT \'0\',
+  `country` varchar(100) DEFAULT NULL,
+  `logo` varchar(255) DEFAULT NULL,
+  `address` text,
+  `phone` varchar(20) DEFAULT NULL,
+  `fax` varchar(20) DEFAULT NULL,
+  `email` varchar(255) DEFAULT NULL,
+  `description` text,
+  `properties` text,
+  PRIMARY KEY (`id`)
+) ENGINE=MyISAM AUTO_INCREMENT=4 DEFAULT CHARSET=utf8',
+    'data' => 
+    array (
+      0 => 'INSERT INTO `[[++table_prefix]]ms2_vendors` (`id`, `name`, `resource`, `country`, `logo`, `address`, `phone`, `fax`, `email`, `description`, `properties`) VALUES (\'1\', \'Toshiba\', \'0\', \'China\', \'\', \'\', \'\', \'\', \'\', \'\', NULL)',
+      1 => 'INSERT INTO `[[++table_prefix]]ms2_vendors` (`id`, `name`, `resource`, `country`, `logo`, `address`, `phone`, `fax`, `email`, `description`, `properties`) VALUES (\'2\', \'Huawei\', \'0\', \'China\', \'\', \'\', \'\', \'\', \'\', \'\', NULL)',
+      2 => 'INSERT INTO `[[++table_prefix]]ms2_vendors` (`id`, `name`, `resource`, `country`, `logo`, `address`, `phone`, `fax`, `email`, `description`, `properties`) VALUES (\'3\', \'Lenovo\', \'0\', \'China\', \'\', \'\', \'\', \'\', \'\', \'\', NULL)',
+    ),
+  ),
+  'vehicle_package' => 'vapor',
+  'vehicle_class' => 'vaporVehicle',
+  'guid' => 'd8f909feea047bd2d1953c94d65e5565',
+  'package' => '',
+  'signature' => '25163caa0c75bcb05c65fe2245c5a091',
+  'native_key' => 'd8f909feea047bd2d1953c94d65e5565',
+);

@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '987a7d0b58cd63f94661ab26b0c6450c',
+  'package' => 'modx',
+  'class' => 'modTemplateVar',
+  'signature' => '2ee89b56e7843f2044cc96ac6278b3af',
+  'native_key' => 10,
+  'object' => '{"id":10,"source":1,"property_preprocess":0,"type":"migx","name":"team","caption":"Team","description":"","editor_type":0,"category":18,"locked":0,"elements":"","rank":0,"display":"default","default_text":"","properties":"a:0:{}","input_properties":"a:7:{s:7:\\"configs\\";s:0:\\"\\";s:8:\\"formtabs\\";s:522:\\"[\\n{\\"caption\\":\\"\\", \\"fields\\": [\\n{\\"field\\":\\"avatar\\",\\"caption\\":\\"Avatar\\",\\"inputTVtype\\":\\"image\\"},\\n{\\"field\\":\\"position\\",\\"caption\\":\\"Position\\",\\"inputTVtype\\":\\"text\\"},\\n{\\"field\\":\\"name\\",\\"caption\\":\\"Name\\",\\"inputTVtype\\":\\"text\\"},\\n{\\"field\\":\\"info\\",\\"caption\\":\\"Info\\",\\"inputTVtype\\":\\"textarea\\"}\\n]},\\n{\\"caption\\":\\"Social\\", \\"fields\\": [\\n{\\"field\\":\\"facebookLink\\",\\"caption\\":\\"Facebook link\\",\\"inputTVtype\\":\\"text\\"},\\n{\\"field\\":\\"twitterLink\\",\\"caption\\":\\"Twitter link\\",\\"inputTVtype\\":\\"text\\"},\\n{\\"field\\":\\"googleLink\\",\\"caption\\":\\"Google link\\",\\"inputTVtype\\":\\"text\\"}\\n]}\\n]\\";s:7:\\"columns\\";s:305:\\"[\\n{\\"header\\": \\"Avatar\\", \\"sortable\\": \\"true\\", \\"dataIndex\\": \\"avatar\\", \\"width\\": \\"80\\", \\"renderer\\": \\"this.renderImage\\"},\\n{\\"header\\": \\"Position\\", \\"sortable\\": \\"true\\", \\"dataIndex\\": \\"position\\"},\\n{\\"header\\": \\"Name\\", \\"sortable\\": \\"true\\", \\"dataIndex\\": \\"name\\"},\\n{\\"header\\": \\"Info\\", \\"sortable\\": \\"true\\", \\"dataIndex\\": \\"info\\"}\\n]\\";s:7:\\"btntext\\";s:0:\\"\\";s:10:\\"previewurl\\";s:0:\\"\\";s:10:\\"jsonvarkey\\";s:0:\\"\\";s:19:\\"autoResourceFolders\\";s:5:\\"false\\";}","output_properties":"a:0:{}","static":0,"static_file":"","content":""}',
+);

@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '39f1a02ce50685f44da1e8d61326a6a9',
+  'package' => 'modx',
+  'class' => 'modAccessPermission',
+  'signature' => 'fa8dda65f70fa05ec10903d043388f0f',
+  'native_key' => 64,
+  'object' => '{"id":64,"template":1,"name":"import_static","description":"perm.import_static_desc","value":1}',
+);

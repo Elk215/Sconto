@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'b4abc373dcd46a55d1c8f745354d1240',
+  'package' => 'modx',
+  'class' => 'modCategory',
+  'signature' => 'cc80810e1562b0beb17e29777838a4b0',
+  'native_key' => 20,
+  'object' => '{"id":20,"parent":0,"category":"The story","rank":0}',
+);

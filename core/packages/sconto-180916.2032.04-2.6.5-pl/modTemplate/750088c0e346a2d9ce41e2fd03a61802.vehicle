@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'dfa669e9875790dcd51f890d06297264',
+  'package' => 'modx',
+  'class' => 'modTemplate',
+  'signature' => '750088c0e346a2d9ce41e2fd03a61802',
+  'native_key' => 10,
+  'object' => '{"id":10,"source":1,"property_preprocess":0,"templatename":"Categories","description":"","editor_type":0,"category":0,"icon":"","template_type":0,"content":"{include \\"file:templates\\/categories.tpl\\"}","locked":0,"properties":"a:0:{}","static":0,"static_file":""}',
+);

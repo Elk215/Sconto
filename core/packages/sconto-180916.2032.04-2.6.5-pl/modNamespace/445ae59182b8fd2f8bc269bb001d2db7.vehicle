@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'e1b90d58382227bad44eaf8053de5867',
+  'package' => 'modx',
+  'class' => 'modNamespace',
+  'signature' => '445ae59182b8fd2f8bc269bb001d2db7',
+  'native_key' => 'ckeditor',
+  'object' => '{"name":"ckeditor","path":"{core_path}components\\/ckeditor\\/","assets_path":""}',
+);

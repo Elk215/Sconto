@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'd5ce6afc7da50e7862eedf8e5c4c0dfe',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => '88c0ac77729dbc40ee33b601f6dcb725',
+  'native_key' => 'mse2_index_comments_weight',
+  'object' => '{"key":"mse2_index_comments_weight","value":"1","xtype":"numberfield","namespace":"msearch2","area":"mse2_index","editedon":null}',
+);

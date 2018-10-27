@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '7bd01b7e94cacf1c9c2013b2d9b2def2',
+  'package' => 'modx',
+  'class' => 'modDocument',
+  'signature' => 'dbf031c1a0bc396339a6feea70e6c861',
+  'native_key' => 6,
+  'object' => '{"id":6,"type":"document","contentType":"text\\/html","pagetitle":"About us","longtitle":"","description":"","alias":"about-us","link_attributes":"","published":1,"pub_date":0,"unpub_date":0,"parent":0,"isfolder":0,"introtext":"","content":"","richtext":1,"template":3,"menuindex":5,"searchable":1,"cacheable":1,"createdby":1,"createdon":1536044244,"editedby":1,"editedon":1536160338,"deleted":0,"deletedon":0,"deletedby":0,"publishedon":1536160338,"publishedby":1,"menutitle":"","donthit":0,"privateweb":0,"privatemgr":0,"content_dispo":0,"hidemenu":0,"class_key":"modDocument","context_key":"web","content_type":1,"uri":"about-us","uri_override":0,"hide_children_in_tree":0,"show_in_tree":1,"properties":null}',
+);

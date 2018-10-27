@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '57e667cab9055f76a8cbe1b66e1ef688',
+  'package' => 'modx',
+  'class' => 'modTemplateVarResource',
+  'signature' => '19f4283c8bf80db1df881b5cdc0a975a',
+  'native_key' => 11,
+  'object' => '{"id":11,"tmplvarid":14,"contentid":6,"value":"assets\\/sconto\\/assets\\/images\\/videobg.jpg"}',
+);
